@@ -20,6 +20,7 @@ distlib==0.3.1
 docopt==0.6.2
 entrypoints==0.3
 filelock==3.0.12
+Flask==1.1.2
 gitdb==4.0.5
 GitPython==3.1.11
 idna==2.10
@@ -39,6 +40,9 @@ jupyterlab-pygments==0.1.2
 lightgbm==3.1.1
 MarkupSafe==1.1.1
 mistune==0.8.4
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
 nbclient==0.5.1
 nbconvert==6.0.7
 nbformat==5.0.8
@@ -64,19 +68,24 @@ pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 pytz==2020.4
+pywin32==300
 pywinpty==0.5.7
 pyzmq==20.0.0
 requests==2.25.0
 scikit-learn==0.23.2
 scipy==1.5.4
+Send2Trash==1.5.0
+six @ file:///C:/ci/six_1605205426665/work
 smmap==3.0.4
-streamlit==0.72.0
+streamlit==1.0.0
 terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
 toml==0.10.2
 toolz==0.11.1
 tornado==6.1
+traitlets==5.0.5
+typing-extensions==3.7.4.3
 tzlocal==2.1
 urllib3==1.26.2
 validators==0.18.1

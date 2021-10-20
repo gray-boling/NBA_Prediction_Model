@@ -66,7 +66,7 @@ driver =webdriver.Chrome('chromedriver',chrome_options=chrome_options)
 
 
 ##schedule parser + today's games dict created
-main_url_sched = 'https://www.basketball-reference.com/leagues/NBA_2021_games-april.html'
+main_url_sched = 'https://www.basketball-reference.com/leagues/NBA_2022_games.html'
 driver.get(main_url_sched)
 sleep(randint(3,8))
 info = driver.page_source
@@ -92,7 +92,10 @@ df_sched['Home_team'] = df_sched['Home_team'].map(team_name_dict_rev)
 
 not_days = ['Fri,', 'Sat,', 'Sun,', 'Mon,', 'Tue,', 'Wed,', 'Thu,']
 today = pd.to_datetime(dt.date.today())
+
+# today = pd.to_datetime('2021-10-19') #used as place marker before season begins
 df_sched['Date'] = df_sched['Date'].str.replace(r'Fri,|Sat,|Sun,|Mon,|Tue,|Wed,|Thu', '')
+
 ##see if each month nees to be numerized
 df_sched['Date'] = df_sched['Date'].str.replace(r'Jan', '01,')
 

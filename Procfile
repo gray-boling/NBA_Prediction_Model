@@ -1,1 +1,1 @@
-web: streamlit run --server.enableCORS false --server.port $PORT NBA_deliver_v2.py
+web: streamlit run --server.enableCORS false --server.port $PORT NBA-v3.py
