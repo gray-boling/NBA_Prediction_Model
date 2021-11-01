@@ -11,29 +11,30 @@ from PIL import Image
 here = os.path.dirname(os.path.abspath(__file__))
 filename = os.path.join(here, 'NBA2020_21df_fullseason_fullnames.csv')
 
-# filename2 = os.path.join(here, 'NBA2020_21df_fullseason.csv')
+filename2 = os.path.join(here, 'NBA2021_22df_fullnames.csv')
 
 model_name =  os.path.join(here, 'NBA21_436rmse_PTS_fullname.txt')
 model_name_AST =  os.path.join(here, 'NBA_AST_rmse_095_fullnames.txt')
-model_name_3pt =  os.path.join(here, 'NBA21_012rmse_3pts_fullname.txt')
+model_name_3pt =  os.path.join(here, 'NBA21_0_61rmse_3pts_fullname.txt')
 
 # image = Image.open('basketball.png')
 
-NBA2021df = pd.read_csv(filename)
+# NBA2021df = pd.read_csv(filename) #used for later season
 
-#used for later season
-# df2 = pd.read_csv(filename2)
-# dfs = [NBA2020df, df2]
-# NBA2021df = pd.concat(dfs) #change after early weeks
+#used for early season
+NBA2020df = pd.read_csv(filename)
+df2 = pd.read_csv(filename2)
+dfs = [NBA2020df, df2]
+NBA2021df = pd.concat(dfs) #change after early weeks
 
 
-true_cols = ['dup', 'Rk', 'Num_Game', 'Date', 'Age', 'Tm', 'Home', 	'Opp', 'Result',  'GS',	'Mins',	'FG',	'FGA',	'FGPct',	'3P',	'3PA',	'3PPct',
-             'FT',	'FTA',	'FTPct', 'ORB', 'DRB',	'TotRBs', 'AST', 'STL',	'BLK',	'TOV',	'PFouls',	'PTS',	'GmSc',	'+/-', 'Player']
+true_cols = ['dup', 'Rk', 'Num_Game', 'Date', 'Age', 'Tm', 'Home', 	'Opp', 'Result',  'GS',	'Mins', 'FG',	'FGA',	'FGPct', '3P',	'3PA',	'3PPct',
+             'FT',	'FTA',	'FTPct', 'ORB', 'DRB',	'TotRBs', 'AST', 'STL', 'BLK', 'TOV', 'PFouls', 'PTS',	'GmSc', '+/-', 'Player']
 NBA2021df.columns = true_cols
 
-today = pd.to_datetime('2021-05-16') #used as place marker before season begins
-# today = pd.to_datetime(dt.date.today())
-start_date =  today - dt.timedelta(weeks=4)
+# today = pd.to_datetime('2021-05-16') #used as place marker before season begins
+today = pd.to_datetime(dt.date.today())
+start_date =  today - dt.timedelta(weeks=28) #change to include desired timeline for avg
 
 # to_drop = ['dup', 'Age', 'Result'] old drops
 # NBA2021df.drop(to_drop, axis=1, inplace=True)
@@ -41,6 +42,8 @@ start_date =  today - dt.timedelta(weeks=4)
 
 to_fillna = ['Num_Game', 'FGPct', '3PPct', 'FTPct', 'TOV', 'PFouls', 'PTS', 'Player', 'GmSc'] #new fills
 NBA2021df[to_fillna] = NBA2021df[to_fillna].fillna(0)
+
+player_dict = dict(zip(NBA2021df.Player, NBA2021df.Tm)) #make player to team dict
 
 NBA2021df = NBA2021df[~NBA2021df.Tm.str.contains('Tm')]
 NBA2021df = NBA2021df[~NBA2021df.GS.str.contains('Inactive')]
@@ -66,7 +69,7 @@ X_val[stats_cols] = X_val[stats_cols].apply(pd.to_numeric)
 NBA2021df.set_index('Player', inplace=True)
 NBA2021df.reset_index(inplace=True)
 
-player_dict = dict(zip(NBA2021df.Player, NBA2021df.Tm))
+# player_dict = dict(zip(NBA2021df.Player, NBA2021df.Tm))
 
 
 file = open("games_dict_home.txt", "r")
@@ -81,7 +84,7 @@ file.close()
 
 
 X_val = X_val.dropna(subset=['Player'])
-X_val = X_val[~X_val.Player.str.contains('https://www.basketball-reference.com/contracts')]
+X_val = X_val[X_val.Player.str.contains('https://www.basketball-reference.com/contracts') == False]
 # X_val[stats_cols] = X_val[stats_cols].apply(pd.to_numeric)
 X_val = X_val.groupby('Player').agg([np.average]).round(0)
 X_val = X_val.reset_index()
@@ -110,18 +113,19 @@ today_df = today_df[order_cols]
 today_df.set_index('Player', inplace=True)
 today_df.reset_index(inplace=True)
 
-today_df = today_df[(today_df.Mins > 8) & (today_df['PTS'] > 5)].copy()
+today_df = today_df[(today_df.Mins > 17) & (today_df['PTS'] > 7)].copy()
 # today_df.drop('Date', axis=1, inplace=True)
 
 
 today_df = today_df[~today_df.Player.str.contains('p/pettibo01|a/abdulka01|i/iversal01|k/kiddja01|s/stockjo01|w/westje01|o/olajuha01|h/hayesel01|d/duncati01|c/cousybo01|Page Not')]
 today_df = today_df[~today_df.Player.str.contains('b/birdla01|b/bryanko01|n/nowitdi01|r/russebi01|m/malonka01|r/robinda01|s/schaydo01|t/thomais01|a/arizipa01|b/bayloel01')]
 today_df = today_df[~today_df.Player.str.contains('o/onealsh01|w/wadedw01|r/roberos01|j/johnsma02|g/garneke01|m/malonmo01|j/jordami01|b/barklch01|c/chambwi01|h/havlijo01')]
-
+today_df = today_df[~today_df.Player.str.contains('Hakeem Olajuwon|John Stockton|Wilt Chamberlain|Elvin Hayes|Dolph Schayes|John Havlicek|j/jordami01|b/barklch01|c/chambwi01|h/havlijo01')]
 
 to_drop_PTS = ['Result', 'BLK', '+/-', 'PTS', 'Home'] #new drops .44rmse_PTS_fullnames
 to_drop_AST = ['Result', 'DRB', 'Num_Game', 'AST', 'Home']
-to_drop_3pt = ['Result', 'BLK', 'ORB', 'Num_Game', '3P']
+# to_drop_3pt = ['Result', 'BLK', 'ORB', 'Num_Game', '3P'] old drops
+to_drop_3pt = ['Result', 'BLK', 'ORB', 'Num_Game', 'Home', '3PPct', '3PA', '3P']
 
 NBA_regmodel = lgb.Booster(model_file=model_name)
 NBA_regmodel_AST = lgb.Booster(model_file=model_name_AST)
@@ -156,7 +160,7 @@ y_3p = today_df['3P'].copy()
 #model inference
 preds_today = NBA_regmodel.predict(X_today, categorical_feature=['Tm', 'Opp', 'Player']).round(0)
 AST_preds_today = NBA_regmodel_AST.predict(X_ast, categorical_feature=['Tm', 'Opp', 'Player']).round(0)
-three_preds_today = NBA_3pt_classmod.predict(X_3pt, categorical_feature=['Tm', 'Opp', 'Player']).round(0)
+three_preds_today = NBA_3pt_classmod.predict(X_3pt, categorical_feature=['Tm', 'Opp', 'Player']).round()
 
 #dataframe with predictions per player
 players_today = pd.DataFrame()
@@ -242,7 +246,7 @@ st.text("")
 user_input_team = st.text_input("Enter team name abbreviation (from sidebar dropdown) for per team, per player breakdown")
 
 if user_input_team:
-	per_team = pd.DataFrame(players_today[players_today['Tm'].str.contains(str(user_input_team))])
+	per_team = pd.DataFrame(players_today[players_today['Tm'].str.contains(str(user_input_team.upper()))])
 	st.write(per_team.astype('object'))
 
 #team abbrev info sidebar
