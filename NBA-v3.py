@@ -25,7 +25,8 @@ model_name_3pt =  os.path.join(here, 'NBA21_0_61rmse_3pts_fullname.txt')
 NBA2020df = pd.read_csv(filename)
 df2 = pd.read_csv(filename2)
 dfs = [NBA2020df, df2]
-NBA2021df = pd.concat(dfs) #change after early weeks
+# NBA2021df = pd.concat(dfs) #change after early weeks
+NBA2021df = df2.copy() #changed
 
 
 true_cols = ['dup', 'Rk', 'Num_Game', 'Date', 'Age', 'Tm', 'Home', 	'Opp', 'Result',  'GS',	'Mins', 'FG',	'FGA',	'FGPct', '3P',	'3PA',	'3PPct',
@@ -34,7 +35,7 @@ NBA2021df.columns = true_cols
 
 # today = pd.to_datetime('2021-05-16') #used as place marker before season begins
 today = pd.to_datetime(dt.date.today())
-start_date =  today - dt.timedelta(weeks=28) #change to include desired timeline for avg
+start_date =  today - dt.timedelta(weeks=2) #change to include desired timeline for avg
 
 # to_drop = ['dup', 'Age', 'Result'] old drops
 # NBA2021df.drop(to_drop, axis=1, inplace=True)
@@ -113,7 +114,7 @@ today_df = today_df[order_cols]
 today_df.set_index('Player', inplace=True)
 today_df.reset_index(inplace=True)
 
-today_df = today_df[(today_df.Mins > 17) & (today_df['PTS'] > 7)].copy()
+today_df = today_df[(today_df.Mins > 12) & (today_df['PTS'] > 5)].copy() #adjust mins as needed
 # today_df.drop('Date', axis=1, inplace=True)
 
 
