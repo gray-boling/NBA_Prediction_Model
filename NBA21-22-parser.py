@@ -99,11 +99,18 @@ df_sched = df_sched[df_sched['Date'] == today].copy()
 games_dict_home = dict(zip(df_sched.Home_team, df_sched.Visitor))
 games_dict_visit = dict(zip(df_sched.Visitor, df_sched.Home_team))
 
-f = open("games_dict_home.txt","w")
-f.write( str(games_dict_home) )
+save_path = 'D:/Documents/ML_DOCS/ML Project Files/NBA_prjct_v1/'
+file_name = "games_dict_home.txt"
+file_name_2 = "games_dict_visit.txt"
+completeName1 = os.path.join(save_path, file_name)
+completeName2 = os.path.join(save_path, file_name_2)
 
-f = open("games_dict_visit.txt","w")
-f.write( str(games_dict_visit) )
+f1 = open("games_dict_home.txt","w")
+f1.write( str(games_dict_home) )
 
-f.close()
+f2 = open("games_dict_visit.txt","w")
+f2.write( str(games_dict_visit) )
+
+f1.close()
+f2.close()
 driver.close()
