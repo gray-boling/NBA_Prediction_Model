@@ -56,7 +56,7 @@ for l in new_set:
     table.append(df)
 
 NBAdf2021 = pd.concat(table)
-NBAdf2021.to_csv('NBA2021_22df_fullnames.csv')
+NBAdf2021.to_csv('D:/Documents/ML_DOCS/ML Project Files/NBA_prjct_v1/NBA2021_22df_fullnames.csv')
 
 
 ##schedule parser + today's games dict created
@@ -105,10 +105,10 @@ file_name_2 = "games_dict_visit.txt"
 completeName1 = os.path.join(save_path, file_name)
 completeName2 = os.path.join(save_path, file_name_2)
 
-f1 = open("games_dict_home.txt","w")
+f1 = open(completeName1,"w")
 f1.write( str(games_dict_home) )
 
-f2 = open("games_dict_visit.txt","w")
+f2 = open(completeName2,"w")
 f2.write( str(games_dict_visit) )
 
 f1.close()
