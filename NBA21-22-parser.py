@@ -16,48 +16,48 @@ chrome_options.add_argument('--disable-dev-shm-usage')
 chrome_options.add_argument("--disable-gpu")
 driver =webdriver.Chrome('chromedriver',chrome_options=chrome_options)
 
-# main_url = 'https://www.basketball-reference.com/leagues/NBA_2022_per_game.html' #change year
+main_url = 'https://www.basketball-reference.com/leagues/NBA_2022_per_game.html' #change year
 
-# links = []
-# driver.get(main_url) 
-# sleep(randint(3,10))
-# elems = driver.find_elements_by_tag_name('a')
-# for elem in elems:
-#   href = elem.get_attribute('href')
-#   if href is not None:
-#     links.append(href)
+links = []
+driver.get(main_url) 
+sleep(randint(3,10))
+elems = driver.find_elements_by_tag_name('a')
+for elem in elems:
+  href = elem.get_attribute('href')
+  if href is not None:
+    links.append(href)
 
-# player_links = []
-# for i in links:
-#   string = 'player'
-#   if string in i:
-#     player_links.append(i) 
+player_links = []
+for i in links:
+  string = 'player'
+  if string in i:
+    player_links.append(i) 
 
-# no_go = ['/players,','/players/injuries.htm','/players/salary.htm', '/players/uniform.cgi','https://www.basketball-reference.com/contracts/players','https://www.basketball-reference.com/gleague/players/',
-#          'https://www.basketball-reference.com/international/players/','https://www.basketball-reference.com/nbl/players/','https://www.basketball-reference.com/wnba/players/', 'https://www.basketball-reference.com/contracts/players']
-# list1 = [ele for ele in player_links if ele not in no_go] 
+no_go = ['/players,','/players/injuries.htm','/players/salary.htm', '/players/uniform.cgi','https://www.basketball-reference.com/contracts/players','https://www.basketball-reference.com/gleague/players/',
+         'https://www.basketball-reference.com/international/players/','https://www.basketball-reference.com/nbl/players/','https://www.basketball-reference.com/wnba/players/', 'https://www.basketball-reference.com/contracts/players']
+list1 = [ele for ele in player_links if ele not in no_go] 
 
-# new_set =[x.replace('https://www.basketball-reference.com/players/', '').replace('.html', '') for x in list1[1:]]
+new_set =[x.replace('https://www.basketball-reference.com/players/', '').replace('.html', '') for x in list1[1:]]
 
-# table = []
-# for l in new_set:
-#     sleep(randint(3,7))
-#     main_url2 = 'https://www.basketball-reference.com/players/'
-#     driver.get(main_url2+str(l)+'/gamelog/2022') #change year
-#     info = driver.page_source
-#     try:
-#       soup = pd.read_html(info)
-#     except:
-#       pass
-#     df = soup[7:8]
-#     df = pd.concat(df) #don't concat
-#     name = driver.find_element_by_tag_name("h1").text #finds name
-#     name = name[0:-17] #display name only
-#     df['Player'] =  str(name)
-#     table.append(df)
+table = []
+for l in new_set:
+    sleep(randint(3,7))
+    main_url2 = 'https://www.basketball-reference.com/players/'
+    driver.get(main_url2+str(l)+'/gamelog/2022') #change year
+    info = driver.page_source
+    try:
+      soup = pd.read_html(info)
+    except:
+      pass
+    df = soup[7:8]
+    df = pd.concat(df) #don't concat
+    name = driver.find_element_by_tag_name("h1").text #finds name
+    name = name[0:-17] #display name only
+    df['Player'] =  str(name)
+    table.append(df)
 
-# NBAdf2021 = pd.concat(table)
-# NBAdf2021.to_csv('D:/Documents/ML_DOCS/ML Project Files/NBA_prjct_v1/NBA2021_22df_fullnames.csv')
+NBAdf2021 = pd.concat(table)
+NBAdf2021.to_csv('D:/Documents/ML_DOCS/ML Project Files/NBA_prjct_v1/NBA2021_22df_fullnames.csv')
 
 
 ##schedule parser + today's games dict created
