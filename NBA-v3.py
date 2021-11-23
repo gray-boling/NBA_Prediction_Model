@@ -48,7 +48,7 @@ player_dict = dict(zip(NBA2021df.Player, NBA2021df.Tm)) #make player to team dic
 
 NBA2021df = NBA2021df[~NBA2021df.Tm.str.contains('Tm')]
 NBA2021df = NBA2021df[~NBA2021df.GS.str.contains('Inactive')]
-NBA2021df = NBA2021df[~NBA2021df.GS.str.contains('Not')]
+NBA2021df = NBA2021df[~NBA2021df.GS.str.contains('Not|Player Suspended')]
 
 Wlist = ['W'] #prepare Result col for inference
 NBA2021df['Result'] = NBA2021df['Result'].apply(lambda x: 1 if x[0] in Wlist else 0)
