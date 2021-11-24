@@ -68,6 +68,7 @@
 14,15,12.0,2021-11-17,32-064,MIA,,NOP,W (+15),1,36:34,10,18,.556,1,2,.500,10,12,.833,2,8,10,10,0,1,3,1,31,29.7,+9,Jimmy Butler
 15,16,13.0,2021-11-18,32-065,MIA,,WAS,W (+15),1,34:12,11,19,.579,0,1,.000,10,10,1.000,1,2,3,5,4,0,1,0,32,30.9,+11,Jimmy Butler
 16,17,14.0,2021-11-20,32-067,MIA,@,WAS,L (-3),1,38:28,11,19,.579,0,2,.000,7,9,.778,0,5,5,4,2,0,1,1,29,24.2,+1,Jimmy Butler
+17,18,15.0,2021-11-23,32-070,MIA,@,DET,W (+8),1,34:46,4,13,.308,0,1,.000,7,9,.778,4,5,9,5,1,0,3,2,15,11.7,-7,Jimmy Butler
 0,1,1.0,2021-10-20,22-031,TOR,,WAS,L (-15),1,18:30,3,8,.375,0,0,,0,2,.000,3,4,7,2,1,0,1,4,6,3.9,-6,Precious Achiuwa
 1,2,2.0,2021-10-22,22-033,TOR,@,BOS,W (+32),1,24:50,6,13,.462,1,2,.500,2,2,1.000,3,12,15,0,1,0,0,0,15,15.0,+16,Precious Achiuwa
 2,3,3.0,2021-10-23,22-034,TOR,,DAL,L (-8),1,33:21,4,9,.444,0,1,.000,2,3,.667,3,9,12,3,0,0,1,3,10,9.6,+3,Precious Achiuwa
@@ -120,6 +121,7 @@
 14,15,,2021-11-17,24-122,MIA,,NOP,W (+15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Bam Adebayo
 15,16,13.0,2021-11-18,24-123,MIA,,WAS,W (+15),1,30:09,9,16,.563,0,0,,2,2,1.000,4,5,9,2,0,0,2,4,20,14.5,+16,Bam Adebayo
 16,17,14.0,2021-11-20,24-125,MIA,@,WAS,L (-3),1,29:26,5,12,.417,0,1,.000,5,6,.833,4,2,6,3,0,0,3,5,15,8.7,-6,Bam Adebayo
+17,18,15.0,2021-11-23,24-128,MIA,@,DET,W (+8),1,30:59,6,10,.600,0,0,,3,6,.500,3,6,9,5,1,0,2,2,15,14.8,-6,Bam Adebayo
 0,1,,2021-10-20,20-283,MEM,,CLE,W (+11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Santi Aldama
 1,2,,2021-10-23,20-286,MEM,@,LAC,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Santi Aldama
 2,3,,2021-10-24,20-287,MEM,@,LAL,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Santi Aldama
@@ -300,6 +302,7 @@
 15,16,16.0,2021-11-17,37-172,LAL,@,MIL,L (-7),1,31:38,4,10,0.4,2,8,0.25,0,0,,0,6,6,1,1,0,2,2,10,5.3,1,Carmelo Anthony
 16,17,17.0,2021-11-19,37-174,LAL,@,BOS,L (-22),0,25:44,3,6,0.5,3,4,0.75,4,4,1.0,2,2,4,0,0,1,1,5,13,9.7,-16,Carmelo Anthony
 17,18,18.0,2021-11-21,37-176,LAL,@,DET,W (+5),0,29:53,5,8,0.625,5,8,0.625,3,3,1.0,1,1,2,0,0,2,1,2,18,15.0,13,Carmelo Anthony
+18,19,19.0,2021-11-23,37-178,LAL,@,NYK,L (-6),0,27:34,3,14,0.214,2,8,0.25,4,5,0.8,1,2,3,0,0,0,0,5,12,2.3,-9,Carmelo Anthony
 0,1,1.0,2021-10-20,21-158,ORL,@,SAS,L (-26),1,30:02,3,12,.250,1,7,.143,3,4,.750,1,4,5,4,0,0,3,3,10,2.9,-3,Cole Anthony
 1,2,2.0,2021-10-22,21-160,ORL,,NYK,L (-25),1,31:36,3,14,.214,2,7,.286,2,2,1.000,0,2,2,6,1,0,4,3,10,2.0,-20,Cole Anthony
 2,3,3.0,2021-10-24,21-162,ORL,@,NYK,W (+6),1,34:45,9,16,.563,5,9,.556,6,7,.857,1,15,16,8,1,0,1,5,29,29.8,+5,Cole Anthony
@@ -456,7 +459,7 @@
 14,15,15.0,2021-11-14,20-084,CHO,,GSW,W (+4),1,37:32,8,17,0.471,4,8,0.5,1,1,1.0,0,7,7,5,3,0,4,5,21,14.9,13,LaMelo Ball
 15,16,16.0,2021-11-17,20-087,CHO,,WAS,W (+10),1,35:54,4,18,0.222,2,7,0.286,1,1,1.0,2,4,6,14,2,0,5,3,11,8.2,19,LaMelo Ball
 16,17,17.0,2021-11-19,20-089,CHO,,IND,W (+3),1,39:25,12,22,0.545,4,9,0.444,4,4,1.0,1,10,11,8,1,0,5,1,32,26.3,14,LaMelo Ball
-17,18,18.0,2021-11-20,20-090,CHO,@,ATL,L (-10),1,34:17,5,18,0.278,3,7,0.429,2,2,1.0,4,6,10,11,2,1,2,2,15,16.6,-7,LaMelo Ball
+17,18,18.0,2021-11-20,20-090,CHO,@,ATL,L (-10),1,34:17,5,18,0.278,3,7,0.429,2,2,1.0,3,6,9,11,2,1,1,2,15,16.9,-7,LaMelo Ball
 18,19,19.0,2021-11-22,20-092,CHO,@,WAS,W (+6),1,38:16,10,24,0.417,3,9,0.333,5,7,0.714,1,12,13,7,3,1,6,1,28,20.9,12,LaMelo Ball
 0,1,1.0,2021-10-20,23-358,CHI,@,DET,W (+6),1,33:22,5,12,0.417,2,6,0.333,0,0,,3,3,6,4,0,1,4,0,12,8.1,17,Lonzo Ball
 1,2,2.0,2021-10-22,23-360,CHI,,NOP,W (+16),1,35:08,6,11,0.545,3,8,0.375,2,2,1.0,2,8,10,11,3,1,0,2,17,26.1,13,Lonzo Ball
@@ -582,6 +585,7 @@
 14,15,15.0,2021-11-17,21-156,NYK,,ORL,L (-6),1,33:38,7,19,0.368,0,7,0.0,3,3,1.0,1,8,9,5,0,0,3,0,17,10.1,-2,RJ Barrett
 15,16,16.0,2021-11-20,21-159,NYK,,HOU,W (+7),1,25:25,4,13,0.308,1,5,0.2,2,2,1.0,0,1,1,2,2,0,0,1,11,6.8,-2,RJ Barrett
 16,17,17.0,2021-11-21,21-160,NYK,@,CHI,L (-6),1,33:03,2,12,0.167,0,2,0.0,5,8,0.625,1,14,15,2,1,1,1,3,9,6.0,6,RJ Barrett
+17,18,18.0,2021-11-23,21-162,NYK,,LAL,W (+6),1,27:22,4,8,0.5,3,5,0.6,1,2,0.5,0,7,7,3,0,0,2,3,12,8.6,0,RJ Barrett
 0,1,1.0,2021-10-20,30-287,DEN,@,PHO,W (+12),1,33:30,8,14,.571,4,8,.500,0,0,,0,6,6,5,1,0,0,2,20,18.9,+20,Will Barton
 1,2,2.0,2021-10-22,30-289,DEN,,SAS,W (+6),1,31:38,5,13,.385,2,4,.500,0,0,,1,6,7,6,0,0,0,1,12,11.2,+12,Will Barton
 2,3,3.0,2021-10-25,30-292,DEN,,CLE,L (-12),1,31:29,5,9,.556,1,4,.250,1,2,.500,1,1,2,1,2,2,2,0,12,10.4,-12,Will Barton
@@ -599,6 +603,7 @@
 14,15,13.0,2021-11-18,30-316,DEN,,PHI,L (-14),1,34:08,7,14,.500,4,6,.667,1,1,1.000,1,8,9,8,0,0,2,1,19,18.3,-3,Will Barton
 15,16,14.0,2021-11-19,30-317,DEN,,CHI,L (-6),1,33:40,9,16,.563,3,8,.375,2,3,.667,0,4,4,3,0,1,2,1,23,16.6,+4,Will Barton
 16,17,15.0,2021-11-21,30-319,DEN,@,PHO,L (-29),1,28:08,4,15,.267,0,4,.000,2,5,.400,1,4,5,2,1,0,1,2,10,2.4,-7,Will Barton
+17,18,16.0,2021-11-23,30-321,DEN,@,POR,L (-19),1,34:32,4,10,.400,3,6,.500,0,0,,2,6,8,7,0,0,4,2,11,8.9,-24,Will Barton
 0,1,1.0,2021-10-20,20-357,PHI,@,NOP,W (+20),0,2:04,1,2,.500,0,1,.000,0,0,,1,1,2,0,0,0,0,0,2,2.0,-6,Charles Bassey
 1,2,,2021-10-22,20-359,PHI,,BRK,L (-5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Charles Bassey
 2,3,,2021-10-24,20-361,PHI,@,OKC,W (+12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Charles Bassey
@@ -650,6 +655,7 @@
 14,15,,2021-11-18,32-339,LAC,@,MEM,L (-12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Nicolas Batum
 15,16,14.0,2021-11-19,32-340,LAC,@,NOP,L (-13),1,30:47,4,7,.571,2,5,.400,2,3,.667,2,1,3,0,1,0,1,2,12,9.2,-21,Nicolas Batum
 16,17,,2021-11-21,32-342,LAC,,DAL,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Nicolas Batum
+17,18,,2021-11-23,32-344,LAC,,DAL,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Nicolas Batum
 0,1,1.0,2021-10-19,32-110,LAL,,GSW,L (-7),1,30:37,3,9,.333,2,8,.250,0,0,,0,2,2,0,0,1,1,4,8,1.6,+10,Kent Bazemore
 1,2,2.0,2021-10-22,32-113,LAL,,PHO,L (-10),1,23:28,1,5,.200,1,3,.333,1,2,.500,0,2,2,1,0,0,0,3,4,0.6,-17,Kent Bazemore
 2,3,3.0,2021-10-24,32-115,LAL,,MEM,W (+3),1,28:22,3,3,1.000,2,2,1.000,3,4,.750,0,1,1,0,1,0,1,4,11,8.4,-16,Kent Bazemore
@@ -668,6 +674,7 @@
 15,16,15.0,2021-11-17,32-139,LAL,@,MIL,L (-7),0,10:52,0,5,.000,0,3,.000,0,0,,1,2,3,0,1,0,1,0,0,-2.2,-5,Kent Bazemore
 16,17,16.0,2021-11-19,32-141,LAL,@,BOS,L (-22),0,4:26,2,4,.500,0,0,,1,1,1.000,0,1,1,1,0,1,0,0,5,4.7,-2,Kent Bazemore
 17,18,,2021-11-21,32-143,LAL,@,DET,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Kent Bazemore
+18,19,,2021-11-23,32-145,LAL,@,NYK,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Kent Bazemore
 0,1,1.0,2021-10-20,21-130,OKC,@,UTA,L (-21),1,30:23,5,14,0.357,1,7,0.143,4,5,0.8,1,6,7,2,0,0,1,0,15,9.7,-19,Darius Bazley
 1,2,2.0,2021-10-22,21-132,OKC,@,HOU,L (-33),1,17:58,1,7,0.143,0,2,0.0,3,5,0.6,0,6,6,2,1,1,1,1,5,3.2,-27,Darius Bazley
 2,3,3.0,2021-10-24,21-134,OKC,,PHI,L (-12),1,31:46,4,11,0.364,0,4,0.0,0,0,,0,7,7,2,0,2,0,0,8,6.8,-11,Darius Bazley
@@ -787,6 +794,7 @@
 13,14,14.0,2021-11-17,22-222,DET,,IND,W (+8),1,33:21,5,14,0.357,3,4,0.75,2,4,0.5,2,4,6,0,2,0,3,2,15,7.2,-1,Saddiq Bey
 14,15,15.0,2021-11-19,22-224,DET,,GSW,L (-3),1,36:00,3,14,0.214,1,6,0.167,0,0,,4,1,5,3,0,1,2,2,7,1.5,-10,Saddiq Bey
 15,16,16.0,2021-11-21,22-226,DET,,LAL,L (-5),1,34:09,6,13,0.462,2,7,0.286,0,0,,1,3,4,2,1,0,1,4,14,8.7,5,Saddiq Bey
+16,17,17.0,2021-11-23,22-228,DET,,MIA,L (-8),1,35:31,6,16,0.375,3,10,0.3,0,0,,1,4,5,0,0,0,2,1,15,5.7,1,Saddiq Bey
 0,1,1.0,2021-10-20,29-022,TOR,,WAS,L (-15),0,26:00,2,4,.500,0,0,,5,6,.833,6,3,9,0,0,0,2,2,9,8.9,-8,Khem Birch
 1,2,2.0,2021-10-22,29-024,TOR,@,BOS,W (+32),0,20:52,1,3,.333,0,1,.000,0,0,,4,2,6,0,2,0,1,1,2,4.3,+12,Khem Birch
 2,3,3.0,2021-10-23,29-025,TOR,,DAL,L (-8),0,17:39,1,2,.500,0,1,.000,2,2,1.000,2,1,3,2,0,0,1,1,4,4.7,-14,Khem Birch
@@ -858,6 +866,7 @@
 14,15,15.0,2021-11-18,31-344,LAC,@,MEM,L (-12),1,24:55,1,2,0.5,0,1,0.0,2,2,1.0,1,3,4,3,1,0,1,1,4,6.3,-2,Eric Bledsoe
 15,16,16.0,2021-11-19,31-345,LAC,@,NOP,L (-13),1,27:38,3,10,0.3,0,3,0.0,1,1,1.0,0,5,5,3,2,0,2,0,7,4.8,-10,Eric Bledsoe
 16,17,17.0,2021-11-21,31-347,LAC,,DAL,W (+6),1,25:57,1,4,0.25,0,1,0.0,0,0,,0,4,4,2,0,0,2,2,2,-0.6,6,Eric Bledsoe
+17,18,18.0,2021-11-23,31-349,LAC,,DAL,L (-8),1,24:32,1,2,0.5,0,1,0.0,0,0,,2,2,4,1,1,0,2,4,2,1.1,-3,Eric Bledsoe
 0,1,1.0,2021-10-21,29-064,ATL,,DAL,W (+26),1,26:05,4,8,.500,3,5,.600,0,0,,0,3,3,2,2,0,2,3,11,8.1,+17,Bogdan Bogdanović
 1,2,2.0,2021-10-23,29-066,ATL,@,CLE,L (-6),1,27:13,2,7,.286,1,3,.333,0,0,,0,2,2,2,0,0,0,2,5,2.1,-21,Bogdan Bogdanović
 2,3,3.0,2021-10-25,29-068,ATL,,DET,W (+18),1,25:01,5,9,.556,2,6,.333,2,2,1.000,1,2,3,1,0,0,0,1,14,11.3,+6,Bogdan Bogdanović
@@ -910,6 +919,7 @@
 14,15,6.0,2021-11-18,22-002,DEN,,PHI,L (-14),0,4:23,1,2,.500,0,0,,0,0,,0,3,3,0,0,1,0,0,2,2.6,+4,Bol Bol
 15,16,,2021-11-19,22-003,DEN,,CHI,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Bol Bol
 16,17,7.0,2021-11-21,22-005,DEN,@,PHO,L (-29),0,7:28,0,2,.000,0,0,,0,0,,1,2,3,0,0,0,0,0,0,-0.1,-5,Bol Bol
+17,18,8.0,2021-11-23,22-007,DEN,@,POR,L (-19),0,3:25,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Bol Bol
 0,1,1.0,2021-10-20,21-039,MIN,,HOU,W (+18),0,4:40,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,1,0,2,0.3,-11,Leandro Bolmaro
 1,2,,2021-10-23,21-042,MIN,,NOP,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Leandro Bolmaro
 2,3,,2021-10-25,21-044,MIN,,NOP,L (-9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Leandro Bolmaro
@@ -979,6 +989,7 @@
 14,15,6.0,2021-11-18,19-355,LAC,@,MEM,L (-12),0,20:18,2,9,.222,0,2,.000,0,0,,0,2,2,1,2,1,1,1,4,1.1,-3,Brandon Boston Jr.
 15,16,7.0,2021-11-19,19-356,LAC,@,NOP,L (-13),0,1:34,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Brandon Boston Jr.
 16,17,,2021-11-21,19-358,LAC,,DAL,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Brandon Boston Jr.
+17,18,,2021-11-23,19-360,LAC,,DAL,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Brandon Boston Jr.
 0,1,1.0,2021-10-20,28-282,TOR,,WAS,L (-15),0,17:29,3,10,.300,1,6,.167,0,0,,1,3,4,0,0,2,1,1,7,2.8,-1,Chris Boucher
 1,2,2.0,2021-10-22,28-284,TOR,@,BOS,W (+32),0,19:39,4,12,.333,1,6,.167,2,2,1.000,2,6,8,0,2,1,1,0,11,9.1,+11,Chris Boucher
 2,3,3.0,2021-10-23,28-285,TOR,,DAL,L (-8),0,8:01,0,5,.000,0,3,.000,0,0,,0,2,2,1,1,2,1,0,0,-0.8,-8,Chris Boucher
@@ -1034,6 +1045,7 @@
 15,16,15.0,2021-11-17,30-356,LAL,@,MIL,L (-7),1,16:48,2,6,.333,1,3,.333,0,0,,0,1,1,0,1,0,1,1,5,1.5,-6,Avery Bradley
 16,17,16.0,2021-11-19,30-358,LAL,@,BOS,L (-22),1,26:17,2,4,.500,2,2,1.000,0,0,,0,4,4,0,1,0,3,1,6,2.8,-7,Avery Bradley
 17,18,17.0,2021-11-21,30-360,LAL,@,DET,W (+5),1,26:04,0,3,.000,0,3,.000,0,0,,0,3,3,1,0,0,0,3,0,-1.7,+18,Avery Bradley
+18,19,18.0,2021-11-23,30-362,LAL,@,NYK,L (-6),1,29:58,5,11,.455,3,8,.375,2,2,1.000,2,7,9,1,2,0,1,1,15,14.1,+5,Avery Bradley
 0,1,,2021-10-20,23-285,CHI,@,DET,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Tony Bradley
 1,2,1.0,2021-10-22,23-287,CHI,,NOP,W (+16),0,2:26,1,1,1.000,0,0,,0,0,,0,1,1,0,0,1,1,2,2,0.9,-4,Tony Bradley
 2,3,,2021-10-23,23-288,CHI,,DET,W (+15),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Tony Bradley
@@ -1160,7 +1172,7 @@
 13,14,10.0,2021-11-15,23-163,HOU,@,MEM,L (-34),0,9:28,0,4,.000,0,3,.000,0,0,,0,1,1,0,0,0,0,1,0,-2.9,-6,Armoni Brooks
 14,15,11.0,2021-11-17,23-165,HOU,@,OKC,L (-12),0,5:41,1,4,.250,1,4,.250,0,0,,0,0,0,0,1,0,0,1,3,1.2,-1,Armoni Brooks
 15,16,12.0,2021-11-20,23-168,HOU,@,NYK,L (-7),0,2:54,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3,Armoni Brooks
-16,17,13.0,2021-11-22,23-170,HOU,@,BOS,L (-18),0,25:11,5,9,.556,5,8,.625,2,3,.667,0,3,3,2,3,0,2,1,17,15.2,+8,Armoni Brooks
+16,17,13.0,2021-11-22,23-170,HOU,@,BOS,L (-18),0,25:11,5,9,.556,5,8,.625,2,3,.667,0,3,3,2,2,1,2,1,17,14.9,+8,Armoni Brooks
 0,1,,2021-10-20,25-271,MEM,,CLE,W (+11),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Dillon Brooks
 1,2,,2021-10-23,25-274,MEM,@,LAC,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Dillon Brooks
 2,3,,2021-10-24,25-275,MEM,@,LAL,L (-3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Dillon Brooks
@@ -1213,6 +1225,7 @@
 14,15,,2021-11-15,20-075,POR,,TOR,W (+5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Greg Brown III
 15,16,,2021-11-17,20-077,POR,,CHI,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Greg Brown III
 16,17,,2021-11-20,20-080,POR,,PHI,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Greg Brown III
+17,18,7.0,2021-11-23,20-083,POR,,DEN,W (+19),0,3:40,1,1,1.000,0,0,,0,0,,0,0,0,0,1,1,0,1,2,3.0,0,Greg Brown III
 0,1,1.0,2021-10-20,24-361,BOS,@,NYK,L (-4),1,45:58,16,30,.533,8,14,.571,6,8,.750,0,9,9,6,3,1,4,5,46,35.2,+16,Jaylen Brown
 1,2,2.0,2021-10-22,24-363,BOS,,TOR,L (-32),1,28:24,3,13,.231,0,7,.000,3,4,.750,0,4,4,0,0,0,5,2,9,-3.9,+3,Jaylen Brown
 2,3,,2021-10-24,25-000,BOS,@,HOU,W (+10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jaylen Brown
@@ -1247,6 +1260,7 @@
 13,14,,2021-11-17,22-035,DAL,@,PHO,L (-7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Moses Brown
 14,15,,2021-11-19,22-037,DAL,@,PHO,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Moses Brown
 15,16,,2021-11-21,22-039,DAL,@,LAC,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Moses Brown
+16,17,,2021-11-23,22-041,DAL,@,LAC,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Moses Brown
 0,1,1.0,2021-10-21,26-253,DAL,@,ATL,L (-26),0,10:44,1,5,.200,1,5,.200,0,0,,0,5,5,0,0,0,1,2,3,-0.4,-4,Sterling Brown
 1,2,2.0,2021-10-23,26-255,DAL,@,TOR,W (+8),0,9:07,0,3,.000,0,2,.000,0,0,,2,1,3,1,0,0,1,2,0,-1.5,-1,Sterling Brown
 2,3,3.0,2021-10-26,26-258,DAL,,HOU,W (+10),0,9:07,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,1,0,0,-2.1,-1,Sterling Brown
@@ -1263,6 +1277,7 @@
 13,14,12.0,2021-11-17,26-280,DAL,@,PHO,L (-7),0,13:54,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-3,Sterling Brown
 14,15,13.0,2021-11-19,26-282,DAL,@,PHO,L (-8),0,16:11,1,1,1.000,1,1,1.000,2,2,1.000,1,3,4,1,2,0,1,1,5,7.6,+1,Sterling Brown
 15,16,14.0,2021-11-21,26-284,DAL,@,LAC,L (-6),0,7:37,0,1,.000,0,1,.000,0,0,,0,2,2,1,0,0,1,1,0,-0.8,-5,Sterling Brown
+16,17,15.0,2021-11-23,26-286,DAL,@,LAC,W (+8),0,10:24,3,5,.600,1,1,1.000,0,0,,2,2,4,0,0,0,0,0,7,6.7,+6,Sterling Brown
 0,1,1.0,2021-10-20,22-084,CHI,@,DET,W (+6),0,4:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,-6,Troy Brown Jr.
 1,2,2.0,2021-10-22,22-086,CHI,,NOP,W (+16),0,16:01,2,4,.500,2,2,1.000,0,0,,0,2,2,1,0,0,1,0,6,4.3,+3,Troy Brown Jr.
 2,3,3.0,2021-10-23,22-087,CHI,,DET,W (+15),0,10:56,0,3,.000,0,1,.000,1,2,.500,0,0,0,0,1,0,0,1,1,-0.9,+5,Troy Brown Jr.
@@ -1297,22 +1312,24 @@
 13,14,14.0,2021-11-17,25-078,DAL,@,PHO,L (-7),1,36:46,8,18,0.444,2,4,0.5,0,0,,1,8,9,9,0,0,3,1,18,14.6,0,Jalen Brunson
 14,15,15.0,2021-11-19,25-080,DAL,@,PHO,L (-8),1,34:35,7,19,0.368,1,4,0.25,3,4,0.75,0,4,4,10,1,0,2,2,18,13.5,-12,Jalen Brunson
 15,16,16.0,2021-11-21,25-082,DAL,@,LAC,L (-6),1,34:51,7,13,0.538,1,4,0.25,5,5,1.0,0,4,4,8,3,0,3,4,20,18.9,3,Jalen Brunson
-0,1,1.0,2021-10-21,30-219,DAL,@,ATL,L (-26),0,15:02,1,4,0.25,1,3,0.333,0,0,,0,1,1,0,0,0,1,1,3,-0.5,-6,Reggie Bullock
-1,2,2.0,2021-10-23,30-221,DAL,@,TOR,W (+8),0,17:03,0,3,0.0,0,2,0.0,1,2,0.5,0,3,3,0,0,0,0,1,1,-1.0,-1,Reggie Bullock
-2,3,3.0,2021-10-26,30-224,DAL,,HOU,W (+10),0,17:27,6,11,0.545,4,9,0.444,0,0,,1,3,4,1,0,0,0,1,16,12.6,-4,Reggie Bullock
-3,4,4.0,2021-10-28,30-226,DAL,,SAS,W (+5),1,29:51,2,6,0.333,2,5,0.4,1,2,0.5,0,2,2,0,0,0,0,0,7,3.8,10,Reggie Bullock
-4,5,5.0,2021-10-29,30-227,DAL,@,DEN,L (-31),1,21:53,2,6,0.333,1,5,0.2,0,0,,0,2,2,0,0,0,0,0,5,2.2,-28,Reggie Bullock
-5,6,6.0,2021-10-31,30-229,DAL,,SAC,W (+6),0,21:56,3,9,0.333,1,5,0.2,0,0,,0,3,3,3,0,0,0,4,7,3.3,-6,Reggie Bullock
-6,7,7.0,2021-11-02,30-231,DAL,,MIA,L (-15),0,25:20,3,7,0.429,3,7,0.429,1,1,1.0,0,2,2,1,0,0,0,3,10,6.4,-7,Reggie Bullock
-7,8,8.0,2021-11-03,30-232,DAL,@,SAS,W (+1),0,7:21,0,1,0.0,0,1,0.0,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-2,Reggie Bullock
-8,9,9.0,2021-11-06,30-235,DAL,,BOS,W (+3),0,26:05,5,11,0.455,3,8,0.375,0,0,,0,3,3,1,1,0,2,1,13,7.5,2,Reggie Bullock
-9,10,10.0,2021-11-08,30-237,DAL,,NOP,W (+16),0,21:27,5,7,0.714,2,3,0.667,0,0,,1,3,4,1,0,1,0,0,12,12.1,13,Reggie Bullock
-10,11,11.0,2021-11-10,30-239,DAL,@,CHI,L (-10),0,22:53,0,4,0.0,0,4,0.0,0,0,,0,2,2,0,0,0,1,3,0,-4.4,-6,Reggie Bullock
-11,12,12.0,2021-11-12,30-241,DAL,@,SAS,W (+14),0,20:56,3,9,0.333,1,4,0.25,0,0,,1,3,4,0,2,0,0,2,7,4.7,23,Reggie Bullock
-12,13,13.0,2021-11-15,30-244,DAL,,DEN,W (+10),0,29:44,2,5,0.4,1,3,0.333,0,0,,0,3,3,2,0,0,0,2,5,3.8,15,Reggie Bullock
-13,14,14.0,2021-11-17,30-246,DAL,@,PHO,L (-7),0,25:56,1,6,0.167,0,1,0.0,0,0,,1,4,5,2,0,0,2,3,2,-1.7,-11,Reggie Bullock
-14,15,15.0,2021-11-19,30-248,DAL,@,PHO,L (-8),0,27:36,3,8,0.375,0,5,0.0,0,0,,0,3,3,0,2,0,0,1,6,4.1,-8,Reggie Bullock
-15,16,16.0,2021-11-21,30-250,DAL,@,LAC,L (-6),0,31:37,0,2,0.0,0,2,0.0,0,0,,0,5,5,1,0,0,1,1,0,-0.6,-1,Reggie Bullock
+16,17,17.0,2021-11-23,25-084,DAL,@,LAC,W (+8),0,11:21,2,3,0.667,0,0,,0,0,,1,0,1,2,2,0,2,0,4,4.8,-2,Jalen Brunson
+0,1,1.0,2021-10-21,30-219,DAL,@,ATL,L (-26),0,15:02,1,4,.250,1,3,.333,0,0,,0,1,1,0,0,0,1,1,3,-0.5,-6,Reggie Bullock
+1,2,2.0,2021-10-23,30-221,DAL,@,TOR,W (+8),0,17:03,0,3,.000,0,2,.000,1,2,.500,0,3,3,0,0,0,0,1,1,-1.0,-1,Reggie Bullock
+2,3,3.0,2021-10-26,30-224,DAL,,HOU,W (+10),0,17:27,6,11,.545,4,9,.444,0,0,,1,3,4,1,0,0,0,1,16,12.6,-4,Reggie Bullock
+3,4,4.0,2021-10-28,30-226,DAL,,SAS,W (+5),1,29:51,2,6,.333,2,5,.400,1,2,.500,0,2,2,0,0,0,0,0,7,3.8,+10,Reggie Bullock
+4,5,5.0,2021-10-29,30-227,DAL,@,DEN,L (-31),1,21:53,2,6,.333,1,5,.200,0,0,,0,2,2,0,0,0,0,0,5,2.2,-28,Reggie Bullock
+5,6,6.0,2021-10-31,30-229,DAL,,SAC,W (+6),0,21:56,3,9,.333,1,5,.200,0,0,,0,3,3,3,0,0,0,4,7,3.3,-6,Reggie Bullock
+6,7,7.0,2021-11-02,30-231,DAL,,MIA,L (-15),0,25:20,3,7,.429,3,7,.429,1,1,1.000,0,2,2,1,0,0,0,3,10,6.4,-7,Reggie Bullock
+7,8,8.0,2021-11-03,30-232,DAL,@,SAS,W (+1),0,7:21,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-2,Reggie Bullock
+8,9,9.0,2021-11-06,30-235,DAL,,BOS,W (+3),0,26:05,5,11,.455,3,8,.375,0,0,,0,3,3,1,1,0,2,1,13,7.5,+2,Reggie Bullock
+9,10,10.0,2021-11-08,30-237,DAL,,NOP,W (+16),0,21:27,5,7,.714,2,3,.667,0,0,,1,3,4,1,0,1,0,0,12,12.1,+13,Reggie Bullock
+10,11,11.0,2021-11-10,30-239,DAL,@,CHI,L (-10),0,22:53,0,4,.000,0,4,.000,0,0,,0,2,2,0,0,0,1,3,0,-4.4,-6,Reggie Bullock
+11,12,12.0,2021-11-12,30-241,DAL,@,SAS,W (+14),0,20:56,3,9,.333,1,4,.250,0,0,,1,3,4,0,2,0,0,2,7,4.7,+23,Reggie Bullock
+12,13,13.0,2021-11-15,30-244,DAL,,DEN,W (+10),0,29:44,2,5,.400,1,3,.333,0,0,,0,3,3,2,0,0,0,2,5,3.8,+15,Reggie Bullock
+13,14,14.0,2021-11-17,30-246,DAL,@,PHO,L (-7),0,25:56,1,6,.167,0,1,.000,0,0,,1,4,5,2,0,0,2,3,2,-1.7,-11,Reggie Bullock
+14,15,15.0,2021-11-19,30-248,DAL,@,PHO,L (-8),0,27:36,3,8,.375,0,5,.000,0,0,,0,3,3,0,2,0,0,1,6,4.1,-8,Reggie Bullock
+15,16,16.0,2021-11-21,30-250,DAL,@,LAC,L (-6),0,31:37,0,2,.000,0,2,.000,0,0,,0,5,5,1,0,0,1,1,0,-0.6,-1,Reggie Bullock
+16,17,,2021-11-23,30-252,DAL,@,LAC,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Reggie Bullock
 0,1,1.0,2021-10-21,28-343,DAL,@,ATL,L (-26),0,9:25,2,3,.667,1,1,1.000,0,0,,0,1,1,2,0,0,0,0,5,5.4,0,Trey Burke
 1,2,,2021-10-23,28-345,DAL,@,TOR,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Trey Burke
 2,3,2.0,2021-10-26,28-348,DAL,,HOU,W (+10),0,3:40,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,0,0,-1.0,+6,Trey Burke
@@ -1329,6 +1346,7 @@
 13,14,5.0,2021-11-17,29-005,DAL,@,PHO,L (-7),0,14:43,4,7,.571,2,2,1.000,0,0,,0,2,2,1,0,0,1,1,10,6.6,+1,Trey Burke
 14,15,6.0,2021-11-19,29-007,DAL,@,PHO,L (-8),0,14:48,3,8,.375,1,3,.333,1,2,.500,0,0,0,1,2,0,2,1,8,3.5,0,Trey Burke
 15,16,7.0,2021-11-21,29-009,DAL,@,LAC,L (-6),0,13:23,2,6,.333,0,1,.000,0,0,,0,1,1,1,0,0,0,0,4,1.6,-7,Trey Burke
+16,17,8.0,2021-11-23,29-011,DAL,@,LAC,W (+8),0,10:02,1,3,.333,0,1,.000,3,3,1.000,0,1,1,0,0,0,0,2,5,2.8,+3,Trey Burke
 0,1,1.0,2021-10-20,30-092,NYK,,BOS,W (+4),0,16:17,2,5,0.4,1,4,0.25,0,0,,0,1,1,1,1,0,0,2,5,3.5,-5,Alec Burks
 1,2,2.0,2021-10-22,30-094,NYK,@,ORL,W (+25),0,18:11,4,7,0.571,4,7,0.571,0,0,,0,2,2,7,0,0,0,1,12,13.8,20,Alec Burks
 2,3,3.0,2021-10-24,30-096,NYK,,ORL,L (-6),0,24:47,3,10,0.3,1,6,0.167,2,3,0.667,0,4,4,1,1,1,1,0,9,5.4,2,Alec Burks
@@ -1346,6 +1364,7 @@
 14,15,15.0,2021-11-17,30-120,NYK,,ORL,L (-6),0,27:24,5,16,0.313,4,12,0.333,1,2,0.5,0,5,5,4,1,0,0,4,15,9.1,-5,Alec Burks
 15,16,16.0,2021-11-20,30-123,NYK,,HOU,W (+7),0,25:22,6,8,0.75,6,7,0.857,2,2,1.0,0,5,5,3,5,0,0,1,20,25.0,1,Alec Burks
 16,17,17.0,2021-11-21,30-124,NYK,@,CHI,L (-6),0,29:04,3,6,0.5,1,3,0.333,6,6,1.0,1,2,3,0,0,0,3,5,13,6.3,-4,Alec Burks
+17,18,18.0,2021-11-23,30-126,NYK,,LAL,W (+6),0,25:57,4,10,0.4,1,3,0.333,3,3,1.0,1,5,6,3,2,0,1,1,12,11.5,9,Alec Burks
 0,1,1.0,2021-10-20,21-056,UTA,,OKC,W (+21),0,8:45,0,5,.000,0,4,.000,0,0,,0,1,1,1,0,0,1,1,0,-3.9,+1,Jared Butler
 1,2,2.0,2021-10-22,21-058,UTA,@,SAC,W (+9),0,2:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Jared Butler
 2,3,3.0,2021-10-26,21-062,UTA,,DEN,W (+12),0,1:50,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,2,0,-0.8,-3,Jared Butler
@@ -1380,6 +1399,7 @@
 14,15,12.0,2021-11-17,32-064,MIA,,NOP,W (+15),1,36:34,10,18,.556,1,2,.500,10,12,.833,2,8,10,10,0,1,3,1,31,29.7,+9,Jimmy Butler
 15,16,13.0,2021-11-18,32-065,MIA,,WAS,W (+15),1,34:12,11,19,.579,0,1,.000,10,10,1.000,1,2,3,5,4,0,1,0,32,30.9,+11,Jimmy Butler
 16,17,14.0,2021-11-20,32-067,MIA,@,WAS,L (-3),1,38:28,11,19,.579,0,2,.000,7,9,.778,0,5,5,4,2,0,1,1,29,24.2,+1,Jimmy Butler
+17,18,15.0,2021-11-23,32-070,MIA,@,DET,W (+8),1,34:46,4,13,.308,0,1,.000,7,9,.778,4,5,9,5,1,0,3,2,15,11.7,-7,Jimmy Butler
 0,1,1.0,2021-10-20,28-244,WAS,@,TOR,W (+15),1,27:08,2,7,0.286,1,5,0.2,0,0,,0,2,2,1,1,0,1,0,5,2.2,2,Kentavious Caldwell-Pope
 1,2,2.0,2021-10-22,28-246,WAS,,IND,W (+1),1,34:58,2,4,0.5,2,4,0.5,1,1,1.0,0,2,2,2,0,0,1,5,7,4.0,1,Kentavious Caldwell-Pope
 2,3,3.0,2021-10-25,28-249,WAS,@,BRK,L (-14),1,24:40,5,11,0.455,1,4,0.25,0,0,,0,3,3,0,1,0,0,1,11,6.8,-5,Kentavious Caldwell-Pope
@@ -1414,6 +1434,25 @@
 14,15,14.0,2021-11-18,30-240,DEN,,PHI,L (-14),0,7:30,0,3,.000,0,3,.000,2,2,1.000,0,3,3,1,0,0,0,0,2,1.5,-9,Facundo Campazzo
 15,16,15.0,2021-11-19,30-241,DEN,,CHI,L (-6),0,26:48,5,9,.556,4,5,.800,2,2,1.000,1,1,2,4,2,0,1,3,16,15.3,-2,Facundo Campazzo
 16,17,16.0,2021-11-21,30-243,DEN,@,PHO,L (-29),0,26:51,3,8,.375,2,7,.286,0,0,,0,0,0,2,1,0,2,5,8,2.0,-25,Facundo Campazzo
+17,18,17.0,2021-11-23,30-245,DEN,@,POR,L (-19),0,28:35,2,4,.500,2,4,.500,2,3,.667,0,2,2,5,3,0,1,3,8,10.5,-7,Facundo Campazzo
+0,1,,2021-10-20,24-193,DEN,@,PHO,W (+12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+1,2,,2021-10-22,24-195,DEN,,SAS,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+2,3,,2021-10-25,24-198,DEN,,CLE,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+3,4,,2021-10-26,24-199,DEN,@,UTA,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+4,5,,2021-10-29,24-202,DEN,,DAL,W (+31),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+5,6,,2021-10-30,24-203,DEN,@,MIN,W (+2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+6,7,,2021-11-01,24-205,DEN,@,MEM,L (-9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+7,8,,2021-11-03,24-207,DEN,@,MEM,L (-2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+8,9,,2021-11-06,24-210,DEN,,HOU,W (+1),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+9,10,,2021-11-08,24-212,DEN,,MIA,W (+17),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+10,11,,2021-11-10,24-214,DEN,,IND,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+11,12,,2021-11-12,24-216,DEN,,ATL,W (+9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+12,13,,2021-11-14,24-218,DEN,,POR,W (+29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+13,14,,2021-11-15,24-219,DEN,@,DAL,L (-10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+14,15,,2021-11-18,24-222,DEN,,PHI,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+15,16,,2021-11-19,24-223,DEN,,CHI,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+16,17,,2021-11-21,24-225,DEN,@,PHO,L (-29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Vlatko Čančar
+17,18,1.0,2021-11-23,24-227,DEN,@,POR,L (-19),0,3:25,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,0,Vlatko Čančar
 0,1,1.0,2021-10-21,27-156,ATL,,DAL,W (+26),1,20:33,6,6,1.0,0,0,,0,1,0.0,2,11,13,0,0,2,1,2,12,14.1,17,Clint Capela
 1,2,2.0,2021-10-23,27-158,ATL,@,CLE,L (-6),1,27:18,5,12,0.417,0,0,,0,2,0.0,7,7,14,1,0,2,1,3,10,9.7,-10,Clint Capela
 2,3,3.0,2021-10-25,27-160,ATL,,DET,W (+18),1,25:54,2,3,0.667,0,0,,0,0,,1,7,8,0,2,1,0,1,4,7.8,11,Clint Capela
@@ -1521,6 +1560,7 @@
 13,14,14.0,2021-11-17,28-091,DAL,@,PHO,L (-7),0,8:32,0,1,0.0,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.8,-8,Willie Cauley-Stein
 14,15,15.0,2021-11-19,28-093,DAL,@,PHO,L (-8),0,9:20,3,3,1.0,1,1,1.0,1,2,0.5,1,2,3,1,0,0,0,1,8,8.3,11,Willie Cauley-Stein
 15,16,16.0,2021-11-21,28-095,DAL,@,LAC,L (-6),0,9:32,2,2,1.0,0,0,,0,0,,0,1,1,0,2,0,2,2,4,2.9,-2,Willie Cauley-Stein
+16,17,17.0,2021-11-23,28-097,DAL,@,LAC,W (+8),1,17:03,1,4,0.25,0,0,,0,0,,1,1,2,1,1,0,0,3,2,1.1,0,Willie Cauley-Stein
 0,1,,2021-10-20,20-113,TOR,,WAS,L (-15),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Justin Champagnie
 1,2,1.0,2021-10-22,20-115,TOR,@,BOS,W (+32),0,2:54,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+7,Justin Champagnie
 2,3,,2021-10-23,20-116,TOR,,DAL,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Justin Champagnie
@@ -1642,6 +1682,7 @@
 14,15,11.0,2021-11-18,24-154,LAC,@,MEM,L (-12),1,28:58,2,8,.250,2,6,.333,2,2,1.000,1,2,3,1,0,1,3,2,8,2.1,+1,Amir Coffey
 15,16,12.0,2021-11-19,24-155,LAC,@,NOP,L (-13),0,13:55,1,2,.500,1,2,.500,0,0,,0,1,1,2,0,0,0,0,3,3.7,+6,Amir Coffey
 16,17,13.0,2021-11-21,24-157,LAC,,DAL,W (+6),1,25:14,1,2,.500,1,2,.500,0,0,,0,5,5,2,0,0,0,0,3,4.9,+21,Amir Coffey
+17,18,14.0,2021-11-23,24-159,LAC,,DAL,L (-8),0,24:02,2,5,.400,1,4,.250,2,2,1.000,0,2,2,2,0,0,0,1,7,5.9,-5,Amir Coffey
 0,1,1.0,2021-10-21,24-028,ATL,,DAL,W (+26),1,30:00,7,11,0.636,2,3,0.667,0,0,,1,8,9,3,2,2,0,3,16,18.5,14,John Collins
 1,2,2.0,2021-10-23,24-030,ATL,@,CLE,L (-6),1,26:36,3,8,0.375,0,3,0.0,0,2,0.0,3,9,12,1,1,1,2,5,6,4.0,10,John Collins
 2,3,3.0,2021-10-25,24-032,ATL,,DET,W (+18),1,23:56,9,14,0.643,1,3,0.333,3,5,0.6,1,6,7,2,2,1,4,4,22,16.0,12,John Collins
@@ -1676,7 +1717,7 @@
 13,14,12.0,2021-11-16,34-036,UTA,,PHI,W (+35),1,24:41,5,8,.625,2,4,.500,1,2,.500,1,1,2,7,0,0,1,2,13,13.1,+21,Mike Conley
 14,15,13.0,2021-11-18,34-038,UTA,,TOR,W (+16),1,28:24,2,4,.500,1,2,.500,0,0,,0,1,1,7,2,1,2,3,5,7.7,+33,Mike Conley
 15,16,14.0,2021-11-20,34-040,UTA,@,SAC,W (+18),1,26:23,7,10,.700,3,4,.750,0,0,,0,1,1,2,0,0,2,1,17,12.1,+1,Mike Conley
-16,17,15.0,2021-11-22,34-042,UTA,,MEM,L (-1),1,30:11,7,12,.583,3,5,.600,2,3,.667,0,4,4,8,1,0,4,2,19,16.0,+13,Mike Conley
+16,17,15.0,2021-11-22,34-042,UTA,,MEM,L (-1),1,30:10,7,12,.583,3,5,.600,2,3,.667,0,4,4,8,1,0,4,2,19,16.0,+13,Mike Conley
 0,1,1.0,2021-10-19,28-286,MIL,,BRK,W (+23),0,29:58,8,13,0.615,4,9,0.444,0,0,,0,3,3,2,1,1,0,0,20,18.1,0,Pat Connaughton
 1,2,2.0,2021-10-21,28-288,MIL,@,MIA,L (-42),1,27:14,3,6,0.5,0,3,0.0,0,0,,0,4,4,4,0,0,1,3,6,4.8,-23,Pat Connaughton
 2,3,3.0,2021-10-23,28-290,MIL,@,SAS,W (+10),1,36:57,6,9,0.667,3,5,0.6,1,1,1.0,1,6,7,0,1,0,1,2,16,13.8,8,Pat Connaughton
@@ -1748,6 +1789,7 @@
 14,15,2.0,2021-11-18,26-115,DEN,,PHI,L (-14),0,4:23,0,1,.000,0,1,.000,0,0,,1,1,2,1,0,0,0,1,0,0.6,+4,Petr Cornelie
 15,16,,2021-11-19,26-116,DEN,,CHI,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Petr Cornelie
 16,17,3.0,2021-11-21,26-118,DEN,@,PHO,L (-29),0,7:03,0,2,.000,0,2,.000,0,0,,2,1,3,1,0,0,1,1,0,-0.4,-5,Petr Cornelie
+17,18,4.0,2021-11-23,26-120,DEN,@,POR,L (-19),0,3:25,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,1,0,0,-0.7,0,Petr Cornelie
 0,1,1.0,2021-10-20,30-310,POR,,SAC,L (-3),1,30:55,3,9,0.333,2,7,0.286,0,0,,0,4,4,0,0,2,1,2,8,3.7,-9,Robert Covington
 1,2,2.0,2021-10-23,30-313,POR,,PHO,W (+29),1,25:50,2,4,0.5,2,4,0.5,0,0,,1,5,6,0,1,1,0,2,6,7.1,25,Robert Covington
 2,3,3.0,2021-10-25,30-315,POR,@,LAC,L (-30),1,23:40,0,3,0.0,0,2,0.0,0,0,,0,6,6,1,3,0,4,0,0,-0.6,-15,Robert Covington
@@ -1765,6 +1807,7 @@
 14,15,15.0,2021-11-15,30-336,POR,,TOR,W (+5),1,23:06,4,7,0.571,3,5,0.6,0,0,,0,3,3,2,0,3,1,1,11,10.7,-3,Robert Covington
 15,16,16.0,2021-11-17,30-338,POR,,CHI,W (+5),1,24:02,4,7,0.571,2,5,0.4,0,0,,1,2,3,3,3,2,3,2,10,10.7,0,Robert Covington
 16,17,17.0,2021-11-20,30-341,POR,,PHI,W (+7),1,28:59,2,4,0.5,2,3,0.667,0,0,,0,6,6,3,0,3,0,4,6,8.4,10,Robert Covington
+17,18,18.0,2021-11-23,30-344,POR,,DEN,W (+19),1,27:00,3,6,0.5,1,4,0.25,2,2,1.0,1,6,7,2,1,3,1,2,9,11.2,15,Robert Covington
 0,1,1.0,2021-10-20,30-305,IND,@,CHO,L (-1),0,27:48,1,4,0.25,1,4,0.25,2,2,1.0,3,5,8,3,0,1,1,4,5,6.4,-3,Torrey Craig
 1,2,2.0,2021-10-22,30-307,IND,@,WAS,L (-1),0,11:42,0,2,0.0,0,2,0.0,0,0,,0,1,1,1,0,1,0,3,0,-0.9,-5,Torrey Craig
 2,3,3.0,2021-10-23,30-308,IND,,MIA,W (+11),0,11:23,1,4,0.25,0,2,0.0,0,0,,2,0,2,1,1,0,0,0,2,2.7,-3,Torrey Craig
@@ -1834,6 +1877,7 @@
 13,14,9.0,2021-11-17,20-053,DET,,IND,W (+8),1,33:32,6,18,.333,1,8,.125,3,4,.750,0,8,8,6,2,1,1,2,16,12.9,+3,Cade Cunningham
 14,15,10.0,2021-11-19,20-055,DET,,GSW,L (-3),1,36:15,6,12,.500,3,8,.375,4,4,1.000,1,5,6,6,3,2,2,2,19,21.0,-4,Cade Cunningham
 15,16,11.0,2021-11-21,20-057,DET,,LAL,L (-5),1,38:05,6,21,.286,1,9,.111,0,0,,1,11,12,10,2,0,3,3,13,9.5,0,Cade Cunningham
+16,17,12.0,2021-11-23,20-059,DET,,MIA,L (-8),1,28:52,2,10,.200,1,7,.143,1,1,1.000,0,3,3,6,1,0,4,4,6,0.3,-11,Cade Cunningham
 0,1,1.0,2021-10-20,31-058,PHI,@,NOP,W (+20),1,27:31,4,5,.800,2,3,.667,0,0,,0,2,2,2,0,0,2,0,10,8.1,+8,Seth Curry
 1,2,2.0,2021-10-22,31-060,PHI,,BRK,L (-5),1,35:36,9,12,.750,4,4,1.000,1,2,.500,0,4,4,0,1,2,0,1,23,21.0,-5,Seth Curry
 2,3,3.0,2021-10-24,31-062,PHI,@,OKC,W (+12),1,34:24,9,15,.600,7,10,.700,3,4,.750,2,1,3,3,1,0,0,2,28,24.7,+10,Seth Curry
@@ -1887,6 +1931,7 @@
 15,16,16.0,2021-11-17,28-251,LAL,@,MIL,L (-7),1,37:00,9,15,0.6,0,1,0.0,0,0,,2,7,9,4,0,2,1,4,18,16.2,5,Anthony Davis
 16,17,17.0,2021-11-19,28-253,LAL,@,BOS,L (-22),1,36:36,12,21,0.571,0,3,0.0,7,9,0.778,1,5,6,2,0,3,1,2,31,24.2,-14,Anthony Davis
 17,18,18.0,2021-11-21,28-255,LAL,@,DET,W (+5),1,39:38,11,19,0.579,0,1,0.0,8,10,0.8,1,9,10,6,4,5,2,4,30,31.8,5,Anthony Davis
+18,19,19.0,2021-11-23,28-257,LAL,@,NYK,L (-6),1,33:58,7,17,0.412,1,2,0.5,5,11,0.455,3,3,6,3,0,0,0,1,20,13.2,8,Anthony Davis
 0,1,,2021-10-20,32-137,CLE,@,MEM,L (-11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Ed Davis
 1,2,,2021-10-22,32-139,CLE,,CHO,L (-11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Ed Davis
 2,3,,2021-10-23,32-140,CLE,,ATL,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Ed Davis
@@ -1957,6 +2002,7 @@
 14,15,15.0,2021-11-17,32-097,MIA,,NOP,W (+15),1,25:27,1,3,0.333,0,1,0.0,0,0,,4,4,8,2,1,0,1,4,2,4.1,9,Dewayne Dedmon
 15,16,16.0,2021-11-18,32-098,MIA,,WAS,W (+15),0,9:04,0,1,0.0,0,0,,1,2,0.5,0,4,4,1,0,0,0,1,1,1.4,5,Dewayne Dedmon
 16,17,17.0,2021-11-20,32-100,MIA,@,WAS,L (-3),0,9:14,1,2,0.5,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.2,-4,Dewayne Dedmon
+17,18,18.0,2021-11-23,32-103,MIA,@,DET,W (+8),0,17:01,3,4,0.75,0,0,,0,0,,2,4,6,0,0,0,0,3,6,5.8,14,Dewayne Dedmon
 0,1,,2021-10-20,27-167,TOR,,WAS,L (-15),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Sam Dekker
 1,2,,2021-10-22,27-169,TOR,@,BOS,W (+32),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Sam Dekker
 2,3,,2021-10-23,27-170,TOR,,DAL,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Sam Dekker
@@ -1984,7 +2030,7 @@
 14,15,15.0,2021-11-17,32-102,CHI,@,POR,L (-5),1,36:26,7,19,0.368,1,5,0.2,7,8,0.875,1,3,4,5,1,2,5,3,22,12.4,6,DeMar DeRozan
 15,16,16.0,2021-11-19,32-104,CHI,@,DEN,W (+6),1,36:22,7,21,0.333,0,2,0.0,12,12,1.0,0,6,6,4,2,0,0,1,26,20.3,-4,DeMar DeRozan
 16,17,17.0,2021-11-21,32-106,CHI,,NYK,W (+6),1,37:41,10,20,0.5,2,2,1.0,9,9,1.0,1,5,6,5,2,0,3,1,31,25.3,21,DeMar DeRozan
-17,18,18.0,2021-11-22,32-107,CHI,,IND,L (-32),1,26:32,8,16,0.5,0,1,0.0,2,2,1.0,0,1,1,2,0,0,4,2,18,6.9,-18,DeMar DeRozan
+17,18,18.0,2021-11-22,32-107,CHI,,IND,L (-32),1,26:32,8,16,0.5,0,1,0.0,2,2,1.0,0,1,1,2,1,0,4,2,18,7.9,-18,DeMar DeRozan
 0,1,1.0,2021-10-20,23-081,DET,,CHI,L (-6),0,15:12,2,5,.400,0,1,.000,4,4,1.000,0,0,0,1,1,1,0,1,8,7.3,+8,Hamidou Diallo
 1,2,2.0,2021-10-23,23-084,DET,@,CHI,L (-15),0,13:47,2,4,.500,0,1,.000,0,0,,0,0,0,1,0,0,1,3,4,0.5,-9,Hamidou Diallo
 2,3,3.0,2021-10-25,23-086,DET,@,ATL,L (-18),0,11:23,1,3,.333,0,2,.000,0,0,,0,2,2,1,1,0,0,0,2,2.6,-9,Hamidou Diallo
@@ -2001,6 +2047,7 @@
 13,14,8.0,2021-11-17,23-109,DET,,IND,W (+8),0,14:28,1,1,1.000,0,0,,0,0,,0,2,2,0,0,1,0,1,2,2.6,+5,Hamidou Diallo
 14,15,9.0,2021-11-19,23-111,DET,,GSW,L (-3),0,13:07,3,5,.600,0,0,,4,5,.800,3,2,5,1,0,1,0,4,10,9.8,+2,Hamidou Diallo
 15,16,10.0,2021-11-21,23-113,DET,,LAL,L (-5),0,21:10,7,9,.778,1,1,1.000,2,2,1.000,3,3,6,1,2,1,1,1,17,18.5,-6,Hamidou Diallo
+16,17,11.0,2021-11-23,23-115,DET,,MIA,L (-8),0,15:19,5,7,.714,0,1,.000,0,0,,2,0,2,1,0,1,1,1,10,8.5,-10,Hamidou Diallo
 0,1,1.0,2021-10-21,31-276,ATL,,DAL,W (+26),0,14:28,4,5,.800,1,2,.500,0,0,,0,6,6,2,1,2,0,2,9,11.9,+13,Gorgui Dieng
 1,2,2.0,2021-10-23,31-278,ATL,@,CLE,L (-6),0,18:46,2,3,.667,1,1,1.000,0,0,,3,5,8,1,0,0,2,1,5,5.6,+7,Gorgui Dieng
 2,3,3.0,2021-10-25,31-280,ATL,,DET,W (+18),0,15:45,2,5,.400,1,1,1.000,1,2,.500,4,8,12,2,0,0,1,4,6,6.9,+16,Gorgui Dieng
@@ -2035,7 +2082,7 @@
 13,14,13.0,2021-11-17,28-225,WAS,@,CHO,L (-10),1,28:34,0,5,.000,0,4,.000,0,0,,0,3,3,2,0,0,2,1,0,-3.6,-5,Spencer Dinwiddie
 14,15,,2021-11-18,28-226,WAS,@,MIA,L (-15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Spencer Dinwiddie
 15,16,14.0,2021-11-20,28-228,WAS,,MIA,W (+3),1,30:20,6,11,.545,4,7,.571,0,0,,0,1,1,4,0,0,1,1,16,12.4,+3,Spencer Dinwiddie
-16,17,15.0,2021-11-22,28-230,WAS,,CHO,L (-6),1,29:52,2,11,.182,2,7,.286,2,2,1.000,0,4,4,3,0,0,0,2,8,3.6,-6,Spencer Dinwiddie
+16,17,15.0,2021-11-22,28-230,WAS,,CHO,L (-6),1,29:52,2,12,.167,2,8,.250,2,2,1.000,0,4,4,3,0,0,0,2,8,2.9,-6,Spencer Dinwiddie
 0,1,1.0,2021-10-21,22-235,DAL,@,ATL,L (-26),1,35:24,6,17,.353,2,7,.286,4,4,1.000,0,11,11,7,1,0,5,1,18,12.3,-24,Luka Dončić
 1,2,2.0,2021-10-23,22-237,DAL,@,TOR,W (+8),1,38:53,11,24,.458,2,10,.200,3,5,.600,0,9,9,12,0,1,5,3,27,19.4,+1,Luka Dončić
 2,3,3.0,2021-10-26,22-240,DAL,,HOU,W (+10),1,34:16,10,25,.400,1,6,.167,5,5,1.000,2,12,14,7,2,1,4,3,26,19.9,+15,Luka Dončić
@@ -2052,6 +2099,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Luka Dončić
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Luka Dončić
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Luka Dončić
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,Luka Dončić
 0,1,1.0,2021-10-20,22-184,OKC,@,UTA,L (-21),1,30:07,2,10,.200,1,6,.167,2,4,.500,2,4,6,2,2,0,3,3,7,1.8,-21,Luguentz Dort
 1,2,2.0,2021-10-22,22-186,OKC,@,HOU,L (-33),1,27:07,3,9,.333,1,5,.200,1,2,.500,0,1,1,4,2,1,1,2,8,6.5,-24,Luguentz Dort
 2,3,3.0,2021-10-24,22-188,OKC,,PHI,L (-12),1,37:27,5,11,.455,1,6,.167,2,2,1.000,0,4,4,3,1,0,2,2,13,8.8,0,Luguentz Dort
@@ -2154,6 +2202,7 @@
 14,15,15.0,2021-11-18,25-024,DEN,,PHI,L (-14),0,15:39,0,4,0.0,0,1,0.0,0,0,,1,1,2,0,0,0,2,1,0,-4.2,-24,PJ Dozier
 15,16,16.0,2021-11-19,25-025,DEN,,CHI,L (-6),0,22:26,3,7,0.429,1,3,0.333,2,2,1.0,2,8,10,2,0,1,2,4,9,7.6,-5,PJ Dozier
 16,17,17.0,2021-11-21,25-027,DEN,@,PHO,L (-29),0,21:02,0,4,0.0,0,1,0.0,3,4,0.75,0,7,7,1,0,0,0,2,3,1.8,-9,PJ Dozier
+17,18,18.0,2021-11-23,25-029,DEN,@,POR,L (-19),0,4:02,1,3,0.333,0,1,0.0,0,0,,1,1,2,1,0,0,0,0,2,2.0,-2,PJ Dozier
 0,1,1.0,2021-10-20,35-167,TOR,,WAS,L (-15),1,21:39,3,7,.429,1,2,.500,2,2,1.000,0,3,3,4,0,0,0,1,9,8.6,-16,Goran Dragić
 1,2,2.0,2021-10-22,35-169,TOR,@,BOS,W (+32),0,11:40,2,6,.333,1,4,.250,0,0,,0,1,1,1,1,0,0,2,5,2.8,-1,Goran Dragić
 2,3,3.0,2021-10-23,35-170,TOR,,DAL,L (-8),0,14:28,1,3,.333,0,0,,0,0,,0,2,2,1,0,1,1,2,2,0.5,-16,Goran Dragić
@@ -2279,6 +2328,7 @@
 14,15,,2021-11-15,21-152,POR,,TOR,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,CJ Elleby
 15,16,,2021-11-17,21-154,POR,,CHI,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,CJ Elleby
 16,17,,2021-11-20,21-157,POR,,PHI,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,CJ Elleby
+17,18,8.0,2021-11-23,21-160,POR,,DEN,W (+19),0,3:40,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,1,0,0.9,0,CJ Elleby
 0,1,,2021-10-19,33-324,LAL,,GSW,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Wayne Ellington
 1,2,,2021-10-22,33-327,LAL,,PHO,L (-10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Wayne Ellington
 2,3,,2021-10-24,33-329,LAL,,MEM,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Wayne Ellington
@@ -2297,6 +2347,7 @@
 15,16,8.0,2021-11-17,33-353,LAL,@,MIL,L (-7),0,19:55,1,7,.143,1,7,.143,0,0,,0,3,3,0,0,0,0,0,3,-0.6,-1,Wayne Ellington
 16,17,9.0,2021-11-19,33-355,LAL,@,BOS,L (-22),0,11:56,0,3,.000,0,3,.000,0,0,,0,1,1,0,0,0,0,2,0,-2.6,-4,Wayne Ellington
 17,18,10.0,2021-11-21,33-357,LAL,@,DET,W (+5),0,11:53,1,5,.200,1,5,.200,1,1,1.000,0,1,1,0,0,0,0,0,4,1.2,-6,Wayne Ellington
+18,19,11.0,2021-11-23,33-359,LAL,@,NYK,L (-6),0,17:03,1,3,.333,1,3,.333,1,1,1.000,0,1,1,0,0,0,2,0,4,0.6,-7,Wayne Ellington
 0,1,1.0,2021-10-20,27-218,PHI,@,NOP,W (+20),1,25:42,8,17,.471,2,3,.667,4,6,.667,1,5,6,5,1,1,1,3,22,17.7,+4,Joel Embiid
 1,2,2.0,2021-10-22,27-220,PHI,,BRK,L (-5),1,29:43,6,15,.400,2,5,.400,5,6,.833,2,6,8,4,2,4,3,4,19,16.7,-4,Joel Embiid
 2,3,3.0,2021-10-24,27-222,PHI,@,OKC,W (+12),1,33:17,8,15,.533,2,5,.400,4,6,.667,1,8,9,6,1,3,0,2,22,23.5,+10,Joel Embiid
@@ -2400,6 +2451,7 @@
 13,14,14.0,2021-11-17,28-197,DAL,@,PHO,L (-7),1,31:40,3,6,0.5,3,5,0.6,0,0,,1,6,7,1,0,0,1,0,9,8.2,-6,Dorian Finney-Smith
 14,15,15.0,2021-11-19,28-199,DAL,@,PHO,L (-8),1,33:03,4,8,0.5,3,6,0.5,1,3,0.333,1,2,3,1,1,0,1,2,12,8.4,-10,Dorian Finney-Smith
 15,16,16.0,2021-11-21,28-201,DAL,@,LAC,L (-6),1,24:18,2,6,0.333,1,3,0.333,2,2,1.0,0,2,2,1,1,0,0,3,7,4.7,-1,Dorian Finney-Smith
+16,17,17.0,2021-11-23,28-203,DAL,@,LAC,W (+8),1,48:50,7,14,0.5,2,8,0.25,1,2,0.5,2,1,3,1,3,1,1,1,17,14.3,5,Dorian Finney-Smith
 0,1,1.0,2021-10-20,24-108,UTA,,OKC,W (+21),0,1:35,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Malik Fitts
 1,2,,2021-10-22,24-110,UTA,@,SAC,W (+9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Malik Fitts
 2,3,,2021-10-26,24-114,UTA,,DEN,W (+12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Malik Fitts
@@ -2485,6 +2537,7 @@
 14,15,15.0,2021-11-17,29-019,NYK,,ORL,L (-6),1,20:36,2,6,0.333,1,4,0.25,0,0,,0,1,1,1,1,0,0,1,5,3.2,-1,Evan Fournier
 15,16,16.0,2021-11-20,29-022,NYK,,HOU,W (+7),1,30:21,7,13,0.538,5,10,0.5,0,0,,0,2,2,2,1,0,1,2,19,13.9,7,Evan Fournier
 16,17,17.0,2021-11-21,29-023,NYK,@,CHI,L (-6),1,22:53,1,7,0.143,0,3,0.0,1,2,0.5,0,1,1,0,1,0,2,0,3,-2.6,0,Evan Fournier
+17,18,18.0,2021-11-23,29-025,NYK,,LAL,W (+6),1,41:55,8,14,0.571,6,9,0.667,4,4,1.0,2,2,4,2,0,0,2,3,26,19.6,2,Evan Fournier
 0,1,1.0,2021-10-20,23-304,SAC,@,POR,W (+3),1,36:07,9,22,0.409,2,8,0.25,7,10,0.7,0,5,5,8,0,1,5,5,27,14.8,6,De'Aaron Fox
 1,2,2.0,2021-10-22,23-306,SAC,,UTA,L (-9),1,35:10,5,19,0.263,0,5,0.0,2,4,0.5,2,1,3,5,5,0,3,2,12,6.3,2,De'Aaron Fox
 2,3,3.0,2021-10-24,23-308,SAC,,GSW,L (-12),1,34:02,8,16,0.5,1,6,0.167,0,1,0.0,2,3,5,6,0,0,7,3,17,6.9,-11,De'Aaron Fox
@@ -2573,6 +2626,7 @@
 14,15,3.0,2021-11-17,23-008,MIA,,NOP,W (+15),0,1:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Marcus Garrett
 15,16,4.0,2021-11-18,23-009,MIA,,WAS,W (+15),0,1:22,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1,Marcus Garrett
 16,17,,2021-11-20,23-011,MIA,@,WAS,L (-3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Marcus Garrett
+17,18,,2021-11-23,23-014,MIA,@,DET,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Marcus Garrett
 0,1,1.0,2021-10-20,19-225,HOU,@,MIN,L (-18),0,8:22,2,3,.667,0,0,,0,0,,1,1,2,1,1,2,0,1,4,6.4,+17,Usman Garuba
 1,2,2.0,2021-10-22,19-227,HOU,,OKC,W (+33),0,5:49,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,1,1,0,0,-0.7,+4,Usman Garuba
 2,3,,2021-10-24,19-229,HOU,,BOS,L (-10),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Usman Garuba
@@ -2606,6 +2660,7 @@
 13,14,,2021-11-17,22-325,DET,,IND,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Luka Garza
 14,15,8.0,2021-11-19,22-327,DET,,GSW,L (-3),0,7:22,1,3,.333,1,2,.500,0,0,,0,0,0,1,0,0,0,1,3,1.6,-8,Luka Garza
 15,16,,2021-11-21,22-329,DET,,LAL,L (-5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Luka Garza
+16,17,9.0,2021-11-23,22-331,DET,,MIA,L (-8),1,17:13,3,5,.600,1,1,1.000,0,0,,1,2,3,2,0,0,1,5,7,4.4,-6,Luka Garza
 0,1,,2021-10-20,35-064,UTA,,OKC,W (+21),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Rudy Gay
 1,2,,2021-10-22,35-066,UTA,@,SAC,W (+9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Rudy Gay
 2,3,,2021-10-26,35-070,UTA,,DEN,W (+12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Rudy Gay
@@ -2640,6 +2695,7 @@
 14,15,15.0,2021-11-18,31-200,LAC,@,MEM,L (-12),1,31:13,9,18,0.5,5,9,0.556,0,0,,1,4,5,6,0,1,1,1,23,19.4,-18,Paul George
 15,16,16.0,2021-11-19,31-201,LAC,@,NOP,L (-13),1,34:38,8,26,0.308,3,14,0.214,0,0,,0,7,7,6,1,0,1,2,19,9.5,-17,Paul George
 16,17,17.0,2021-11-21,31-203,LAC,,DAL,W (+6),1,37:35,12,25,0.48,3,8,0.375,2,2,1.0,0,4,4,6,1,0,6,4,29,15.1,11,Paul George
+17,18,18.0,2021-11-23,31-205,LAC,,DAL,L (-8),1,48:25,7,23,0.304,1,6,0.167,11,12,0.917,0,9,9,6,0,1,3,4,26,15.3,-2,Paul George
 0,1,,2021-10-20,36-118,NYK,,BOS,W (+4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Taj Gibson
 1,2,,2021-10-22,36-120,NYK,@,ORL,W (+25),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Taj Gibson
 2,3,1.0,2021-10-24,36-122,NYK,,ORL,L (-6),0,11:51,0,1,.000,0,0,,0,0,,1,3,4,1,0,0,1,0,0,0.6,-10,Taj Gibson
@@ -2657,6 +2713,7 @@
 14,15,10.0,2021-11-17,36-146,NYK,,ORL,L (-6),0,13:43,0,0,,0,0,,0,0,,0,2,2,0,0,3,1,3,0,0.5,-5,Taj Gibson
 15,16,,2021-11-20,36-149,NYK,,HOU,W (+7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Taj Gibson
 16,17,,2021-11-21,36-150,NYK,@,CHI,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Taj Gibson
+17,18,,2021-11-23,36-152,NYK,,LAL,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Taj Gibson
 0,1,1.0,2021-10-20,19-010,OKC,@,UTA,L (-21),1,28:42,2,7,0.286,0,0,,0,0,,2,8,10,3,0,0,1,2,4,4.0,-16,Josh Giddey
 1,2,2.0,2021-10-22,19-012,OKC,@,HOU,L (-33),1,19:34,2,6,0.333,1,3,0.333,1,2,0.5,1,1,2,4,1,1,1,1,6,6.3,-21,Josh Giddey
 2,3,3.0,2021-10-24,19-014,OKC,,PHI,L (-12),1,33:34,8,13,0.615,1,2,0.5,2,3,0.667,1,7,8,7,4,0,2,2,19,21.6,-6,Josh Giddey
@@ -2742,6 +2799,7 @@
 14,15,15.0,2021-11-18,26-063,DEN,,PHI,L (-14),1,31:00,4,13,0.308,1,4,0.25,0,0,,3,1,4,1,0,1,1,1,9,3.9,-2,Aaron Gordon
 15,16,16.0,2021-11-19,26-064,DEN,,CHI,L (-6),1,36:50,10,12,0.833,1,2,0.5,7,9,0.778,2,7,9,4,0,2,0,0,28,30.5,-7,Aaron Gordon
 16,17,17.0,2021-11-21,26-066,DEN,@,PHO,L (-29),1,30:12,7,14,0.5,1,1,1.0,1,3,0.333,4,6,10,4,2,0,4,3,16,12.4,-15,Aaron Gordon
+17,18,18.0,2021-11-23,26-068,DEN,@,POR,L (-19),1,32:17,5,9,0.556,0,1,0.0,1,1,1.0,1,2,3,3,0,0,1,2,11,8.3,-12,Aaron Gordon
 0,1,1.0,2021-10-20,32-299,HOU,@,MIN,L (-18),0,22:47,6,8,.750,3,4,.750,0,0,,0,2,2,0,1,0,3,0,15,10.4,-27,Eric Gordon
 1,2,2.0,2021-10-22,32-301,HOU,,OKC,W (+33),0,26:13,7,14,.500,4,6,.667,4,5,.800,0,0,0,1,1,0,0,0,22,16.3,+20,Eric Gordon
 2,3,3.0,2021-10-24,32-303,HOU,,BOS,L (-10),0,26:28,1,6,.167,0,3,.000,0,0,,0,4,4,2,0,0,2,1,2,-1.6,-6,Eric Gordon
@@ -2794,6 +2852,7 @@
 13,14,13.0,2021-11-17,27-250,DET,,IND,W (+8),1,34:01,5,14,.357,0,5,.000,9,12,.750,1,2,3,0,2,0,2,1,19,10.9,+2,Jerami Grant
 14,15,14.0,2021-11-19,27-252,DET,,GSW,L (-3),1,34:04,6,17,.353,3,10,.300,4,6,.667,0,4,4,2,2,3,2,3,19,12.2,-11,Jerami Grant
 15,16,15.0,2021-11-21,27-254,DET,,LAL,L (-5),1,37:19,12,25,.480,5,9,.556,7,10,.700,0,4,4,3,1,0,1,1,36,25.0,-4,Jerami Grant
+16,17,16.0,2021-11-23,27-256,DET,,MIA,L (-8),1,34:45,6,17,.353,1,5,.200,8,9,.889,1,6,7,3,3,0,0,2,21,17.9,+5,Jerami Grant
 0,1,1.0,2021-10-20,34-120,PHI,@,NOP,W (+20),1,18:35,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,3,0,-1.9,+11,Danny Green
 1,2,2.0,2021-10-22,34-122,PHI,,BRK,L (-5),1,22:11,2,6,.333,2,6,.333,0,0,,0,1,1,0,1,0,0,5,6,1.9,-8,Danny Green
 2,3,3.0,2021-10-24,34-124,PHI,@,OKC,W (+12),1,27:59,4,6,.667,3,5,.600,0,0,,1,7,8,0,0,1,2,1,11,9.5,+1,Danny Green
@@ -2863,6 +2922,7 @@
 14,15,15.0,2021-11-18,31-150,DEN,,PHI,L (-14),0,8:47,2,4,0.5,1,3,0.333,1,2,0.5,1,1,2,0,1,0,1,1,6,4.2,-8,JaMychal Green
 15,16,16.0,2021-11-19,31-151,DEN,,CHI,L (-6),0,11:26,1,6,0.167,0,3,0.0,0,0,,1,1,2,1,1,1,2,2,2,-1.2,1,JaMychal Green
 16,17,17.0,2021-11-21,31-153,DEN,@,PHO,L (-29),1,24:54,5,9,0.556,2,4,0.5,2,2,1.0,3,5,8,4,0,0,0,3,14,14.9,-22,JaMychal Green
+17,18,18.0,2021-11-23,31-155,DEN,@,POR,L (-19),1,26:09,3,9,0.333,1,4,0.25,2,2,1.0,0,5,5,2,1,0,1,2,9,6.0,-13,JaMychal Green
 0,1,1.0,2021-10-20,28-089,CHI,@,DET,W (+6),0,14:49,0,1,0.0,0,1,0.0,0,0,,0,3,3,1,0,0,0,0,0,0.9,-8,Javonte Green
 1,2,2.0,2021-10-22,28-091,CHI,,NOP,W (+16),0,17:12,4,6,0.667,0,1,0.0,2,2,1.0,1,0,1,1,1,2,0,1,10,10.8,20,Javonte Green
 2,3,3.0,2021-10-23,28-092,CHI,,DET,W (+15),0,18:15,3,3,1.0,2,2,1.0,2,2,1.0,0,4,4,1,0,0,1,5,10,8.0,4,Javonte Green
@@ -2898,6 +2958,7 @@
 14,15,15.0,2021-11-18,35-082,DEN,,PHI,L (-14),1,23:13,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1,Jeff Green
 15,16,16.0,2021-11-19,35-083,DEN,,CHI,L (-6),1,29:10,3,10,0.3,1,4,0.25,2,2,1.0,1,3,4,4,1,0,3,4,9,4.0,-9,Jeff Green
 16,17,17.0,2021-11-21,35-085,DEN,@,PHO,L (-29),1,30:29,6,10,0.6,1,5,0.2,6,8,0.75,0,3,3,0,0,0,1,1,19,13.1,-12,Jeff Green
+17,18,18.0,2021-11-23,35-087,DEN,@,POR,L (-19),1,34:42,9,16,0.563,3,4,0.75,3,3,1.0,1,3,4,3,0,3,2,2,24,19.4,-22,Jeff Green
 0,1,1.0,2021-10-21,20-339,DAL,@,ATL,L (-26),0,4:11,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,+1,Josh Green
 1,2,,2021-10-23,20-341,DAL,@,TOR,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Josh Green
 2,3,2.0,2021-10-26,20-344,DAL,,HOU,W (+10),0,3:41,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,Josh Green
@@ -2914,6 +2975,7 @@
 13,14,,2021-11-17,21-001,DAL,@,PHO,L (-7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Josh Green
 14,15,8.0,2021-11-19,21-003,DAL,@,PHO,L (-8),0,2:00,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,2,0,0.9,+7,Josh Green
 15,16,,2021-11-21,21-005,DAL,@,LAC,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Josh Green
+16,17,,2021-11-23,21-007,DAL,@,LAC,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Josh Green
 0,1,1.0,2021-10-19,32-217,BRK,@,MIL,L (-23),1,22:59,2,5,.400,0,1,.000,2,2,1.000,1,4,5,0,1,0,1,1,6,4.8,-6,Blake Griffin
 1,2,2.0,2021-10-22,32-220,BRK,@,PHI,W (+5),1,19:01,1,6,.167,0,5,.000,2,3,.667,0,3,3,0,1,1,0,2,4,1.6,-7,Blake Griffin
 2,3,,2021-10-24,32-222,BRK,,CHO,L (-16),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Blake Griffin
@@ -2949,6 +3011,7 @@
 14,15,,2021-11-17,21-193,NYK,,ORL,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Quentin Grimes
 15,16,,2021-11-20,21-196,NYK,,HOU,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Quentin Grimes
 16,17,5.0,2021-11-21,21-197,NYK,@,CHI,L (-6),0,0:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Quentin Grimes
+17,18,6.0,2021-11-23,21-199,NYK,,LAL,W (+6),0,4:47,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+6,Quentin Grimes
 0,1,1.0,2021-10-20,21-233,SAC,@,POR,W (+3),1,28:36,1,5,.200,0,1,.000,0,0,,0,2,2,4,1,0,1,2,2,1.5,+8,Tyrese Haliburton
 1,2,2.0,2021-10-22,21-235,SAC,,UTA,L (-9),1,35:01,7,12,.583,0,2,.000,1,1,1.000,0,3,3,6,3,1,2,0,15,16.2,-17,Tyrese Haliburton
 2,3,3.0,2021-10-24,21-237,SAC,,GSW,L (-12),1,29:52,3,9,.333,2,6,.333,0,0,,1,6,7,9,0,2,2,1,8,10.7,-2,Tyrese Haliburton
@@ -2965,7 +3028,7 @@
 13,14,12.0,2021-11-15,21-259,SAC,@,DET,W (+22),1,34:49,7,11,.636,3,3,1.000,0,0,,1,1,2,10,2,1,5,2,17,17.0,+15,Tyrese Haliburton
 14,15,13.0,2021-11-17,21-261,SAC,@,MIN,L (-10),1,34:13,3,10,.300,1,5,.200,0,0,,2,3,5,3,2,0,4,3,7,2.4,-13,Tyrese Haliburton
 15,16,14.0,2021-11-19,21-263,SAC,,TOR,L (-19),1,24:47,3,5,.600,2,4,.500,0,0,,1,3,4,0,3,1,1,2,8,9.2,-14,Tyrese Haliburton
-16,17,15.0,2021-11-20,21-264,SAC,,UTA,L (-18),1,37:01,7,13,.538,2,5,.400,1,2,.500,1,1,2,2,4,0,2,4,17,13.1,-17,Tyrese Haliburton
+16,17,15.0,2021-11-20,21-264,SAC,,UTA,L (-18),1,37:00,7,13,.538,2,5,.400,1,2,.500,1,1,2,2,4,0,2,4,17,13.1,-17,Tyrese Haliburton
 17,18,16.0,2021-11-22,21-266,SAC,,PHI,L (-8),1,33:07,0,5,.000,0,3,.000,0,0,,2,2,4,9,1,0,1,2,0,4.0,+9,Tyrese Haliburton
 0,1,1.0,2021-10-20,20-255,ORL,@,SAS,L (-26),0,26:29,2,8,0.25,1,2,0.5,1,2,0.5,0,7,7,3,1,0,2,1,6,3.6,-22,R.J. Hampton
 1,2,2.0,2021-10-22,20-257,ORL,,NYK,L (-25),0,19:57,3,6,0.5,2,3,0.667,0,0,,1,3,4,2,0,0,2,2,8,5.2,-10,R.J. Hampton
@@ -3001,6 +3064,7 @@
 13,14,14.0,2021-11-17,29-246,DAL,@,PHO,L (-7),1,36:50,9,23,0.391,3,8,0.375,1,1,1.0,1,1,2,4,2,0,1,4,22,12.7,-11,Tim Hardaway Jr.
 14,15,15.0,2021-11-19,29-248,DAL,@,PHO,L (-8),1,35:05,7,21,0.333,2,10,0.2,2,2,1.0,0,4,4,1,1,0,0,1,18,8.6,-15,Tim Hardaway Jr.
 15,16,16.0,2021-11-21,29-250,DAL,@,LAC,L (-6),1,35:56,2,12,0.167,1,4,0.25,3,3,1.0,1,5,6,5,0,0,1,4,8,3.5,-7,Tim Hardaway Jr.
+16,17,17.0,2021-11-23,29-252,DAL,@,LAC,W (+8),1,41:00,5,17,0.294,2,10,0.2,1,2,0.5,0,5,5,2,1,0,0,5,13,4.6,6,Tim Hardaway Jr.
 0,1,1.0,2021-10-19,32-054,BRK,@,MIL,L (-23),1,30:38,6,16,0.375,4,8,0.5,4,4,1.0,3,5,8,8,1,2,4,3,20,17.6,-20,James Harden
 1,2,2.0,2021-10-22,32-057,BRK,@,PHI,W (+5),1,38:25,7,17,0.412,3,7,0.429,3,4,0.75,1,6,7,8,2,0,5,0,20,15.6,-1,James Harden
 2,3,3.0,2021-10-24,32-059,BRK,,CHO,L (-16),1,33:09,6,16,0.375,2,8,0.25,1,1,1.0,2,5,7,8,1,1,8,5,15,6.4,-15,James Harden
@@ -3144,6 +3208,7 @@
 14,15,14.0,2021-11-18,23-197,LAC,@,MEM,L (-12),0,20:07,5,6,.833,0,0,,1,1,1.000,1,5,6,4,1,2,1,3,11,14.0,+2,Isaiah Hartenstein
 15,16,15.0,2021-11-19,23-198,LAC,@,NOP,L (-13),0,19:25,5,7,.714,0,0,,1,1,1.000,2,4,6,2,2,3,1,3,11,14.0,+9,Isaiah Hartenstein
 16,17,16.0,2021-11-21,23-200,LAC,,DAL,W (+6),0,5:14,1,3,.333,0,0,,0,0,,2,0,2,1,1,1,0,0,2,4.1,-1,Isaiah Hartenstein
+17,18,17.0,2021-11-23,23-202,LAC,,DAL,L (-8),0,10:37,2,4,.500,0,0,,0,0,,4,1,5,1,0,0,0,1,4,5.4,-7,Isaiah Hartenstein
 0,1,,2021-10-21,41-134,MIA,,MIL,W (+42),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Udonis Haslem
 1,2,,2021-10-23,41-136,MIA,@,IND,L (-11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Udonis Haslem
 2,3,,2021-10-25,41-138,MIA,,ORL,W (+17),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Udonis Haslem
@@ -3161,6 +3226,7 @@
 14,15,4.0,2021-11-17,41-161,MIA,,NOP,W (+15),0,7:21,1,1,1.000,0,0,,0,0,,0,3,3,1,0,1,0,2,2,3.2,+12,Udonis Haslem
 15,16,,2021-11-18,41-162,MIA,,WAS,W (+15),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Udonis Haslem
 16,17,,2021-11-20,41-164,MIA,@,WAS,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Udonis Haslem
+17,18,,2021-11-23,41-167,MIA,@,DET,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Udonis Haslem
 0,1,,2021-10-20,23-316,BOS,@,NYK,L (-4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Sam Hauser
 1,2,,2021-10-22,23-318,BOS,,TOR,L (-32),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Sam Hauser
 2,3,,2021-10-24,23-320,BOS,@,HOU,W (+10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Sam Hauser
@@ -3214,6 +3280,7 @@
 13,14,13.0,2021-11-17,20-113,DET,,IND,W (+8),1,19:45,2,2,1.000,0,0,,0,0,,1,3,4,4,3,1,3,4,4,6.9,-2,Killian Hayes
 14,15,14.0,2021-11-19,20-115,DET,,GSW,L (-3),1,18:11,1,4,.250,1,2,.500,0,0,,0,4,4,1,1,0,1,5,3,0.5,-11,Killian Hayes
 15,16,,2021-11-21,20-117,DET,,LAL,L (-5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Killian Hayes
+16,17,,2021-11-23,20-119,DET,,MIA,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Killian Hayes
 0,1,1.0,2021-10-20,31-211,CHO,,IND,W (+1),1,35:15,10,22,0.455,2,4,0.5,5,8,0.625,0,5,5,3,1,0,3,3,27,14.8,12,Gordon Hayward
 1,2,2.0,2021-10-22,31-213,CHO,@,CLE,W (+11),1,34:35,6,12,0.5,4,7,0.571,2,2,1.0,1,0,1,9,0,1,4,3,18,14.5,21,Gordon Hayward
 2,3,3.0,2021-10-24,31-215,CHO,@,BRK,W (+16),1,32:48,4,11,0.364,0,4,0.0,0,0,,0,3,3,6,0,0,5,3,8,0.8,14,Gordon Hayward
@@ -3305,6 +3372,7 @@
 14,15,15.0,2021-11-17,21-301,MIA,,NOP,W (+15),1,36:59,7,19,.368,3,9,.333,2,2,1.000,1,2,3,5,1,0,4,1,19,9.9,+19,Tyler Herro
 15,16,,2021-11-18,21-302,MIA,,WAS,W (+15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Tyler Herro
 16,17,16.0,2021-11-20,21-304,MIA,@,WAS,L (-3),0,30:29,8,16,.500,3,6,.500,1,1,1.000,1,4,5,3,2,0,3,1,20,14.6,-14,Tyler Herro
+17,18,17.0,2021-11-23,21-307,MIA,@,DET,W (+8),0,32:55,12,21,.571,4,8,.500,3,4,.750,1,7,8,3,0,0,3,1,31,22.2,+15,Tyler Herro
 0,1,1.0,2021-10-20,28-307,SAC,@,POR,W (+3),0,30:52,5,9,0.556,4,7,0.571,3,4,0.75,0,6,6,2,0,0,0,2,17,14.7,5,Buddy Hield
 1,2,2.0,2021-10-22,28-309,SAC,,UTA,L (-9),0,26:03,9,21,0.429,6,15,0.4,0,0,,2,5,7,1,0,0,4,2,24,11.7,0,Buddy Hield
 2,3,3.0,2021-10-24,28-311,SAC,,GSW,L (-12),0,25:03,2,11,0.182,2,10,0.2,0,0,,1,3,4,3,0,0,2,3,6,-0.4,-12,Buddy Hield
@@ -3485,6 +3553,7 @@
 15,16,3.0,2021-11-17,20-357,LAL,@,MIL,L (-7),1,38:58,9,18,.500,3,6,.500,4,4,1.000,4,8,12,3,2,1,3,5,25,21.0,+3,Talen Horton-Tucker
 16,17,4.0,2021-11-19,20-359,LAL,@,BOS,L (-22),1,26:55,0,6,.000,0,1,.000,2,2,1.000,0,2,2,3,0,0,1,4,2,-2.1,-12,Talen Horton-Tucker
 17,18,5.0,2021-11-21,20-361,LAL,@,DET,W (+5),0,32:45,4,13,.308,0,2,.000,0,0,,2,4,6,3,1,0,2,4,8,2.6,+13,Talen Horton-Tucker
+18,19,6.0,2021-11-23,20-363,LAL,@,NYK,L (-6),1,28:45,0,8,.000,0,2,.000,0,0,,0,2,2,4,1,1,2,3,0,-3.7,-18,Talen Horton-Tucker
 0,1,,2021-10-20,28-135,HOU,@,MIN,L (-18),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Danuel House
 1,2,1.0,2021-10-22,28-137,HOU,,OKC,W (+33),0,11:07,0,2,.000,0,1,.000,2,2,1.000,0,3,3,2,1,0,0,0,2,3.9,+4,Danuel House
 2,3,2.0,2021-10-24,28-139,HOU,,BOS,L (-10),0,13:43,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,0,0,-1.8,-3,Danuel House
@@ -3520,6 +3589,7 @@
 15,16,14.0,2021-11-17,35-344,LAL,@,MIL,L (-7),0,8:17,1,2,.500,0,0,,1,2,.500,0,2,2,0,1,1,0,1,3,3.5,-11,Dwight Howard
 16,17,15.0,2021-11-19,35-346,LAL,@,BOS,L (-22),0,9:32,2,2,1.000,1,1,1.000,2,2,1.000,2,2,4,2,0,0,0,2,7,9.0,-9,Dwight Howard
 17,18,16.0,2021-11-21,35-348,LAL,@,DET,W (+5),0,13:14,5,6,.833,2,2,1.000,1,2,.500,1,4,5,0,0,0,0,1,13,11.9,-8,Dwight Howard
+18,19,17.0,2021-11-23,35-350,LAL,@,NYK,L (-6),0,9:53,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-0.4,-4,Dwight Howard
 0,1,,2021-10-20,22-231,DEN,@,PHO,W (+12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Markus Howard
 1,2,,2021-10-22,22-233,DEN,,SAS,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Markus Howard
 2,3,1.0,2021-10-25,22-236,DEN,,CLE,L (-12),0,2:44,0,0,,0,0,,0,0,,0,0,0,0,1,0,1,0,0,0.0,+5,Markus Howard
@@ -3537,6 +3607,7 @@
 14,15,6.0,2021-11-18,22-260,DEN,,PHI,L (-14),0,8:54,1,3,.333,1,2,.500,0,0,,0,1,1,0,1,0,0,0,3,2.6,+3,Markus Howard
 15,16,,2021-11-19,22-261,DEN,,CHI,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Markus Howard
 16,17,7.0,2021-11-21,22-263,DEN,@,PHO,L (-29),0,10:36,1,8,.125,1,5,.200,4,4,1.000,0,0,0,0,0,0,0,0,7,1.8,-4,Markus Howard
+17,18,8.0,2021-11-23,22-265,DEN,@,POR,L (-19),0,3:25,1,3,.333,0,1,.000,0,0,,0,0,0,1,1,0,0,0,2,2.0,0,Markus Howard
 0,1,1.0,2021-10-21,23-055,ATL,,DAL,W (+26),0,21:40,3,8,.375,0,3,.000,0,0,,1,5,6,2,0,1,2,0,6,3.9,+6,Kevin Huerter
 1,2,2.0,2021-10-23,23-057,ATL,@,CLE,L (-6),0,21:33,2,9,.222,0,4,.000,0,0,,0,1,1,2,1,0,1,2,4,-0.6,+10,Kevin Huerter
 2,3,3.0,2021-10-25,23-059,ATL,,DET,W (+18),1,27:20,5,8,.625,2,3,.667,2,2,1.000,0,1,1,4,1,0,1,2,14,12.7,+12,Kevin Huerter
@@ -3573,6 +3644,7 @@
 15,16,,2021-11-17,23-084,LAL,@,MIL,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jay Huff
 16,17,,2021-11-19,23-086,LAL,@,BOS,L (-22),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jay Huff
 17,18,,2021-11-21,23-088,LAL,@,DET,W (+5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jay Huff
+18,19,,2021-11-23,23-090,LAL,@,NYK,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jay Huff
 0,1,1.0,2021-10-20,23-224,UTA,,OKC,W (+21),0,3:14,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,-3,Elijah Hughes
 1,2,,2021-10-22,23-226,UTA,@,SAC,W (+9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Elijah Hughes
 2,3,,2021-10-26,23-230,UTA,,DEN,W (+12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Elijah Hughes
@@ -3642,6 +3714,7 @@
 14,15,12.0,2021-11-18,21-065,DEN,,PHI,L (-14),0,14:07,0,7,.000,0,5,.000,2,2,1.000,0,3,3,0,0,1,2,1,2,-3.7,-21,Bones Hyland
 15,16,13.0,2021-11-19,21-066,DEN,,CHI,L (-6),0,18:40,2,7,.286,2,5,.400,0,0,,0,2,2,0,0,0,0,3,6,1.3,-5,Bones Hyland
 16,17,14.0,2021-11-21,21-068,DEN,@,PHO,L (-29),0,2:20,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-1.1,-3,Bones Hyland
+17,18,,2021-11-23,21-070,DEN,@,POR,L (-19),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Bones Hyland
 0,1,,2021-10-21,32-033,LAC,@,GSW,L (-2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Serge Ibaka
 1,2,,2021-10-23,32-035,LAC,,MEM,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Serge Ibaka
 2,3,,2021-10-25,32-037,LAC,,POR,W (+30),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Serge Ibaka
@@ -3659,6 +3732,7 @@
 14,15,,2021-11-18,32-061,LAC,@,MEM,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Serge Ibaka
 15,16,,2021-11-19,32-062,LAC,@,NOP,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Serge Ibaka
 16,17,3.0,2021-11-21,32-064,LAC,,DAL,W (+6),0,12:25,2,8,.250,0,2,.000,2,4,.500,2,2,4,0,1,0,2,2,6,0.6,-1,Serge Ibaka
+17,18,4.0,2021-11-23,32-066,LAC,,DAL,L (-8),0,6:28,0,1,.000,0,0,,1,2,.500,1,1,2,0,0,0,0,0,1,0.9,-6,Serge Ibaka
 0,1,1.0,2021-10-19,37-264,GSW,@,LAL,W (+7),0,22:58,4,7,.571,2,5,.400,2,2,1.000,0,1,1,2,0,1,0,1,12,10.7,+8,Andre Iguodala
 1,2,2.0,2021-10-21,37-266,GSW,,LAC,W (+2),0,23:36,2,2,1.000,0,0,,0,0,,0,6,6,3,1,1,1,0,4,8.0,+13,Andre Iguodala
 2,3,,2021-10-24,37-269,GSW,@,SAC,W (+12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Andre Iguodala
@@ -3728,6 +3802,7 @@
 13,14,14.0,2021-11-17,23-197,DET,,IND,W (+8),0,26:09,4,7,0.571,3,5,0.6,0,0,,0,1,1,2,1,0,0,2,11,9.6,11,Frank Jackson
 14,15,15.0,2021-11-19,23-199,DET,,GSW,L (-3),0,32:54,8,15,0.533,5,12,0.417,6,6,1.0,0,2,2,0,3,0,0,1,27,22.9,20,Frank Jackson
 15,16,16.0,2021-11-21,23-201,DET,,LAL,L (-5),0,25:43,5,11,0.455,3,6,0.5,2,2,1.0,1,1,2,0,0,3,1,2,15,10.6,-13,Frank Jackson
+16,17,17.0,2021-11-23,23-203,DET,,MIA,L (-8),0,30:41,5,12,0.417,3,9,0.333,0,0,,1,0,1,1,0,0,0,6,13,5.6,-17,Frank Jackson
 0,1,,2021-10-20,19-283,IND,@,CHO,L (-1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Isaiah Jackson
 1,2,,2021-10-22,19-285,IND,@,WAS,L (-1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Isaiah Jackson
 2,3,1.0,2021-10-23,19-286,IND,,MIA,W (+11),0,1:30,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,+1,Isaiah Jackson
@@ -3780,6 +3855,7 @@
 13,14,,2021-11-17,24-280,DET,,IND,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Josh Jackson
 14,15,,2021-11-19,24-282,DET,,GSW,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Josh Jackson
 15,16,14.0,2021-11-21,24-284,DET,,LAL,L (-5),0,15:15,2,4,.500,0,1,.000,1,2,.500,1,3,4,3,0,1,1,4,5,4.4,-11,Josh Jackson
+16,17,15.0,2021-11-23,24-286,DET,,MIA,L (-8),0,11:11,2,6,.333,1,3,.333,0,0,,0,2,2,0,0,0,2,0,5,0.2,-9,Josh Jackson
 0,1,1.0,2021-10-21,31-188,LAC,@,GSW,L (-2),1,39:17,4,19,0.211,3,9,0.333,0,0,,1,4,5,6,1,0,1,3,11,4.2,-9,Reggie Jackson
 1,2,2.0,2021-10-23,31-190,LAC,,MEM,L (-6),1,36:16,7,17,0.412,3,8,0.375,0,0,,0,1,1,2,1,0,0,3,17,9.4,-8,Reggie Jackson
 2,3,3.0,2021-10-25,31-192,LAC,,POR,W (+30),1,26:41,6,20,0.3,3,15,0.2,3,4,0.75,1,4,5,4,0,0,1,1,18,9.3,28,Reggie Jackson
@@ -3797,6 +3873,7 @@
 14,15,15.0,2021-11-18,31-216,LAC,@,MEM,L (-12),1,30:22,7,16,0.438,4,8,0.5,0,0,,0,2,2,5,1,0,3,1,18,11.3,-13,Reggie Jackson
 15,16,16.0,2021-11-19,31-217,LAC,@,NOP,L (-13),1,25:20,2,11,0.182,0,3,0.0,0,0,,0,2,2,2,0,0,4,1,4,-5.3,2,Reggie Jackson
 16,17,17.0,2021-11-21,31-219,LAC,,DAL,W (+6),1,35:08,8,14,0.571,4,8,0.5,3,4,0.75,0,2,2,4,0,0,2,2,23,16.6,9,Reggie Jackson
+17,18,18.0,2021-11-23,31-221,LAC,,DAL,L (-8),1,42:11,12,23,0.522,3,8,0.375,4,6,0.667,2,8,10,2,3,0,4,1,31,22.7,-9,Reggie Jackson
 0,1,1.0,2021-10-19,36-293,LAL,,GSW,L (-7),1,36:44,13,23,.565,5,11,.455,3,6,.500,1,10,11,5,1,1,4,5,34,24.8,-2,LeBron James
 1,2,2.0,2021-10-22,36-296,LAL,,PHO,L (-10),1,36:32,8,18,.444,5,9,.556,4,4,1.000,0,2,2,5,2,0,5,4,25,15.1,-6,LeBron James
 2,3,3.0,2021-10-24,36-298,LAL,,MEM,W (+3),1,40:18,7,19,.368,4,9,.444,1,2,.500,0,6,6,6,2,2,3,1,19,14.1,-1,LeBron James
@@ -3815,6 +3892,7 @@
 15,16,,2021-11-17,36-322,LAL,@,MIL,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,LeBron James
 16,17,7.0,2021-11-19,36-324,LAL,@,BOS,L (-22),1,32:04,10,16,.625,3,7,.429,0,1,.000,1,5,6,2,2,0,3,3,23,16.8,-4,LeBron James
 17,18,8.0,2021-11-21,36-326,LAL,@,DET,W (+5),1,21:26,4,7,.571,1,3,.333,1,1,1.000,0,1,1,5,0,0,2,1,10,8.1,-15,LeBron James
+18,19,,2021-11-23,36-328,LAL,@,NYK,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,LeBron James
 0,1,,2021-10-20,23-270,IND,@,CHO,L (-1),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,DeJon Jarreau
 1,2,,2021-10-22,23-272,IND,@,WAS,L (-1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,DeJon Jarreau
 2,3,,2021-10-23,23-273,IND,,MIA,W (+11),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,DeJon Jarreau
@@ -3991,6 +4069,7 @@
 14,15,,2021-11-18,19-253,LAC,@,MEM,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Keon Johnson
 15,16,,2021-11-19,19-254,LAC,@,NOP,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Keon Johnson
 16,17,,2021-11-21,19-256,LAC,,DAL,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Keon Johnson
+17,18,,2021-11-23,19-258,LAC,,DAL,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Keon Johnson
 0,1,1.0,2021-10-20,26-243,DEN,@,PHO,W (+12),1,34:43,13,22,.591,1,6,.167,0,0,,2,11,13,2,2,0,3,3,27,20.7,+28,Nikola Jokić
 1,2,2.0,2021-10-22,26-245,DEN,,SAS,W (+6),1,33:37,14,19,.737,2,2,1.000,2,3,.667,5,11,16,7,3,1,6,4,32,31.7,+14,Nikola Jokić
 2,3,3.0,2021-10-25,26-248,DEN,,CLE,L (-12),1,34:57,9,15,.600,1,4,.250,5,6,.833,3,16,19,3,3,0,6,3,24,21.5,-12,Nikola Jokić
@@ -4008,6 +4087,7 @@
 14,15,14.0,2021-11-18,26-272,DEN,,PHI,L (-14),1,35:24,10,17,.588,3,4,.750,7,9,.778,1,9,10,7,0,1,1,3,30,28.1,-5,Nikola Jokić
 15,16,,2021-11-19,26-273,DEN,,CHI,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Nikola Jokić
 16,17,,2021-11-21,26-275,DEN,@,PHO,L (-29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nikola Jokić
+17,18,,2021-11-23,26-277,DEN,@,POR,L (-19),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Nikola Jokić
 0,1,,2021-10-20,26-112,SAC,@,POR,W (+3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Damian Jones
 1,2,,2021-10-22,26-114,SAC,,UTA,L (-9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Damian Jones
 2,3,,2021-10-24,26-116,SAC,,GSW,L (-12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Damian Jones
@@ -4133,6 +4213,7 @@
 15,16,14.0,2021-11-17,33-119,LAL,@,MIL,L (-7),0,5:01,0,2,.000,0,0,,0,0,,2,2,4,0,0,0,0,0,0,0.6,-5,DeAndre Jordan
 16,17,,2021-11-19,33-121,LAL,@,BOS,L (-22),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,DeAndre Jordan
 17,18,15.0,2021-11-21,33-123,LAL,@,DET,W (+5),1,13:15,3,4,.750,0,0,,0,0,,4,5,9,1,0,1,1,2,6,8.3,0,DeAndre Jordan
+18,19,16.0,2021-11-23,33-125,LAL,@,NYK,L (-6),1,24:35,3,6,.500,0,0,,0,0,,4,7,11,0,1,1,0,2,6,8.8,-7,DeAndre Jordan
 0,1,1.0,2021-10-20,30-061,DET,,CHI,L (-6),0,27:42,1,6,0.167,1,4,0.25,0,0,,2,1,3,2,2,1,1,0,3,4.0,5,Cory Joseph
 1,2,2.0,2021-10-23,30-064,DET,@,CHI,L (-15),0,20:55,2,7,0.286,0,2,0.0,1,2,0.5,1,0,1,3,0,1,1,0,5,3.0,3,Cory Joseph
 2,3,3.0,2021-10-25,30-066,DET,@,ATL,L (-18),0,15:36,0,5,0.0,0,2,0.0,0,0,,0,0,0,3,0,0,1,2,0,-3.2,-17,Cory Joseph
@@ -4149,6 +4230,7 @@
 13,14,14.0,2021-11-17,30-089,DET,,IND,W (+8),0,30:45,7,11,0.636,1,3,0.333,3,4,0.75,0,5,5,2,1,0,1,2,18,14.8,14,Cory Joseph
 14,15,15.0,2021-11-19,30-091,DET,,GSW,L (-3),0,29:49,2,5,0.4,0,1,0.0,4,5,0.8,1,1,2,5,2,0,3,2,8,7.6,8,Cory Joseph
 15,16,16.0,2021-11-21,30-093,DET,,LAL,L (-5),1,38:37,1,4,0.25,1,3,0.333,2,2,1.0,0,4,4,7,1,0,0,3,5,8.5,-1,Cory Joseph
+16,17,17.0,2021-11-23,30-095,DET,,MIA,L (-8),1,34:15,4,7,0.571,0,2,0.0,1,1,1.0,0,2,2,9,3,0,3,3,9,11.4,7,Cory Joseph
 0,1,1.0,2021-10-19,22-290,MIL,,BRK,W (+23),0,1:16,0,2,.000,0,0,,0,0,,2,0,2,0,0,0,0,0,0,0.0,+2,Georgios Kalaitzakis
 1,2,2.0,2021-10-21,22-292,MIL,@,MIA,L (-42),0,17:46,3,5,.600,1,2,.500,1,4,.250,1,2,3,0,0,0,3,2,8,2.0,-12,Georgios Kalaitzakis
 2,3,,2021-10-23,22-294,MIL,@,SAS,W (+10),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Georgios Kalaitzakis
@@ -4219,6 +4301,7 @@
 14,15,15.0,2021-11-18,25-147,LAC,@,MEM,L (-12),0,24:16,6,8,0.75,3,4,0.75,0,0,,0,2,2,1,1,0,1,1,15,12.7,-15,Luke Kennard
 15,16,16.0,2021-11-19,25-148,LAC,@,NOP,L (-13),0,30:14,2,12,0.167,2,8,0.25,0,0,,0,3,3,2,1,0,0,0,6,1.7,-9,Luke Kennard
 16,17,17.0,2021-11-21,25-150,LAC,,DAL,W (+6),0,34:26,3,8,0.375,3,7,0.429,0,0,,1,2,3,2,2,1,1,2,9,8.2,1,Luke Kennard
+17,18,18.0,2021-11-23,25-152,LAC,,DAL,L (-8),0,31:35,2,5,0.4,2,4,0.5,0,0,,1,0,1,1,0,0,1,4,6,2.1,-5,Luke Kennard
 0,1,,2021-10-20,22-231,WAS,@,TOR,W (+15),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Corey Kispert
 1,2,1.0,2021-10-22,22-233,WAS,,IND,W (+1),0,10:01,1,2,.500,0,1,.000,0,0,,0,1,1,1,1,0,1,2,2,1.2,+8,Corey Kispert
 2,3,2.0,2021-10-25,22-236,WAS,@,BRK,L (-14),0,4:30,1,1,1.000,0,0,,0,0,,1,0,1,0,0,1,0,0,2,3.1,+2,Corey Kispert
@@ -4252,6 +4335,7 @@
 13,14,,2021-11-17,29-292,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Maxi Kleber
 14,15,,2021-11-19,29-294,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Maxi Kleber
 15,16,7.0,2021-11-21,29-296,DAL,@,LAC,L (-6),0,20:04,2,7,.286,1,5,.200,0,0,,1,3,4,0,0,1,0,0,5,3.2,-3,Maxi Kleber
+16,17,8.0,2021-11-23,29-298,DAL,@,LAC,W (+8),0,35:49,2,6,.333,1,3,.333,3,4,.750,1,8,9,6,2,1,0,4,8,12.6,+10,Maxi Kleber
 0,1,,2021-10-20,24-030,MIN,,HOU,W (+18),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Nathan Knight
 1,2,,2021-10-23,24-033,MIN,,NOP,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Nathan Knight
 2,3,,2021-10-25,24-035,MIN,,NOP,L (-9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Nathan Knight
@@ -4286,6 +4370,7 @@
 14,15,,2021-11-17,22-098,NYK,,ORL,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Kevin Knox
 15,16,,2021-11-20,22-101,NYK,,HOU,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Kevin Knox
 16,17,,2021-11-21,22-102,NYK,@,CHI,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Kevin Knox
+17,18,,2021-11-23,22-104,NYK,,LAL,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Kevin Knox
 0,1,1.0,2021-10-20,25-212,MEM,,CLE,W (+11),0,18:32,2,3,.667,0,1,.000,0,0,,2,4,6,0,1,0,0,4,4,4.7,-1,John Konchar
 1,2,2.0,2021-10-23,25-215,MEM,@,LAC,W (+6),0,16:32,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,0,0,0.0,-5,John Konchar
 2,3,,2021-10-24,25-216,MEM,@,LAL,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,John Konchar
@@ -4493,6 +4578,7 @@
 13,14,,2021-11-17,22-147,DET,,IND,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Saben Lee
 14,15,,2021-11-19,22-149,DET,,GSW,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Saben Lee
 15,16,,2021-11-21,22-151,DET,,LAL,L (-5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Saben Lee
+16,17,6.0,2021-11-23,22-153,DET,,MIA,L (-8),0,7:27,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-1,Saben Lee
 0,1,,2021-10-20,28-126,SAC,@,POR,W (+3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Alex Len
 1,2,1.0,2021-10-22,28-128,SAC,,UTA,L (-9),0,22:35,1,2,.500,0,0,,6,8,.750,1,3,4,0,0,1,0,4,8,6.9,-12,Alex Len
 2,3,,2021-10-24,28-130,SAC,,GSW,L (-12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Alex Len
@@ -4566,6 +4652,7 @@
 14,15,14.0,2021-11-15,31-123,POR,,TOR,W (+5),1,40:04,10,21,.476,3,6,.500,1,1,1.000,2,2,4,8,2,1,3,0,24,20.6,+7,Damian Lillard
 15,16,15.0,2021-11-17,31-125,POR,,CHI,W (+5),1,40:18,6,18,.333,3,9,.333,7,7,1.000,0,4,4,10,1,1,4,1,22,17.3,+15,Damian Lillard
 16,17,16.0,2021-11-20,31-128,POR,,PHI,W (+7),1,37:01,10,21,.476,5,13,.385,14,14,1.000,0,0,0,7,0,3,4,1,39,30.9,+9,Damian Lillard
+17,18,17.0,2021-11-23,31-131,POR,,DEN,W (+19),1,31:18,9,13,.692,5,8,.625,2,2,1.000,0,3,3,5,1,0,1,1,25,23.5,+13,Damian Lillard
 0,1,1.0,2021-10-20,21-251,POR,,SAC,L (-3),0,15:47,3,5,0.6,1,1,1.0,0,0,,2,1,3,0,0,0,1,1,7,5.0,-1,Nassir Little
 1,2,2.0,2021-10-23,21-254,POR,,PHO,W (+29),0,27:26,5,10,0.5,1,4,0.25,0,2,0.0,3,4,7,2,1,0,0,1,11,10.5,8,Nassir Little
 2,3,3.0,2021-10-25,21-256,POR,@,LAC,L (-30),1,31:50,4,7,0.571,2,4,0.5,0,0,,0,4,4,1,2,2,1,3,10,9.8,-17,Nassir Little
@@ -4583,6 +4670,7 @@
 14,15,15.0,2021-11-15,21-277,POR,,TOR,W (+5),0,24:41,3,7,0.429,1,4,0.25,1,2,0.5,0,1,1,1,1,0,0,3,8,4.7,5,Nassir Little
 15,16,16.0,2021-11-17,21-279,POR,,CHI,W (+5),0,24:00,1,7,0.143,0,4,0.0,4,4,1.0,0,7,7,0,0,0,2,3,6,0.4,5,Nassir Little
 16,17,17.0,2021-11-20,21-282,POR,,PHI,W (+7),0,21:37,5,7,0.714,1,2,0.5,0,0,,2,2,4,0,0,0,2,3,11,6.9,-6,Nassir Little
+17,18,18.0,2021-11-23,21-285,POR,,DEN,W (+19),0,23:16,5,9,0.556,1,3,0.333,2,3,0.667,2,3,5,1,1,0,0,1,13,11.9,3,Nassir Little
 0,1,1.0,2021-10-19,25-255,GSW,@,LAL,W (+7),1,15:28,3,5,0.6,0,0,,1,2,0.5,2,2,4,1,1,1,1,0,7,7.7,-8,Kevon Looney
 1,2,2.0,2021-10-21,25-257,GSW,,LAC,W (+2),1,14:07,2,3,0.667,0,0,,2,2,1.0,4,3,7,1,0,1,0,4,6,8.2,8,Kevon Looney
 2,3,3.0,2021-10-24,25-260,GSW,@,SAC,W (+12),1,18:56,3,5,0.6,0,0,,2,2,1.0,1,3,4,1,0,1,0,1,8,8.3,-6,Kevon Looney
@@ -4690,6 +4778,7 @@
 14,15,,2021-11-17,35-237,MIA,,NOP,W (+15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Kyle Lowry
 15,16,14.0,2021-11-18,35-238,MIA,,WAS,W (+15),1,35:11,3,8,.375,1,5,.200,1,2,.500,0,5,5,12,1,0,2,1,8,11.7,+13,Kyle Lowry
 16,17,15.0,2021-11-20,35-240,MIA,@,WAS,L (-3),1,36:02,3,12,.250,1,7,.143,0,0,,0,3,3,7,0,1,3,5,7,1.3,+2,Kyle Lowry
+17,18,16.0,2021-11-23,35-243,MIA,@,DET,W (+8),1,35:07,4,10,.400,1,6,.167,6,6,1.000,1,5,6,8,2,2,5,3,15,14.6,+11,Kyle Lowry
 0,1,1.0,2021-10-21,26-165,ATL,,DAL,W (+26),0,3:32,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,-1,Timothé Luwawu-Cabarrot
 1,2,,2021-10-23,26-167,ATL,@,CLE,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Timothé Luwawu-Cabarrot
 2,3,2.0,2021-10-25,26-169,ATL,,DET,W (+18),0,3:11,0,3,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.8,-5,Timothé Luwawu-Cabarrot
@@ -4724,6 +4813,7 @@
 13,14,14.0,2021-11-17,26-012,DET,,IND,W (+8),0,16:19,2,8,0.25,0,3,0.0,1,1,1.0,1,1,2,0,2,0,1,1,5,1.8,6,Trey Lyles
 14,15,15.0,2021-11-19,26-014,DET,,GSW,L (-3),0,16:47,1,3,0.333,0,1,0.0,2,4,0.5,0,3,3,2,0,0,1,2,4,2.0,1,Trey Lyles
 15,16,16.0,2021-11-21,26-016,DET,,LAL,L (-5),0,11:07,2,6,0.333,1,4,0.25,2,3,0.667,0,2,2,0,0,0,2,4,7,0.2,3,Trey Lyles
+16,17,17.0,2021-11-23,26-018,DET,,MIA,L (-8),0,24:46,2,4,0.5,0,0,,2,3,0.667,3,6,9,0,0,0,0,0,6,7.5,1,Trey Lyles
 0,1,1.0,2021-10-20,20-130,OKC,@,UTA,L (-21),0,21:10,1,6,.167,0,3,.000,2,2,1.000,0,2,2,3,0,0,2,1,4,0.5,-3,Théo Maledon
 1,2,2.0,2021-10-22,20-132,OKC,@,HOU,L (-33),0,14:39,2,2,1.000,1,1,1.000,0,0,,0,0,0,3,1,0,3,2,5,3.7,0,Théo Maledon
 2,3,3.0,2021-10-24,20-134,OKC,,PHI,L (-12),0,13:05,0,2,.000,0,2,.000,0,0,,0,2,2,0,0,0,1,1,0,-2.2,-16,Théo Maledon
@@ -4776,6 +4866,7 @@
 14,15,14.0,2021-11-18,25-031,LAC,@,MEM,L (-12),0,24:29,2,9,.222,1,5,.200,0,0,,1,1,2,1,0,0,0,2,5,0.4,-8,Terance Mann
 15,16,15.0,2021-11-19,25-032,LAC,@,NOP,L (-13),0,26:31,5,8,.625,1,2,.500,0,0,,1,4,5,1,0,0,1,1,11,8.6,+1,Terance Mann
 16,17,16.0,2021-11-21,25-034,LAC,,DAL,W (+6),0,27:00,2,4,.500,1,1,1.000,2,2,1.000,1,3,4,0,0,0,0,2,7,5.8,-11,Terance Mann
+17,18,17.0,2021-11-23,25-036,LAC,,DAL,L (-8),0,19:06,2,5,.400,1,2,.500,2,2,1.000,0,2,2,2,1,0,3,6,7,1.9,0,Terance Mann
 0,1,1.0,2021-10-20,20-259,OKC,@,UTA,L (-21),0,14:54,4,7,.571,1,2,.500,0,0,,0,0,0,1,1,1,1,0,9,7.1,-4,Tre Mann
 1,2,2.0,2021-10-22,20-261,OKC,@,HOU,L (-33),0,13:02,3,5,.600,2,3,.667,0,2,.000,0,0,0,0,0,0,0,2,8,4.1,-11,Tre Mann
 2,3,3.0,2021-10-24,20-263,OKC,,PHI,L (-12),0,9:52,1,5,.200,0,2,.000,0,0,,1,0,1,0,0,0,0,1,2,-0.8,-4,Tre Mann
@@ -4809,6 +4900,7 @@
 13,14,,2021-11-17,33-094,DAL,@,PHO,L (-7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Boban Marjanović
 14,15,,2021-11-19,33-096,DAL,@,PHO,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Boban Marjanović
 15,16,8.0,2021-11-21,33-098,DAL,@,LAC,L (-6),0,3:27,2,3,.667,0,0,,2,2,1.000,0,1,1,0,0,0,0,1,6,4.6,+1,Boban Marjanović
+16,17,9.0,2021-11-23,33-100,DAL,@,LAC,W (+8),0,0:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Boban Marjanović
 0,1,1.0,2021-10-20,24-151,CLE,@,MEM,L (-11),1,31:28,4,14,.286,2,7,.286,0,0,,2,7,9,2,1,0,1,0,10,6.7,-4,Lauri Markkanen
 1,2,2.0,2021-10-22,24-153,CLE,,CHO,L (-11),1,34:24,5,11,.455,2,5,.400,1,2,.500,1,4,5,2,0,0,0,1,13,9.8,-9,Lauri Markkanen
 2,3,3.0,2021-10-23,24-154,CLE,,ATL,W (+6),1,31:42,3,15,.200,1,6,.167,5,6,.833,3,5,8,2,1,2,0,0,12,9.7,-4,Lauri Markkanen
@@ -4863,6 +4955,7 @@
 14,15,12.0,2021-11-17,26-050,MIA,,NOP,W (+15),0,23:04,5,9,.556,1,4,.250,1,1,1.000,1,5,6,3,2,0,0,1,12,13.6,+7,Caleb Martin
 15,16,13.0,2021-11-18,26-051,MIA,,WAS,W (+15),0,23:37,3,7,.429,1,2,.500,0,0,,0,5,5,0,1,1,0,0,7,6.5,+3,Caleb Martin
 16,17,14.0,2021-11-20,26-053,MIA,@,WAS,L (-3),0,17:52,1,3,.333,0,0,,2,2,1.000,1,3,4,0,1,1,0,1,4,5.2,-1,Caleb Martin
+17,18,15.0,2021-11-23,26-056,MIA,@,DET,W (+8),0,25:36,2,5,.400,1,3,.333,1,2,.500,1,1,2,0,3,1,2,1,6,5.2,+22,Caleb Martin
 0,1,1.0,2021-10-20,26-022,CHO,,IND,W (+1),0,23:38,4,5,0.8,0,1,0.0,2,2,1.0,2,4,6,0,1,1,0,1,10,12.0,-6,Cody Martin
 1,2,2.0,2021-10-22,26-024,CHO,@,CLE,W (+11),0,21:37,4,8,0.5,0,2,0.0,2,2,1.0,2,6,8,2,2,0,1,2,10,10.8,14,Cody Martin
 2,3,3.0,2021-10-24,26-026,CHO,@,BRK,W (+16),0,32:27,4,8,0.5,2,3,0.667,2,2,1.0,0,3,3,5,1,0,1,1,12,12.0,5,Cody Martin
@@ -4988,6 +5081,7 @@
 14,15,,2021-11-17,21-070,NYK,,ORL,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Miles McBride
 15,16,,2021-11-20,21-073,NYK,,HOU,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Miles McBride
 16,17,,2021-11-21,21-074,NYK,@,CHI,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Miles McBride
+17,18,,2021-11-23,21-076,NYK,,LAL,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Miles McBride
 0,1,1.0,2021-10-20,30-031,POR,,SAC,L (-3),1,35:12,14,24,0.583,6,11,0.545,0,0,,2,4,6,5,3,1,5,4,34,26.0,0,CJ McCollum
 1,2,2.0,2021-10-23,30-034,POR,,PHO,W (+29),1,29:47,10,19,0.526,6,11,0.545,2,2,1.0,0,3,3,1,1,3,2,1,28,21.0,20,CJ McCollum
 2,3,3.0,2021-10-25,30-036,POR,@,LAC,L (-30),1,32:25,7,16,0.438,4,11,0.364,2,2,1.0,0,4,4,4,2,1,3,2,20,14.5,-23,CJ McCollum
@@ -5005,6 +5099,7 @@
 14,15,15.0,2021-11-15,30-057,POR,,TOR,W (+5),1,39:44,11,18,0.611,6,11,0.545,1,2,0.5,0,3,3,6,1,2,2,1,29,25.5,-3,CJ McCollum
 15,16,16.0,2021-11-17,30-059,POR,,CHI,W (+5),1,37:52,4,14,0.286,1,5,0.2,0,0,,1,2,3,5,0,0,0,1,9,5.2,-3,CJ McCollum
 16,17,17.0,2021-11-20,30-062,POR,,PHI,W (+7),1,36:51,7,17,0.412,4,9,0.444,0,0,,0,6,6,5,1,0,3,2,18,11.4,-3,CJ McCollum
+17,18,18.0,2021-11-23,30-065,POR,,DEN,W (+19),1,34:29,13,19,0.684,5,9,0.556,1,3,0.333,0,3,3,3,2,0,0,1,32,27.7,28,CJ McCollum
 0,1,1.0,2021-10-20,29-209,IND,@,CHO,L (-1),0,24:07,3,7,0.429,0,2,0.0,0,0,,0,3,3,7,1,2,1,1,6,9.1,-8,T.J. McConnell
 1,2,2.0,2021-10-22,29-211,IND,@,WAS,L (-1),0,23:34,4,9,0.444,1,2,0.5,0,0,,0,5,5,5,0,0,1,1,9,7.9,-6,T.J. McConnell
 2,3,3.0,2021-10-23,29-212,IND,,MIA,W (+11),0,24:14,2,5,0.4,0,1,0.0,0,1,0.0,1,1,2,5,2,0,0,2,4,6.6,3,T.J. McConnell
@@ -5109,6 +5204,7 @@
 13,14,,2021-11-17,30-111,DET,,IND,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Rodney McGruder
 14,15,,2021-11-19,30-113,DET,,GSW,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Rodney McGruder
 15,16,,2021-11-21,30-115,DET,,LAL,L (-5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Rodney McGruder
+16,17,,2021-11-23,30-117,DET,,MIA,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Rodney McGruder
 0,1,,2021-10-21,23-265,DAL,@,ATL,L (-26),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,JaQuori McLaughlin
 1,2,,2021-10-23,23-267,DAL,@,TOR,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,JaQuori McLaughlin
 2,3,,2021-10-26,23-270,DAL,,HOU,W (+10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,JaQuori McLaughlin
@@ -5125,6 +5221,7 @@
 13,14,,2021-11-17,23-292,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,JaQuori McLaughlin
 14,15,,2021-11-19,23-294,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,JaQuori McLaughlin
 15,16,,2021-11-21,23-296,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,JaQuori McLaughlin
+16,17,,2021-11-23,23-298,DAL,@,LAC,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,JaQuori McLaughlin
 0,1,1.0,2021-10-20,25-194,MIN,,HOU,W (+18),0,18:39,1,3,.333,0,1,.000,1,2,.500,1,1,2,4,2,0,1,1,3,5.3,+20,Jordan McLaughlin
 1,2,2.0,2021-10-23,25-197,MIN,,NOP,W (+7),0,12:00,2,3,.667,0,1,.000,2,2,1.000,0,2,2,1,2,0,0,0,6,8.0,+5,Jordan McLaughlin
 2,3,3.0,2021-10-25,25-199,MIN,,NOP,L (-9),0,11:08,0,1,.000,0,0,,0,0,,0,1,1,3,0,0,1,0,0,0.7,-10,Jordan McLaughlin
@@ -5159,6 +5256,7 @@
 14,15,,2021-11-15,28-277,POR,,TOR,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Ben McLemore
 15,16,,2021-11-17,28-279,POR,,CHI,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Ben McLemore
 16,17,,2021-11-20,28-282,POR,,PHI,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Ben McLemore
+17,18,5.0,2021-11-23,28-285,POR,,DEN,W (+19),0,3:40,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Ben McLemore
 0,1,1.0,2021-10-20,23-145,MEM,,CLE,W (+11),1,30:39,8,14,.571,4,6,.667,0,0,,2,2,4,3,0,0,0,0,20,17.5,+17,De'Anthony Melton
 1,2,2.0,2021-10-23,23-148,MEM,@,LAC,W (+6),1,33:00,9,16,.563,4,8,.500,0,0,,2,5,7,2,0,0,0,2,22,17.9,+15,De'Anthony Melton
 2,3,3.0,2021-10-24,23-149,MEM,@,LAL,L (-3),1,27:52,5,12,.417,3,5,.600,0,0,,1,2,3,3,3,0,3,2,13,9.2,+8,De'Anthony Melton
@@ -5354,6 +5452,7 @@
 15,16,16.0,2021-11-17,23-286,LAL,@,MIL,L (-7),0,23:30,4,10,0.4,1,7,0.143,2,2,1.0,0,2,2,1,1,0,1,1,11,6.5,-9,Malik Monk
 16,17,17.0,2021-11-19,23-288,LAL,@,BOS,L (-22),0,24:38,3,7,0.429,2,4,0.5,1,1,1.0,0,1,1,2,0,1,0,2,9,6.9,-20,Malik Monk
 17,18,18.0,2021-11-21,23-290,LAL,@,DET,W (+5),0,12:18,2,3,0.667,0,1,0.0,2,2,1.0,0,3,3,2,0,0,2,0,6,5.0,0,Malik Monk
+18,19,19.0,2021-11-23,23-292,LAL,@,NYK,L (-6),0,31:05,5,14,0.357,1,7,0.143,1,2,0.5,2,2,4,4,2,1,0,2,12,10.5,2,Malik Monk
 0,1,1.0,2021-10-19,19-141,GSW,@,LAL,W (+7),0,5:34,1,3,.333,0,0,,0,0,,0,2,2,0,0,0,0,0,2,0.9,-1,Moses Moody
 1,2,2.0,2021-10-21,19-143,GSW,,LAC,W (+2),0,3:42,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,-9,Moses Moody
 2,3,,2021-10-24,19-146,GSW,@,SAC,W (+12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Moses Moody
@@ -5405,6 +5504,7 @@
 14,15,,2021-11-18,32-077,LAC,@,MEM,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Marcus Morris
 15,16,,2021-11-19,32-078,LAC,@,NOP,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Marcus Morris
 16,17,,2021-11-21,32-080,LAC,,DAL,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Marcus Morris
+17,18,3.0,2021-11-23,32-082,LAC,,DAL,L (-8),1,30:44,4,12,.333,2,7,.286,0,1,.000,0,5,5,0,0,2,4,2,10,0.9,-8,Marcus Morris
 0,1,1.0,2021-10-21,32-049,MIA,,MIL,W (+42),0,18:00,3,10,.300,1,3,.333,0,0,,2,2,4,1,1,0,2,3,7,1.7,+2,Markieff Morris
 1,2,2.0,2021-10-23,32-051,MIA,@,IND,L (-11),0,16:45,2,6,.333,0,1,.000,0,0,,1,0,1,1,0,0,2,1,4,-0.4,-3,Markieff Morris
 2,3,3.0,2021-10-25,32-053,MIA,,ORL,W (+17),0,25:10,7,11,.636,1,4,.250,1,1,1.000,1,2,3,1,1,1,0,3,16,13.6,+11,Markieff Morris
@@ -5422,6 +5522,7 @@
 14,15,,2021-11-17,32-076,MIA,,NOP,W (+15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Markieff Morris
 15,16,,2021-11-18,32-077,MIA,,WAS,W (+15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Markieff Morris
 16,17,,2021-11-20,32-079,MIA,@,WAS,L (-3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Markieff Morris
+17,18,,2021-11-23,32-082,MIA,@,DET,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Markieff Morris
 0,1,1.0,2021-10-20,26-115,DEN,@,PHO,W (+12),1,28:26,3,8,0.375,3,6,0.5,0,2,0.0,0,2,2,3,0,0,1,1,9,5.1,18,Monte Morris
 1,2,2.0,2021-10-22,26-117,DEN,,SAS,W (+6),1,29:07,6,12,0.5,1,5,0.2,0,0,,0,2,2,1,1,0,4,2,13,4.5,0,Monte Morris
 2,3,3.0,2021-10-25,26-120,DEN,,CLE,L (-12),1,27:09,1,4,0.25,0,1,0.0,0,0,,0,2,2,6,0,0,2,2,2,1.6,-4,Monte Morris
@@ -5439,6 +5540,7 @@
 14,15,15.0,2021-11-18,26-144,DEN,,PHI,L (-14),1,32:17,5,13,0.385,1,3,0.333,0,0,,0,3,3,4,2,0,1,4,11,7.0,-1,Monte Morris
 15,16,16.0,2021-11-19,26-145,DEN,,CHI,L (-6),1,28:03,3,10,0.3,0,3,0.0,0,0,,0,3,3,5,1,0,0,2,6,4.8,-6,Monte Morris
 16,17,17.0,2021-11-21,26-147,DEN,@,PHO,L (-29),1,23:04,3,8,0.375,2,4,0.5,2,2,1.0,0,1,1,3,0,0,0,3,10,6.8,-18,Monte Morris
+17,18,18.0,2021-11-23,26-149,DEN,@,POR,L (-19),1,30:14,7,11,0.636,2,3,0.667,0,0,,0,2,2,2,0,0,4,2,16,8.3,-11,Monte Morris
 0,1,,2021-10-27,27-137,ORL,,CHO,L (-9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mychal Mulder
 1,2,,2021-10-29,27-139,ORL,@,TOR,L (-1),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Mychal Mulder
 2,3,1.0,2021-10-30,27-140,ORL,@,DET,L (-7),0,3:20,1,4,.250,1,1,1.000,0,0,,1,0,1,0,0,0,0,1,3,0.9,+8,Mychal Mulder
@@ -5557,6 +5659,7 @@
 14,15,15.0,2021-11-15,28-318,POR,,TOR,W (+5),0,23:12,7,7,1.0,1,1,1.0,0,0,,0,5,5,2,0,0,2,3,15,12.6,6,Larry Nance Jr.
 15,16,16.0,2021-11-17,28-320,POR,,CHI,W (+5),0,24:40,6,9,0.667,2,3,0.667,2,2,1.0,3,6,9,3,3,1,2,3,16,18.6,10,Larry Nance Jr.
 16,17,17.0,2021-11-20,28-323,POR,,PHI,W (+7),0,22:21,3,5,0.6,0,0,,1,1,1.0,2,3,5,0,2,0,0,3,7,7.8,-3,Larry Nance Jr.
+17,18,18.0,2021-11-23,28-326,POR,,DEN,W (+19),0,15:22,1,4,0.25,0,1,0.0,0,0,,4,3,7,2,2,0,0,2,2,5.9,5,Larry Nance Jr.
 0,1,,2021-10-20,22-212,CLE,@,MEM,L (-11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,RJ Nembhard
 1,2,1.0,2021-10-22,22-214,CLE,,CHO,L (-11),0,1:52,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4,+3,RJ Nembhard
 2,3,,2021-10-23,22-215,CLE,,ATL,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,RJ Nembhard
@@ -5645,6 +5748,7 @@
 14,15,,2021-11-18,20-313,DEN,,PHI,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Zeke Nnaji
 15,16,,2021-11-19,20-314,DEN,,CHI,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Zeke Nnaji
 16,17,,2021-11-21,20-316,DEN,@,PHO,L (-29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Zeke Nnaji
+17,18,6.0,2021-11-23,20-318,DEN,@,POR,L (-19),0,14:58,3,6,.500,2,4,.500,0,0,,1,6,7,0,0,2,3,0,8,5.9,-3,Zeke Nnaji
 0,1,,2021-10-20,27-193,NYK,,BOS,W (+4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Nerlens Noel
 1,2,,2021-10-22,27-195,NYK,@,ORL,W (+25),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Nerlens Noel
 2,3,,2021-10-24,27-197,NYK,,ORL,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Nerlens Noel
@@ -5662,6 +5766,7 @@
 14,15,,2021-11-17,27-221,NYK,,ORL,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Nerlens Noel
 15,16,5.0,2021-11-20,27-224,NYK,,HOU,W (+7),0,29:05,0,2,.000,0,1,.000,2,2,1.000,1,5,6,1,0,3,3,5,2,0.6,+6,Nerlens Noel
 16,17,6.0,2021-11-21,27-225,NYK,@,CHI,L (-6),1,26:13,3,4,.750,0,0,,0,0,,3,2,5,2,0,3,1,5,6,7.6,-10,Nerlens Noel
+17,18,7.0,2021-11-23,27-227,NYK,,LAL,W (+6),1,39:23,2,7,.286,0,0,,0,0,,3,4,7,1,3,2,0,4,4,6.7,-1,Nerlens Noel
 0,1,1.0,2021-10-20,22-103,MIN,,HOU,W (+18),0,5:33,1,3,.333,0,0,,0,0,,1,1,2,1,0,0,1,1,2,0.6,-13,Jaylen Nowell
 1,2,,2021-10-23,22-106,MIN,,NOP,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jaylen Nowell
 2,3,,2021-10-25,22-108,MIN,,NOP,L (-9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jaylen Nowell
@@ -5695,6 +5800,7 @@
 13,14,13.0,2021-11-17,23-112,DAL,@,PHO,L (-7),0,18:12,5,8,.625,3,3,1.000,0,0,,0,3,3,1,1,0,0,0,13,12.0,-4,Frank Ntilikina
 14,15,14.0,2021-11-19,23-114,DAL,@,PHO,L (-8),0,17:35,0,7,.000,0,4,.000,4,4,1.000,0,3,3,5,3,0,2,3,4,3.3,+2,Frank Ntilikina
 15,16,15.0,2021-11-21,23-116,DAL,@,LAC,L (-6),0,8:45,1,6,.167,1,4,.250,0,0,,0,0,0,1,0,1,1,0,3,-0.4,+5,Frank Ntilikina
+16,17,,2021-11-23,23-118,DAL,@,LAC,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Frank Ntilikina
 0,1,1.0,2021-10-20,27-058,POR,,SAC,L (-3),1,28:45,6,10,0.6,1,1,1.0,7,7,1.0,3,11,14,2,0,1,1,4,20,20.3,-2,Jusuf Nurkić
 1,2,2.0,2021-10-23,27-061,POR,,PHO,W (+29),1,25:16,4,7,0.571,0,2,0.0,1,2,0.5,1,11,12,3,2,0,2,1,9,11.0,30,Jusuf Nurkić
 2,3,3.0,2021-10-25,27-063,POR,@,LAC,L (-30),1,23:26,2,6,0.333,0,0,,0,0,,2,8,10,1,0,0,6,3,4,-2.1,-21,Jusuf Nurkić
@@ -5712,6 +5818,7 @@
 14,15,15.0,2021-11-15,27-084,POR,,TOR,W (+5),1,18:08,2,4,0.5,0,0,,1,1,1.0,1,13,14,0,0,0,0,2,5,6.8,4,Jusuf Nurkić
 15,16,16.0,2021-11-17,27-086,POR,,CHI,W (+5),1,22:35,8,13,0.615,0,0,,2,2,1.0,6,6,12,1,1,1,2,5,18,16.5,-2,Jusuf Nurkić
 16,17,17.0,2021-11-20,27-089,POR,,PHI,W (+7),1,23:01,5,6,0.833,1,1,1.0,0,0,,1,10,11,3,2,1,1,4,11,14.7,7,Jusuf Nurkić
+17,18,18.0,2021-11-23,27-092,POR,,DEN,W (+19),1,24:10,2,6,0.333,0,0,,2,2,1.0,2,5,7,3,1,1,2,1,6,6.9,18,Jusuf Nurkić
 0,1,1.0,2021-10-20,28-279,HOU,@,MIN,L (-18),0,17:02,3,7,.429,0,2,.000,1,4,.250,0,4,4,2,2,0,1,6,7,3.3,+18,David Nwaba
 1,2,2.0,2021-10-22,28-281,HOU,,OKC,W (+33),0,15:50,3,7,.429,0,1,.000,0,0,,2,5,7,2,2,1,2,0,6,7.3,+3,David Nwaba
 2,3,3.0,2021-10-24,28-283,HOU,,BOS,L (-10),0,3:45,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,+1,David Nwaba
@@ -5763,7 +5870,7 @@
 13,14,14.0,2021-11-16,28-164,UTA,,PHI,W (+35),1,26:58,1,2,0.5,1,2,0.5,0,0,,0,9,9,1,1,1,2,3,3,3.9,18,Royce O'Neale
 14,15,15.0,2021-11-18,28-166,UTA,,TOR,W (+16),1,28:42,6,8,0.75,4,6,0.667,0,0,,0,4,4,3,0,1,2,1,16,14.4,0,Royce O'Neale
 15,16,16.0,2021-11-20,28-168,UTA,@,SAC,W (+18),1,29:10,3,9,0.333,2,6,0.333,1,2,0.5,3,2,5,4,0,0,1,2,9,7.2,8,Royce O'Neale
-16,17,17.0,2021-11-22,28-170,UTA,,MEM,L (-1),1,29:38,3,6,0.5,3,6,0.5,0,0,,0,6,6,1,1,0,1,3,9,7.3,-4,Royce O'Neale
+16,17,17.0,2021-11-22,28-170,UTA,,MEM,L (-1),1,29:37,3,6,0.5,3,6,0.5,0,0,,0,6,6,1,1,0,1,3,9,7.3,-4,Royce O'Neale
 0,1,,2021-10-19,26-318,MIL,,BRK,W (+23),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Semi Ojeleye
 1,2,,2021-10-21,26-320,MIL,@,MIA,L (-42),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Semi Ojeleye
 2,3,,2021-10-23,26-322,MIL,@,SAS,W (+10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Semi Ojeleye
@@ -5852,6 +5959,7 @@
 14,15,7.0,2021-11-17,22-203,MIA,,NOP,W (+15),0,11:49,0,4,.000,0,4,.000,0,0,,1,0,1,1,0,0,0,2,0,-2.2,-16,KZ Okpala
 15,16,8.0,2021-11-18,22-204,MIA,,WAS,W (+15),0,1:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,KZ Okpala
 16,17,,2021-11-20,22-206,MIA,@,WAS,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,KZ Okpala
+17,18,,2021-11-23,22-209,MIA,@,DET,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,KZ Okpala
 0,1,1.0,2021-10-20,30-184,DET,,CHI,L (-6),0,22:10,5,10,.500,0,4,.000,0,1,.000,0,4,4,3,1,0,2,0,10,6.9,+1,Kelly Olynyk
 1,2,2.0,2021-10-23,30-187,DET,@,CHI,L (-15),0,19:03,4,8,.500,0,2,.000,2,4,.500,1,4,5,1,1,1,1,1,10,8.1,-14,Kelly Olynyk
 2,3,3.0,2021-10-25,30-189,DET,@,ATL,L (-18),1,29:43,8,15,.533,2,5,.400,3,5,.600,3,3,6,4,2,0,3,1,21,17.3,-6,Kelly Olynyk
@@ -5868,6 +5976,7 @@
 13,14,,2021-11-17,30-212,DET,,IND,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Kelly Olynyk
 14,15,,2021-11-19,30-214,DET,,GSW,L (-3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Kelly Olynyk
 15,16,,2021-11-21,30-216,DET,,LAL,L (-5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Kelly Olynyk
+16,17,,2021-11-23,30-218,DET,,MIA,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Kelly Olynyk
 0,1,,2021-10-21,24-249,DAL,@,ATL,L (-26),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Eugene Omoruyi
 1,2,,2021-10-23,24-251,DAL,@,TOR,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Eugene Omoruyi
 2,3,,2021-10-26,24-254,DAL,,HOU,W (+10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Eugene Omoruyi
@@ -5884,6 +5993,7 @@
 13,14,,2021-11-17,24-276,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Eugene Omoruyi
 14,15,,2021-11-19,24-278,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Eugene Omoruyi
 15,16,,2021-11-21,24-280,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Eugene Omoruyi
+16,17,,2021-11-23,24-282,DAL,@,LAC,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Eugene Omoruyi
 0,1,1.0,2021-10-20,24-077,UTA,,OKC,W (+21),0,1:35,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,Miye Oni
 1,2,2.0,2021-10-22,24-079,UTA,@,SAC,W (+9),0,3:48,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-12,Miye Oni
 2,3,,2021-10-26,24-083,UTA,,DEN,W (+12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Miye Oni
@@ -6075,6 +6185,7 @@
 13,14,,2021-11-17,23-328,DET,,IND,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jamorko Pickett
 14,15,,2021-11-19,23-330,DET,,GSW,L (-3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jamorko Pickett
 15,16,,2021-11-21,23-332,DET,,LAL,L (-5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jamorko Pickett
+16,17,,2021-11-23,23-334,DET,,MIA,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jamorko Pickett
 0,1,1.0,2021-10-20,31-229,CHO,,IND,W (+1),1,32:27,4,10,0.4,0,0,,0,3,0.0,4,6,10,5,0,1,0,3,8,9.0,4,Mason Plumlee
 1,2,2.0,2021-10-22,31-231,CHO,@,CLE,W (+11),1,22:09,3,4,0.75,0,0,,1,2,0.5,2,12,14,1,1,0,3,2,7,7.9,5,Mason Plumlee
 2,3,3.0,2021-10-24,31-233,CHO,@,BRK,W (+16),1,28:00,2,2,1.0,0,0,,1,4,0.25,0,6,6,2,3,2,1,1,5,9.4,-3,Mason Plumlee
@@ -6195,6 +6306,7 @@
 14,15,,2021-11-18,23-142,DEN,,PHI,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Michael Porter Jr.
 15,16,,2021-11-19,23-143,DEN,,CHI,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Michael Porter Jr.
 16,17,,2021-11-21,23-145,DEN,@,PHO,L (-29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Michael Porter Jr.
+17,18,,2021-11-23,23-147,DEN,@,POR,L (-19),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Michael Porter Jr.
 0,1,1.0,2021-10-19,28-138,GSW,@,LAL,W (+7),0,11:35,1,3,.333,1,2,.500,2,2,1.000,0,1,1,0,1,0,1,2,5,2.8,+1,Otto Porter
 1,2,2.0,2021-10-21,28-140,GSW,,LAC,W (+2),0,18:17,2,3,.667,0,1,.000,0,0,,1,6,7,2,0,0,2,1,4,4.2,+13,Otto Porter
 2,3,3.0,2021-10-24,28-143,GSW,@,SAC,W (+12),0,24:02,2,6,.333,0,2,.000,1,2,.500,3,6,9,3,3,1,0,4,5,9.3,+7,Otto Porter
@@ -6246,6 +6358,7 @@
 13,14,9.0,2021-11-17,26-107,DAL,@,PHO,L (-7),1,31:39,7,20,.350,2,7,.286,5,5,1.000,2,6,8,7,1,2,1,2,21,18.5,+9,Kristaps Porziņģis
 14,15,10.0,2021-11-19,26-109,DAL,@,PHO,L (-8),1,30:00,8,13,.615,3,6,.500,4,4,1.000,4,8,12,2,2,1,2,2,23,23.6,-7,Kristaps Porziņģis
 15,16,11.0,2021-11-21,26-111,DAL,@,LAC,L (-6),1,31:50,10,18,.556,0,4,.000,5,6,.833,4,4,8,2,0,2,0,4,25,21.2,-2,Kristaps Porziņģis
+16,17,12.0,2021-11-23,26-113,DAL,@,LAC,W (+8),1,40:26,9,16,.563,2,5,.400,10,10,1.000,4,3,7,1,1,1,5,2,30,22.7,+6,Kristaps Porziņģis
 0,1,1.0,2021-10-21,30-093,DAL,@,ATL,L (-26),1,20:13,1,5,0.2,0,1,0.0,2,3,0.667,2,2,4,1,1,0,1,2,4,2.4,-21,Dwight Powell
 1,2,2.0,2021-10-23,30-095,DAL,@,TOR,W (+8),1,24:37,3,3,1.0,0,0,,5,6,0.833,2,0,2,2,1,1,0,4,11,12.6,3,Dwight Powell
 2,3,3.0,2021-10-26,30-098,DAL,,HOU,W (+10),1,24:49,3,5,0.6,0,1,0.0,1,2,0.5,0,4,4,1,2,1,1,5,7,5.9,2,Dwight Powell
@@ -6262,6 +6375,7 @@
 13,14,14.0,2021-11-17,30-120,DAL,@,PHO,L (-7),1,21:46,1,1,1.0,1,1,1.0,0,0,,2,10,12,3,1,0,0,1,3,9.8,-2,Dwight Powell
 14,15,15.0,2021-11-19,30-122,DAL,@,PHO,L (-8),1,19:47,1,2,0.5,0,0,,0,0,,3,1,4,2,0,0,0,1,2,4.4,-9,Dwight Powell
 15,16,16.0,2021-11-21,30-124,DAL,@,LAC,L (-6),1,18:40,4,7,0.571,1,2,0.5,0,0,,2,3,5,1,0,1,1,1,9,8.0,-11,Dwight Powell
+16,17,17.0,2021-11-23,30-126,DAL,@,LAC,W (+8),0,8:55,0,0,,0,0,,0,2,0.0,0,1,1,0,0,0,0,2,0,-1.3,2,Dwight Powell
 0,1,1.0,2021-10-20,28-148,POR,,SAC,L (-3),1,35:10,3,9,.333,1,3,.333,7,8,.875,0,5,5,0,0,0,1,3,14,7.8,+3,Norman Powell
 1,2,2.0,2021-10-23,28-151,POR,,PHO,W (+29),1,12:25,6,8,.750,2,4,.500,2,2,1.000,0,2,2,0,0,0,0,0,16,13.4,+16,Norman Powell
 2,3,,2021-10-25,28-153,POR,@,LAC,L (-30),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Norman Powell
@@ -6279,6 +6393,7 @@
 14,15,13.0,2021-11-15,28-174,POR,,TOR,W (+5),1,32:07,3,9,.333,0,4,.000,6,8,.750,2,2,4,1,1,0,3,3,12,5.6,-3,Norman Powell
 15,16,14.0,2021-11-17,28-176,POR,,CHI,W (+5),1,35:00,6,11,.545,2,2,1.000,4,4,1.000,1,1,2,2,1,0,1,2,18,14.3,+11,Norman Powell
 16,17,15.0,2021-11-20,28-179,POR,,PHI,W (+7),1,29:26,6,11,.545,1,1,1.000,4,4,1.000,0,1,1,2,0,0,1,2,17,11.6,+10,Norman Powell
+17,18,16.0,2021-11-23,28-182,POR,,DEN,W (+19),1,26:17,5,10,.500,1,5,.200,4,6,.667,0,2,2,3,3,1,1,3,15,13.4,+16,Norman Powell
 0,1,1.0,2021-10-20,18-300,SAS,,ORL,W (+26),0,4:54,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+1,Joshua Primo
 1,2,,2021-10-22,18-302,SAS,@,DEN,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Joshua Primo
 2,3,2.0,2021-10-23,18-303,SAS,,MIL,L (-10),0,0:48,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,+2,Joshua Primo
@@ -6347,6 +6462,7 @@
 14,15,15.0,2021-11-17,22-153,NYK,,ORL,L (-6),0,24:27,2,5,0.4,2,4,0.5,0,0,,1,3,4,7,0,0,1,3,6,7.6,-1,Immanuel Quickley
 15,16,16.0,2021-11-20,22-156,NYK,,HOU,W (+7),0,21:22,3,5,0.6,2,4,0.5,5,6,0.833,0,1,1,0,0,0,1,4,13,8.0,11,Immanuel Quickley
 16,17,17.0,2021-11-21,22-157,NYK,@,CHI,L (-6),0,25:07,4,11,0.364,1,8,0.125,3,3,1.0,0,0,0,1,1,0,1,1,12,6.2,-6,Immanuel Quickley
+17,18,18.0,2021-11-23,22-159,NYK,,LAL,W (+6),0,21:57,4,9,0.444,4,8,0.5,2,2,1.0,0,3,3,3,0,0,2,3,14,9.1,4,Immanuel Quickley
 0,1,,2021-10-20,20-133,SAC,@,POR,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jahmi'us Ramsey
 1,2,,2021-10-22,20-135,SAC,,UTA,L (-9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jahmi'us Ramsey
 2,3,,2021-10-24,20-137,SAC,,GSW,L (-12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jahmi'us Ramsey
@@ -6382,6 +6498,7 @@
 14,15,15.0,2021-11-17,26-353,NYK,,ORL,L (-6),1,32:06,4,11,0.364,4,10,0.4,1,2,0.5,0,5,5,3,1,0,3,5,13,6.1,-21,Julius Randle
 15,16,16.0,2021-11-20,26-356,NYK,,HOU,W (+7),1,33:23,4,15,0.267,2,6,0.333,6,8,0.75,2,8,10,9,0,0,2,2,16,13.6,2,Julius Randle
 16,17,17.0,2021-11-21,26-357,NYK,@,CHI,L (-6),1,38:33,13,19,0.684,1,2,0.5,7,8,0.875,3,7,10,3,0,0,5,4,34,25.2,6,Julius Randle
+17,18,18.0,2021-11-23,26-359,NYK,,LAL,W (+6),1,33:47,7,17,0.412,1,5,0.2,5,8,0.625,1,15,16,5,1,0,4,5,20,13.4,-2,Julius Randle
 0,1,,2021-10-19,23-143,LAL,,GSW,L (-7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Austin Reaves
 1,2,1.0,2021-10-22,23-146,LAL,,PHO,L (-10),0,12:00,3,4,.750,2,3,.667,0,0,,0,0,0,0,0,0,0,1,8,6.0,+17,Austin Reaves
 2,3,2.0,2021-10-24,23-148,LAL,,MEM,W (+3),0,17:50,2,3,.667,0,1,.000,0,0,,0,0,0,3,0,0,0,1,4,4.4,+18,Austin Reaves
@@ -6400,6 +6517,7 @@
 15,16,,2021-11-17,23-172,LAL,@,MIL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Austin Reaves
 16,17,,2021-11-19,23-174,LAL,@,BOS,L (-22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Austin Reaves
 17,18,,2021-11-21,23-176,LAL,@,DET,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Austin Reaves
+18,19,,2021-11-23,23-178,LAL,@,NYK,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Austin Reaves
 0,1,1.0,2021-10-21,22-050,ATL,,DAL,W (+26),0,21:17,7,15,0.467,3,4,0.75,3,3,1.0,1,2,3,1,1,0,3,0,20,12.3,14,Cam Reddish
 1,2,2.0,2021-10-23,22-052,ATL,@,CLE,L (-6),0,27:38,7,14,0.5,3,5,0.6,2,4,0.5,2,4,6,0,0,0,0,3,19,12.6,-12,Cam Reddish
 2,3,3.0,2021-10-25,22-054,ATL,,DET,W (+18),0,27:16,5,14,0.357,3,7,0.429,4,4,1.0,1,3,4,1,3,0,2,2,17,11.7,6,Cam Reddish
@@ -6507,6 +6625,7 @@
 14,15,13.0,2021-11-18,29-109,DEN,,PHI,L (-14),0,20:15,2,8,.250,1,4,.250,0,0,,2,1,3,0,2,0,0,1,5,3.5,-7,Austin Rivers
 15,16,14.0,2021-11-19,29-110,DEN,,CHI,L (-6),1,32:57,3,5,.600,2,4,.500,1,2,.500,0,2,2,1,0,0,1,3,9,5.4,-1,Austin Rivers
 16,17,15.0,2021-11-21,29-112,DEN,@,PHO,L (-29),0,27:53,4,8,.500,2,5,.400,0,0,,0,1,1,3,1,1,1,1,10,8.7,-20,Austin Rivers
+17,18,16.0,2021-11-23,29-114,DEN,@,POR,L (-19),0,20:51,3,6,.500,2,5,.400,0,0,,0,1,1,2,1,0,0,2,8,6.9,-1,Austin Rivers
 0,1,1.0,2021-10-21,27-182,MIA,,MIL,W (+42),1,23:30,3,10,0.3,2,8,0.25,0,1,0.0,0,6,6,2,1,0,0,2,8,5.2,29,Duncan Robinson
 1,2,2.0,2021-10-23,27-184,MIA,@,IND,L (-11),1,36:57,5,10,0.5,4,9,0.444,0,0,,0,5,5,2,0,1,2,4,14,9.0,-9,Duncan Robinson
 2,3,3.0,2021-10-25,27-186,MIA,,ORL,W (+17),1,27:28,3,10,0.3,2,8,0.25,2,2,1.0,0,5,5,3,0,0,2,2,10,5.0,2,Duncan Robinson
@@ -6524,6 +6643,7 @@
 14,15,15.0,2021-11-17,27-209,MIA,,NOP,W (+15),1,25:38,2,7,0.286,2,6,0.333,0,0,,0,0,0,2,2,0,0,2,6,4.5,6,Duncan Robinson
 15,16,16.0,2021-11-18,27-210,MIA,,WAS,W (+15),1,26:34,2,9,0.222,2,8,0.25,0,0,,0,3,3,0,2,0,0,2,6,2.6,5,Duncan Robinson
 16,17,17.0,2021-11-20,27-212,MIA,@,WAS,L (-3),1,19:30,3,7,0.429,1,5,0.2,0,0,,2,3,5,1,1,0,1,4,7,4.7,8,Duncan Robinson
+17,18,18.0,2021-11-23,27-215,MIA,@,DET,W (+8),1,23:09,4,8,0.5,3,6,0.5,0,0,,0,3,3,0,0,0,1,3,11,5.7,-15,Duncan Robinson
 0,1,1.0,2021-10-19,24-007,MIL,,BRK,W (+23),0,4:01,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,+11,Justin Robinson
 1,2,2.0,2021-10-21,24-009,MIL,@,MIA,L (-42),0,27:28,1,7,.143,1,6,.167,2,2,1.000,0,1,1,2,0,0,1,4,5,-0.4,-35,Justin Robinson
 2,3,3.0,2021-10-23,24-011,MIL,@,SAS,W (+10),0,12:46,2,3,.667,0,1,.000,0,0,,0,3,3,0,1,0,0,1,4,4.2,+14,Justin Robinson
@@ -6559,6 +6679,7 @@
 14,15,14.0,2021-11-17,23-230,NYK,,ORL,L (-6),1,30:35,5,6,.833,0,0,,3,5,.600,8,3,11,0,0,1,0,2,13,16.4,+8,Mitchell Robinson
 15,16,15.0,2021-11-20,23-233,NYK,,HOU,W (+7),1,18:00,3,4,.750,0,0,,0,0,,1,4,5,0,1,2,0,3,6,7.5,+5,Mitchell Robinson
 16,17,,2021-11-21,23-234,NYK,@,CHI,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Mitchell Robinson
+17,18,,2021-11-23,23-236,NYK,,LAL,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Mitchell Robinson
 0,1,1.0,2021-10-20,20-351,OKC,@,UTA,L (-21),0,13:18,4,6,0.667,2,3,0.667,0,0,,0,2,2,0,0,0,0,1,10,7.6,-11,Jeremiah Robinson-Earl
 1,2,2.0,2021-10-22,20-353,OKC,@,HOU,L (-33),0,21:08,1,3,0.333,1,2,0.5,1,2,0.5,1,5,6,0,0,0,1,1,4,2.7,-7,Jeremiah Robinson-Earl
 2,3,3.0,2021-10-24,20-355,OKC,,PHI,L (-12),0,13:46,2,4,0.5,1,2,0.5,0,0,,1,3,4,0,0,0,2,1,5,2.2,-16,Jeremiah Robinson-Earl
@@ -6611,23 +6732,25 @@
 15,16,11.0,2021-11-17,35-268,LAL,@,MIL,L (-7),0,12:22,3,5,.600,2,3,.667,0,0,,1,1,2,0,0,0,1,2,8,4.9,-10,Rajon Rondo
 16,17,12.0,2021-11-19,35-270,LAL,@,BOS,L (-22),0,10:32,0,2,.000,0,1,.000,0,0,,0,0,0,2,1,0,1,3,0,-1.2,-10,Rajon Rondo
 17,18,13.0,2021-11-21,35-272,LAL,@,DET,W (+5),0,4:45,0,3,.000,0,0,,0,0,,2,0,2,1,0,0,0,0,0,0.0,-3,Rajon Rondo
-0,1,1.0,2021-10-20,33-016,NYK,,BOS,W (+4),0,22:28,3,11,0.273,1,3,0.333,2,2,1.0,0,4,4,5,2,1,2,0,9,7.9,7,Derrick Rose
-1,2,2.0,2021-10-22,33-018,NYK,@,ORL,W (+25),0,23:34,4,8,0.5,4,6,0.667,0,0,,0,0,0,7,0,0,0,1,12,12.5,34,Derrick Rose
-2,3,3.0,2021-10-24,33-020,NYK,,ORL,L (-6),0,28:38,9,16,0.563,5,8,0.625,0,1,0.0,3,2,5,3,2,0,2,0,23,19.8,8,Derrick Rose
-3,4,4.0,2021-10-26,33-022,NYK,,PHI,W (+13),0,19:50,4,7,0.571,1,2,0.5,4,4,1.0,2,1,3,1,1,1,2,1,13,11.4,10,Derrick Rose
-4,5,5.0,2021-10-28,33-024,NYK,@,CHI,W (+1),0,18:35,5,10,0.5,1,3,0.333,1,1,1.0,0,4,4,1,0,0,2,1,12,6.5,1,Derrick Rose
-5,6,6.0,2021-10-30,33-026,NYK,@,NOP,W (+6),0,15:25,2,6,0.333,1,2,0.5,0,0,,0,1,1,1,0,0,1,0,5,1.6,-1,Derrick Rose
-6,7,7.0,2021-11-01,33-028,NYK,,TOR,L (-9),0,19:36,2,8,0.25,0,2,0.0,0,0,,0,1,1,1,1,0,2,1,4,-1.2,7,Derrick Rose
-7,8,8.0,2021-11-03,33-030,NYK,@,IND,L (-13),0,19:47,5,11,0.455,0,1,0.0,3,3,1.0,1,1,2,3,1,1,2,1,13,9.7,-2,Derrick Rose
-8,9,9.0,2021-11-05,33-032,NYK,@,MIL,W (+15),0,30:25,10,18,0.556,2,6,0.333,1,1,1.0,2,6,8,4,2,0,0,0,23,22.4,31,Derrick Rose
-9,10,10.0,2021-11-07,33-034,NYK,,CLE,L (-17),1,28:58,8,14,0.571,1,2,0.5,0,0,,0,1,1,5,1,0,0,0,17,15.2,-20,Derrick Rose
-10,11,11.0,2021-11-08,33-035,NYK,@,PHI,W (+7),0,20:44,2,8,0.25,0,2,0.0,2,2,1.0,1,3,4,2,1,0,3,0,6,2.2,10,Derrick Rose
-11,12,12.0,2021-11-10,33-037,NYK,,MIL,L (-12),0,29:47,8,15,0.533,6,8,0.75,0,0,,1,2,3,7,3,1,0,0,22,24.6,10,Derrick Rose
-12,13,13.0,2021-11-12,33-039,NYK,@,CHO,L (-8),0,17:24,3,6,0.5,1,3,0.333,1,1,1.0,0,1,1,2,0,0,1,0,8,5.7,15,Derrick Rose
-13,14,14.0,2021-11-15,33-042,NYK,,IND,W (+8),0,24:33,7,14,0.5,0,4,0.0,0,0,,1,4,5,7,0,0,1,0,14,12.8,21,Derrick Rose
-14,15,15.0,2021-11-17,33-044,NYK,,ORL,L (-6),0,19:01,4,9,0.444,2,6,0.333,0,0,,0,2,2,1,1,2,5,0,10,4.0,-11,Derrick Rose
-15,16,16.0,2021-11-20,33-047,NYK,,HOU,W (+7),0,20:56,2,8,0.25,0,2,0.0,0,0,,0,1,1,4,1,2,1,1,4,3.3,-5,Derrick Rose
-16,17,17.0,2021-11-21,33-048,NYK,@,CHI,L (-6),0,30:02,3,11,0.273,1,2,0.5,2,2,1.0,1,1,2,3,1,3,0,4,9,7.1,-2,Derrick Rose
+18,19,,2021-11-23,35-274,LAL,@,NYK,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Rajon Rondo
+0,1,1.0,2021-10-20,33-016,NYK,,BOS,W (+4),0,22:28,3,11,.273,1,3,.333,2,2,1.000,0,4,4,5,2,1,2,0,9,7.9,+7,Derrick Rose
+1,2,2.0,2021-10-22,33-018,NYK,@,ORL,W (+25),0,23:34,4,8,.500,4,6,.667,0,0,,0,0,0,7,0,0,0,1,12,12.5,+34,Derrick Rose
+2,3,3.0,2021-10-24,33-020,NYK,,ORL,L (-6),0,28:38,9,16,.563,5,8,.625,0,1,.000,3,2,5,3,2,0,2,0,23,19.8,+8,Derrick Rose
+3,4,4.0,2021-10-26,33-022,NYK,,PHI,W (+13),0,19:50,4,7,.571,1,2,.500,4,4,1.000,2,1,3,1,1,1,2,1,13,11.4,+10,Derrick Rose
+4,5,5.0,2021-10-28,33-024,NYK,@,CHI,W (+1),0,18:35,5,10,.500,1,3,.333,1,1,1.000,0,4,4,1,0,0,2,1,12,6.5,+1,Derrick Rose
+5,6,6.0,2021-10-30,33-026,NYK,@,NOP,W (+6),0,15:25,2,6,.333,1,2,.500,0,0,,0,1,1,1,0,0,1,0,5,1.6,-1,Derrick Rose
+6,7,7.0,2021-11-01,33-028,NYK,,TOR,L (-9),0,19:36,2,8,.250,0,2,.000,0,0,,0,1,1,1,1,0,2,1,4,-1.2,+7,Derrick Rose
+7,8,8.0,2021-11-03,33-030,NYK,@,IND,L (-13),0,19:47,5,11,.455,0,1,.000,3,3,1.000,1,1,2,3,1,1,2,1,13,9.7,-2,Derrick Rose
+8,9,9.0,2021-11-05,33-032,NYK,@,MIL,W (+15),0,30:25,10,18,.556,2,6,.333,1,1,1.000,2,6,8,4,2,0,0,0,23,22.4,+31,Derrick Rose
+9,10,10.0,2021-11-07,33-034,NYK,,CLE,L (-17),1,28:58,8,14,.571,1,2,.500,0,0,,0,1,1,5,1,0,0,0,17,15.2,-20,Derrick Rose
+10,11,11.0,2021-11-08,33-035,NYK,@,PHI,W (+7),0,20:44,2,8,.250,0,2,.000,2,2,1.000,1,3,4,2,1,0,3,0,6,2.2,+10,Derrick Rose
+11,12,12.0,2021-11-10,33-037,NYK,,MIL,L (-12),0,29:47,8,15,.533,6,8,.750,0,0,,1,2,3,7,3,1,0,0,22,24.6,+10,Derrick Rose
+12,13,13.0,2021-11-12,33-039,NYK,@,CHO,L (-8),0,17:24,3,6,.500,1,3,.333,1,1,1.000,0,1,1,2,0,0,1,0,8,5.7,+15,Derrick Rose
+13,14,14.0,2021-11-15,33-042,NYK,,IND,W (+8),0,24:33,7,14,.500,0,4,.000,0,0,,1,4,5,7,0,0,1,0,14,12.8,+21,Derrick Rose
+14,15,15.0,2021-11-17,33-044,NYK,,ORL,L (-6),0,19:01,4,9,.444,2,6,.333,0,0,,0,2,2,1,1,2,5,0,10,4.0,-11,Derrick Rose
+15,16,16.0,2021-11-20,33-047,NYK,,HOU,W (+7),0,20:56,2,8,.250,0,2,.000,0,0,,0,1,1,4,1,2,1,1,4,3.3,-5,Derrick Rose
+16,17,17.0,2021-11-21,33-048,NYK,@,CHI,L (-6),0,30:02,3,11,.273,1,2,.500,2,2,1.000,1,1,2,3,1,3,0,4,9,7.1,-2,Derrick Rose
+17,18,,2021-11-23,33-050,NYK,,LAL,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Derrick Rose
 0,1,1.0,2021-10-20,30-257,ORL,@,SAS,L (-26),0,27:21,5,10,0.5,1,1,1.0,4,4,1.0,0,3,3,0,0,0,1,1,15,9.5,-32,Terrence Ross
 1,2,2.0,2021-10-22,30-259,ORL,,NYK,L (-25),0,24:05,4,8,0.5,4,7,0.571,0,1,0.0,0,1,1,1,0,0,2,1,12,6.2,-34,Terrence Ross
 2,3,3.0,2021-10-24,30-261,ORL,@,NYK,W (+6),0,31:17,6,11,0.545,2,6,0.333,8,9,0.889,1,0,1,3,2,0,0,1,22,20.7,0,Terrence Ross
@@ -6755,7 +6878,7 @@
 14,15,15.0,2021-11-17,28-063,BOS,@,ATL,L (-11),1,31:55,6,12,0.5,1,4,0.25,2,2,1.0,0,1,1,3,3,0,3,4,15,9.8,-10,Dennis Schröder
 15,16,16.0,2021-11-19,28-065,BOS,,LAL,W (+22),1,34:00,8,14,0.571,1,4,0.25,4,4,1.0,3,3,6,6,0,0,4,4,21,16.0,12,Dennis Schröder
 16,17,17.0,2021-11-20,28-066,BOS,,OKC,W (+6),1,36:06,13,22,0.591,3,7,0.429,0,0,,1,3,4,6,0,0,2,1,29,22.2,5,Dennis Schröder
-17,18,18.0,2021-11-22,28-068,BOS,,HOU,W (+18),0,28:18,6,15,0.4,1,2,0.5,5,5,1.0,0,1,1,0,1,0,4,2,18,6.4,7,Dennis Schröder
+17,18,18.0,2021-11-22,28-068,BOS,,HOU,W (+18),0,28:18,6,16,0.375,1,2,0.5,5,5,1.0,0,1,1,0,1,0,3,2,18,6.7,7,Dennis Schröder
 0,1,,2021-10-21,21-050,LAC,@,GSW,L (-2),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jay Scrubb
 1,2,,2021-10-23,21-052,LAC,,MEM,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jay Scrubb
 2,3,1.0,2021-10-25,21-054,LAC,,POR,W (+30),0,8:50,2,6,.333,1,2,.500,1,2,.500,0,1,1,0,0,0,0,3,6,1.3,-5,Jay Scrubb
@@ -6773,6 +6896,7 @@
 14,15,5.0,2021-11-18,21-078,LAC,@,MEM,L (-12),0,8:29,3,6,.500,1,4,.250,0,0,,0,1,1,0,0,0,1,0,7,3.3,+6,Jay Scrubb
 15,16,6.0,2021-11-19,21-079,LAC,@,NOP,L (-13),0,1:34,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Jay Scrubb
 16,17,,2021-11-21,21-081,LAC,,DAL,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jay Scrubb
+17,18,,2021-11-23,21-083,LAC,,DAL,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jay Scrubb
 0,1,,2021-10-20,27-020,NYK,,BOS,W (+4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Wayne Selden
 1,2,1.0,2021-10-22,27-022,NYK,@,ORL,W (+25),0,0:58,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Wayne Selden
 2,3,,2021-10-24,27-024,NYK,,ORL,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Wayne Selden
@@ -6790,6 +6914,7 @@
 14,15,,2021-11-17,27-048,NYK,,ORL,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Wayne Selden
 15,16,,2021-11-20,27-051,NYK,,HOU,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Wayne Selden
 16,17,,2021-11-21,27-052,NYK,@,CHI,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Wayne Selden
+17,18,,2021-11-23,27-054,NYK,,LAL,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Wayne Selden
 0,1,1.0,2021-10-20,19-087,HOU,@,MIN,L (-18),0,18:34,3,4,.750,0,0,,5,5,1.000,3,3,6,2,3,0,3,4,11,12.2,-8,Alperen Şengün
 1,2,2.0,2021-10-22,19-089,HOU,,OKC,W (+33),0,17:47,3,5,.600,0,2,.000,0,1,.000,1,3,4,1,1,2,6,4,6,0.4,+14,Alperen Şengün
 2,3,3.0,2021-10-24,19-091,HOU,,BOS,L (-10),0,19:26,1,5,.200,0,1,.000,5,6,.833,0,4,4,4,3,1,1,5,7,8.2,-3,Alperen Şengün
@@ -6913,6 +7038,7 @@
 14,15,15.0,2021-11-15,22-160,POR,,TOR,W (+5),0,16:12,3,5,0.6,2,4,0.5,0,0,,0,2,2,1,0,0,0,2,8,6.2,6,Anfernee Simons
 15,16,16.0,2021-11-17,22-162,POR,,CHI,W (+5),0,17:48,1,3,0.333,0,1,0.0,4,5,0.8,0,1,1,2,1,0,1,2,6,4.8,-2,Anfernee Simons
 16,17,17.0,2021-11-20,22-165,POR,,PHI,W (+7),0,22:16,2,7,0.286,1,4,0.25,4,4,1.0,0,2,2,3,0,0,1,0,9,6.6,8,Anfernee Simons
+17,18,18.0,2021-11-23,22-168,POR,,DEN,W (+19),0,22:53,6,12,0.5,2,5,0.4,0,0,,2,3,5,2,0,0,2,3,14,8.5,-3,Anfernee Simons
 0,1,1.0,2021-10-20,23-000,NYK,,BOS,W (+4),0,6:58,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,0,0,1,0.9,-7,Jericho Sims
 1,2,2.0,2021-10-22,23-002,NYK,@,ORL,W (+25),0,9:45,1,1,1.000,0,0,,0,0,,0,4,4,0,1,0,0,1,2,3.5,+15,Jericho Sims
 2,3,,2021-10-24,23-004,NYK,,ORL,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jericho Sims
@@ -6930,6 +7056,7 @@
 14,15,,2021-11-17,23-028,NYK,,ORL,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jericho Sims
 15,16,,2021-11-20,23-031,NYK,,HOU,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jericho Sims
 16,17,6.0,2021-11-21,23-032,NYK,@,CHI,L (-6),0,3:35,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,-3,Jericho Sims
+17,18,,2021-11-23,23-034,NYK,,LAL,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jericho Sims
 0,1,1.0,2021-10-20,27-228,BOS,@,NYK,L (-4),1,45:55,5,14,.357,5,11,.455,0,0,,0,8,8,6,2,0,4,3,15,10.6,+1,Marcus Smart
 1,2,2.0,2021-10-22,27-230,BOS,,TOR,L (-32),1,29:00,0,6,.000,0,4,.000,0,0,,0,0,0,5,2,1,2,2,0,-0.8,-12,Marcus Smart
 2,3,3.0,2021-10-24,27-232,BOS,@,HOU,W (+10),1,35:41,3,8,.375,1,5,.200,1,1,1.000,0,6,6,5,3,0,1,4,8,9.3,+12,Marcus Smart
@@ -6965,6 +7092,7 @@
 14,15,,2021-11-15,23-355,POR,,TOR,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Dennis Smith Jr.
 15,16,,2021-11-17,23-357,POR,,CHI,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Dennis Smith Jr.
 16,17,,2021-11-20,23-360,POR,,PHI,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Dennis Smith Jr.
+17,18,8.0,2021-11-23,23-363,POR,,DEN,W (+19),0,3:40,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,2,0,0,-1.7,0,Dennis Smith Jr.
 0,1,1.0,2021-10-20,33-107,CHO,,IND,W (+1),0,21:27,7,14,.500,0,0,,0,2,.000,0,0,0,5,1,1,0,1,14,11.0,-1,Ish Smith
 1,2,2.0,2021-10-22,33-109,CHO,@,CLE,W (+11),0,17:57,1,5,.200,0,0,,0,2,.000,1,1,2,8,0,0,0,0,2,4.7,+13,Ish Smith
 2,3,3.0,2021-10-24,33-111,CHO,@,BRK,W (+16),0,21:10,7,16,.438,1,1,1.000,0,0,,0,4,4,4,1,1,1,0,15,11.3,+3,Ish Smith
@@ -7018,6 +7146,7 @@
 14,15,9.0,2021-11-15,30-005,POR,,TOR,W (+5),0,11:02,0,1,.000,0,1,.000,0,0,,0,0,0,3,1,1,1,0,0,2.1,+11,Tony Snell
 15,16,10.0,2021-11-17,30-007,POR,,CHI,W (+5),0,9:44,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,1,0,3,1.6,-4,Tony Snell
 16,17,11.0,2021-11-20,30-010,POR,,PHI,W (+7),0,10:18,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,2,0,-1.2,-5,Tony Snell
+17,18,12.0,2021-11-23,30-013,POR,,DEN,W (+19),0,10:44,0,4,.000,0,3,.000,0,0,,0,0,0,0,0,0,0,1,0,-3.2,-3,Tony Snell
 0,1,1.0,2021-10-20,19-025,PHI,@,NOP,W (+20),0,2:04,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6,Jaden Springer
 1,2,,2021-10-22,19-027,PHI,,BRK,L (-5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jaden Springer
 2,3,,2021-10-24,19-029,PHI,@,OKC,W (+12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jaden Springer
@@ -7054,22 +7183,23 @@
 15,16,,2021-11-17,24-131,CLE,@,BRK,L (-10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Lamar Stevens
 16,17,,2021-11-18,24-132,CLE,,GSW,L (-15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Lamar Stevens
 17,18,,2021-11-22,24-136,CLE,,BRK,L (-5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Lamar Stevens
-0,1,1.0,2021-10-20,20-151,DET,,CHI,L (-6),1,25:50,6,9,0.667,0,1,0.0,0,0,,2,6,8,0,0,1,2,1,12,9.6,-7,Isaiah Stewart
-1,2,2.0,2021-10-23,20-154,DET,@,CHI,L (-15),1,24:16,3,7,0.429,0,0,,0,0,,3,9,12,0,0,0,1,1,6,5.7,-12,Isaiah Stewart
-2,3,3.0,2021-10-25,20-156,DET,@,ATL,L (-18),1,28:56,6,9,0.667,0,0,,1,1,1.0,3,4,7,5,1,3,2,3,13,15.8,-6,Isaiah Stewart
-3,4,4.0,2021-10-28,20-159,DET,@,PHI,L (-8),1,17:59,2,5,0.4,0,1,0.0,0,0,,1,2,3,3,0,1,1,3,4,3.2,-16,Isaiah Stewart
-4,5,5.0,2021-10-30,20-161,DET,,ORL,W (+7),1,21:23,5,8,0.625,0,1,0.0,1,2,0.5,3,5,8,0,2,1,2,2,11,10.5,-6,Isaiah Stewart
-5,6,6.0,2021-10-31,20-162,DET,@,BRK,L (-26),1,18:07,2,4,0.5,1,2,0.5,0,0,,0,1,1,0,0,0,0,1,5,2.9,-13,Isaiah Stewart
-6,7,7.0,2021-11-02,20-164,DET,,MIL,L (-28),1,24:26,2,6,0.333,0,0,,1,2,0.5,4,4,8,0,0,2,2,3,5,3.4,-13,Isaiah Stewart
-7,8,8.0,2021-11-04,20-166,DET,,PHI,L (-11),1,31:03,3,5,0.6,0,1,0.0,0,0,,0,7,7,2,1,1,0,3,6,7.7,0,Isaiah Stewart
-8,9,9.0,2021-11-05,20-167,DET,,BRK,L (-6),1,22:36,4,5,0.8,0,0,,0,0,,1,8,9,0,1,2,0,4,8,10.0,0,Isaiah Stewart
-9,10,10.0,2021-11-10,20-172,DET,@,HOU,W (+8),1,14:54,2,3,0.667,0,0,,0,0,,3,5,8,1,1,1,0,5,4,6.7,0,Isaiah Stewart
-10,11,11.0,2021-11-12,20-174,DET,@,CLE,L (-20),1,24:13,1,5,0.2,0,1,0.0,0,0,,1,6,7,0,0,2,1,3,2,0.6,-18,Isaiah Stewart
-11,12,12.0,2021-11-13,20-175,DET,@,TOR,W (+6),1,32:29,9,11,0.818,0,1,0.0,2,2,1.0,1,3,4,3,0,2,1,2,20,19.2,-5,Isaiah Stewart
-12,13,13.0,2021-11-15,20-177,DET,,SAC,L (-22),1,27:22,4,11,0.364,0,1,0.0,0,0,,7,8,15,1,0,0,0,0,8,9.9,-9,Isaiah Stewart
-13,14,14.0,2021-11-17,20-179,DET,,IND,W (+8),1,31:40,2,5,0.4,0,0,,3,3,1.0,3,8,11,2,0,2,1,5,7,8.6,2,Isaiah Stewart
-14,15,15.0,2021-11-19,20-181,DET,,GSW,L (-3),1,15:31,1,2,0.5,0,0,,0,0,,2,2,4,0,0,0,1,0,2,2.0,-2,Isaiah Stewart
-15,16,16.0,2021-11-21,20-183,DET,,LAL,L (-5),1,18:35,2,4,0.5,0,0,,0,0,,1,0,1,1,0,1,1,2,4,2.3,2,Isaiah Stewart
+0,1,1.0,2021-10-20,20-151,DET,,CHI,L (-6),1,25:50,6,9,.667,0,1,.000,0,0,,2,6,8,0,0,1,2,1,12,9.6,-7,Isaiah Stewart
+1,2,2.0,2021-10-23,20-154,DET,@,CHI,L (-15),1,24:16,3,7,.429,0,0,,0,0,,3,9,12,0,0,0,1,1,6,5.7,-12,Isaiah Stewart
+2,3,3.0,2021-10-25,20-156,DET,@,ATL,L (-18),1,28:56,6,9,.667,0,0,,1,1,1.000,3,4,7,5,1,3,2,3,13,15.8,-6,Isaiah Stewart
+3,4,4.0,2021-10-28,20-159,DET,@,PHI,L (-8),1,17:59,2,5,.400,0,1,.000,0,0,,1,2,3,3,0,1,1,3,4,3.2,-16,Isaiah Stewart
+4,5,5.0,2021-10-30,20-161,DET,,ORL,W (+7),1,21:23,5,8,.625,0,1,.000,1,2,.500,3,5,8,0,2,1,2,2,11,10.5,-6,Isaiah Stewart
+5,6,6.0,2021-10-31,20-162,DET,@,BRK,L (-26),1,18:07,2,4,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,1,5,2.9,-13,Isaiah Stewart
+6,7,7.0,2021-11-02,20-164,DET,,MIL,L (-28),1,24:26,2,6,.333,0,0,,1,2,.500,4,4,8,0,0,2,2,3,5,3.4,-13,Isaiah Stewart
+7,8,8.0,2021-11-04,20-166,DET,,PHI,L (-11),1,31:03,3,5,.600,0,1,.000,0,0,,0,7,7,2,1,1,0,3,6,7.7,0,Isaiah Stewart
+8,9,9.0,2021-11-05,20-167,DET,,BRK,L (-6),1,22:36,4,5,.800,0,0,,0,0,,1,8,9,0,1,2,0,4,8,10.0,0,Isaiah Stewart
+9,10,10.0,2021-11-10,20-172,DET,@,HOU,W (+8),1,14:54,2,3,.667,0,0,,0,0,,3,5,8,1,1,1,0,5,4,6.7,0,Isaiah Stewart
+10,11,11.0,2021-11-12,20-174,DET,@,CLE,L (-20),1,24:13,1,5,.200,0,1,.000,0,0,,1,6,7,0,0,2,1,3,2,0.6,-18,Isaiah Stewart
+11,12,12.0,2021-11-13,20-175,DET,@,TOR,W (+6),1,32:29,9,11,.818,0,1,.000,2,2,1.000,1,3,4,3,0,2,1,2,20,19.2,-5,Isaiah Stewart
+12,13,13.0,2021-11-15,20-177,DET,,SAC,L (-22),1,27:22,4,11,.364,0,1,.000,0,0,,7,8,15,1,0,0,0,0,8,9.9,-9,Isaiah Stewart
+13,14,14.0,2021-11-17,20-179,DET,,IND,W (+8),1,31:40,2,5,.400,0,0,,3,3,1.000,3,8,11,2,0,2,1,5,7,8.6,+2,Isaiah Stewart
+14,15,15.0,2021-11-19,20-181,DET,,GSW,L (-3),1,15:31,1,2,.500,0,0,,0,0,,2,2,4,0,0,0,1,0,2,2.0,-2,Isaiah Stewart
+15,16,16.0,2021-11-21,20-183,DET,,LAL,L (-5),1,18:35,2,4,.500,0,0,,0,0,,1,0,1,1,0,1,1,2,4,2.3,+2,Isaiah Stewart
+16,17,,2021-11-23,20-185,DET,,MIA,L (-8),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Isaiah Stewart
 0,1,1.0,2021-10-21,25-207,MIA,,MIL,W (+42),0,18:07,2,4,.500,1,3,.333,0,1,.000,0,2,2,1,0,1,0,1,5,4.2,+6,Max Strus
 1,2,2.0,2021-10-23,25-209,MIA,@,IND,L (-11),0,16:38,2,4,.500,1,3,.333,0,0,,1,3,4,0,0,0,0,1,5,4.2,-3,Max Strus
 2,3,3.0,2021-10-25,25-211,MIA,,ORL,W (+17),0,19:39,2,6,.333,1,4,.250,0,0,,0,1,1,1,0,0,0,2,5,1.8,+12,Max Strus
@@ -7087,6 +7217,7 @@
 14,15,10.0,2021-11-17,25-234,MIA,,NOP,W (+15),0,21:02,5,7,.714,4,6,.667,1,2,.500,0,3,3,1,0,0,1,2,15,11.5,+10,Max Strus
 15,16,11.0,2021-11-18,25-235,MIA,,WAS,W (+15),0,20:04,1,3,.333,0,1,.000,1,2,.500,0,4,4,2,1,0,0,1,3,4.1,+11,Max Strus
 16,17,12.0,2021-11-20,25-237,MIA,@,WAS,L (-3),0,24:47,1,4,.250,0,3,.000,0,0,,0,4,4,0,0,0,0,3,2,-0.4,-2,Max Strus
+17,18,,2021-11-23,25-240,MIA,@,DET,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Max Strus
 0,1,1.0,2021-10-20,20-139,ORL,@,SAS,L (-26),1,30:17,3,14,.214,1,6,.167,3,3,1.000,0,1,1,1,1,0,3,3,10,-0.8,-13,Jalen Suggs
 1,2,2.0,2021-10-22,20-141,ORL,,NYK,L (-25),1,31:43,4,17,.235,0,6,.000,6,6,1.000,4,3,7,8,2,0,2,2,14,12.2,-4,Jalen Suggs
 2,3,3.0,2021-10-24,20-143,ORL,@,NYK,W (+6),1,24:08,3,9,.333,1,3,.333,4,5,.800,0,1,1,3,1,0,4,3,11,3.7,+7,Jalen Suggs
@@ -7175,7 +7306,7 @@
 13,14,12.0,2021-11-15,29-225,HOU,@,MEM,L (-34),1,21:07,3,5,.600,2,4,.500,2,2,1.000,0,5,5,0,0,0,5,2,10,3.4,-14,Daniel Theis
 14,15,13.0,2021-11-17,29-227,HOU,@,OKC,L (-12),0,24:19,4,8,.500,2,5,.400,0,0,,0,5,5,2,2,0,1,2,10,9.1,+4,Daniel Theis
 15,16,14.0,2021-11-20,29-230,HOU,@,NYK,L (-7),1,23:24,1,6,.167,0,4,.000,0,0,,1,4,5,1,0,1,2,2,2,-1.3,-19,Daniel Theis
-16,17,15.0,2021-11-22,29-232,HOU,@,BOS,L (-18),1,21:50,3,9,.333,0,3,.000,1,2,.500,1,3,4,1,0,1,2,4,7,0.9,-24,Daniel Theis
+16,17,15.0,2021-11-22,29-232,HOU,@,BOS,L (-18),1,21:50,3,9,.333,0,3,.000,1,2,.500,1,4,5,1,0,1,2,4,7,1.2,-24,Daniel Theis
 0,1,,2021-10-20,24-265,BOS,@,NYK,L (-4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Brodric Thomas
 1,2,,2021-10-22,24-267,BOS,,TOR,L (-32),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Brodric Thomas
 2,3,,2021-10-24,24-269,BOS,@,HOU,W (+10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Brodric Thomas
@@ -7353,6 +7484,7 @@
 14,15,15.0,2021-11-17,23-258,NYK,,ORL,L (-6),0,17:36,6,9,0.667,2,3,0.667,0,0,,1,4,5,2,0,1,3,1,14,10.7,11,Obi Toppin
 15,16,16.0,2021-11-20,23-261,NYK,,HOU,W (+7),0,14:37,1,3,0.333,0,2,0.0,4,4,1.0,0,4,4,1,0,0,3,2,6,2.4,5,Obi Toppin
 16,17,17.0,2021-11-21,23-262,NYK,@,CHI,L (-6),0,13:06,3,5,0.6,2,3,0.667,2,2,1.0,3,3,6,1,0,2,0,2,10,12.0,-13,Obi Toppin
+17,18,18.0,2021-11-23,23-264,NYK,,LAL,W (+6),0,21:39,6,11,0.545,0,2,0.0,0,0,,0,4,4,1,1,1,1,2,12,8.5,15,Obi Toppin
 0,1,1.0,2021-10-19,28-192,GSW,@,LAL,W (+7),0,12:23,2,3,.667,1,2,.500,1,2,.500,0,3,3,1,0,0,1,1,6,4.5,+7,Juan Toscano-Anderson
 1,2,2.0,2021-10-21,28-194,GSW,,LAC,W (+2),0,7:15,1,3,.333,1,2,.500,0,0,,0,0,0,2,0,0,1,3,3,0.5,-6,Juan Toscano-Anderson
 2,3,3.0,2021-10-24,28-197,GSW,@,SAC,W (+12),0,14:39,1,3,.333,1,2,.500,0,0,,1,1,2,2,1,0,0,0,3,4.7,+1,Juan Toscano-Anderson
@@ -7422,6 +7554,7 @@
 14,15,15.0,2021-11-17,36-196,MIA,,NOP,W (+15),1,20:48,6,7,0.857,1,2,0.5,0,0,,0,4,4,2,0,0,1,5,13,10.1,15,P.J. Tucker
 15,16,16.0,2021-11-18,36-197,MIA,,WAS,W (+15),1,31:48,6,7,0.857,3,3,1.0,0,0,,1,4,5,2,1,0,0,3,15,15.6,7,P.J. Tucker
 16,17,17.0,2021-11-20,36-199,MIA,@,WAS,L (-3),1,34:12,5,6,0.833,2,3,0.667,2,2,1.0,2,3,5,3,1,1,1,4,14,15.3,1,P.J. Tucker
+17,18,18.0,2021-11-23,36-202,MIA,@,DET,W (+8),1,22:09,0,1,0.0,0,1,0.0,0,0,,0,6,6,1,0,0,0,2,0,1.0,-14,P.J. Tucker
 0,1,1.0,2021-10-20,25-210,IND,@,CHO,L (-1),1,25:49,3,6,0.5,1,3,0.333,2,4,0.5,1,6,7,1,0,4,4,4,9,5.6,-8,Myles Turner
 1,2,2.0,2021-10-22,25-212,IND,@,WAS,L (-1),1,43:36,15,22,0.682,5,9,0.556,5,8,0.625,5,5,10,0,1,3,1,3,40,35.3,3,Myles Turner
 2,3,3.0,2021-10-23,25-213,IND,,MIA,W (+11),1,16:12,2,6,0.333,0,3,0.0,0,0,,0,4,4,0,0,2,3,5,4,-1.8,-5,Myles Turner
@@ -7546,6 +7679,7 @@
 14,15,13.0,2021-11-17,25-156,MIA,,NOP,W (+15),0,27:08,5,12,.417,3,6,.500,0,0,,1,0,1,1,0,0,0,4,13,6.4,+6,Gabe Vincent
 15,16,14.0,2021-11-18,25-157,MIA,,WAS,W (+15),0,25:15,6,12,.500,3,6,.500,3,4,.750,1,1,2,3,0,0,1,1,18,13.3,+7,Gabe Vincent
 16,17,,2021-11-20,25-159,MIA,@,WAS,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Gabe Vincent
+17,18,15.0,2021-11-23,25-162,MIA,@,DET,W (+8),0,18:18,0,4,.000,0,4,.000,1,2,.500,0,2,2,0,2,0,0,2,1,-0.4,+20,Gabe Vincent
 0,1,1.0,2021-10-20,30-361,CHI,@,DET,W (+6),1,35:53,7,21,.333,1,4,.250,0,0,,5,10,15,4,0,0,3,1,15,9.0,+13,Nikola Vučević
 1,2,2.0,2021-10-22,30-363,CHI,,NOP,W (+16),1,31:20,4,11,.364,1,4,.250,1,2,.500,1,3,4,4,4,2,4,2,10,8.5,+10,Nikola Vučević
 2,3,3.0,2021-10-23,30-364,CHI,,DET,W (+15),1,33:06,6,16,.375,1,4,.250,2,2,1.000,2,17,19,3,2,3,2,3,15,15.7,+11,Nikola Vučević
@@ -7651,6 +7785,7 @@
 14,15,14.0,2021-11-17,31-193,NYK,,ORL,L (-6),1,20:54,2,7,.286,1,3,.333,0,0,,0,1,1,2,1,0,2,1,5,1.2,-3,Kemba Walker
 15,16,15.0,2021-11-20,31-196,NYK,,HOU,W (+7),1,21:29,3,7,.429,2,4,.500,1,2,.500,0,2,2,3,2,0,1,2,9,7.8,+5,Kemba Walker
 16,17,16.0,2021-11-21,31-197,NYK,@,CHI,L (-6),1,17:58,3,9,.333,1,4,.250,0,0,,0,2,2,4,0,1,0,1,7,5.6,-4,Kemba Walker
+17,18,17.0,2021-11-23,31-199,NYK,,LAL,W (+6),1,23:13,2,6,.333,0,2,.000,2,2,1.000,0,4,4,5,0,1,2,1,6,5.6,-3,Kemba Walker
 0,1,1.0,2021-10-20,22-310,SAS,,ORL,W (+26),0,25:25,6,17,0.353,3,9,0.333,2,2,1.0,0,6,6,3,1,1,0,4,17,11.5,26,Lonnie Walker
 1,2,2.0,2021-10-22,22-312,SAS,@,DEN,L (-6),0,20:15,2,6,0.333,1,2,0.5,1,2,0.5,0,4,4,2,1,0,1,0,6,4.8,-14,Lonnie Walker
 2,3,3.0,2021-10-23,22-313,SAS,,MIL,L (-10),0,24:56,7,15,0.467,1,8,0.125,2,2,1.0,0,2,2,2,1,0,1,2,17,10.5,-5,Lonnie Walker
@@ -7741,6 +7876,7 @@
 14,15,,2021-11-15,21-006,POR,,TOR,W (+5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Trendon Watford
 15,16,,2021-11-17,21-008,POR,,CHI,W (+5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Trendon Watford
 16,17,,2021-11-20,21-011,POR,,PHI,W (+7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Trendon Watford
+17,18,,2021-11-23,21-014,POR,,DEN,W (+19),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Trendon Watford
 0,1,1.0,2021-10-19,32-341,LAL,,GSW,L (-7),1,35:08,4,13,0.308,0,4,0.0,0,0,,1,4,5,4,0,0,4,4,8,-0.4,-23,Russell Westbrook
 1,2,2.0,2021-10-22,32-344,LAL,,PHO,L (-10),1,34:35,6,15,0.4,0,3,0.0,3,8,0.375,2,9,11,9,2,1,4,5,15,12.0,4,Russell Westbrook
 2,3,3.0,2021-10-24,32-346,LAL,,MEM,W (+3),1,36:46,5,15,0.333,1,4,0.25,2,4,0.5,1,6,7,13,4,0,9,3,13,9.1,-8,Russell Westbrook
@@ -7759,6 +7895,7 @@
 15,16,16.0,2021-11-17,33-005,LAL,@,MIL,L (-7),1,35:38,7,16,0.438,2,5,0.4,3,4,0.75,1,3,4,15,1,0,3,3,19,19.1,3,Russell Westbrook
 16,17,17.0,2021-11-19,33-007,LAL,@,BOS,L (-22),1,31:20,5,13,0.385,1,4,0.25,1,4,0.25,1,3,4,6,1,0,2,5,12,6.5,-12,Russell Westbrook
 17,18,18.0,2021-11-21,33-009,LAL,@,DET,W (+5),1,34:49,10,21,0.476,1,6,0.167,5,8,0.625,1,8,9,10,2,0,3,4,26,21.6,8,Russell Westbrook
+18,19,19.0,2021-11-23,33-011,LAL,@,NYK,L (-6),1,37:09,10,18,0.556,3,6,0.5,8,9,0.889,1,12,13,10,2,0,6,2,31,28.5,0,Russell Westbrook
 0,1,,2021-10-20,21-246,CHI,@,DET,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Coby White
 1,2,,2021-10-22,21-248,CHI,,NOP,W (+16),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Coby White
 2,3,,2021-10-23,21-249,CHI,,DET,W (+15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Coby White
@@ -7776,7 +7913,7 @@
 14,15,2.0,2021-11-17,21-274,CHI,@,POR,L (-5),0,10:29,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,0,1,0,-0.8,-3,Coby White
 15,16,3.0,2021-11-19,21-276,CHI,@,DEN,W (+6),0,10:53,1,7,.143,0,3,.000,0,0,,0,2,2,0,0,0,2,1,2,-4.3,-4,Coby White
 16,17,4.0,2021-11-21,21-278,CHI,,NYK,W (+6),0,20:59,5,11,.455,3,6,.500,1,2,.500,0,0,0,2,0,0,0,2,14,8.5,+9,Coby White
-17,18,5.0,2021-11-22,21-279,CHI,,IND,L (-32),1,24:39,2,10,.200,0,3,.000,0,0,,0,5,5,3,1,0,0,4,4,0.8,-12,Coby White
+17,18,5.0,2021-11-22,21-279,CHI,,IND,L (-32),1,24:39,2,10,.200,0,3,.000,0,0,,0,5,5,3,0,0,0,4,4,-0.2,-12,Coby White
 0,1,1.0,2021-10-20,27-110,SAS,,ORL,W (+26),1,29:58,6,11,0.545,3,4,0.75,1,3,0.333,0,4,4,4,1,0,0,2,16,14.1,9,Derrick White
 1,2,2.0,2021-10-22,27-112,SAS,@,DEN,L (-6),1,36:44,5,13,0.385,2,7,0.286,4,4,1.0,0,2,2,8,2,2,2,1,16,16.1,1,Derrick White
 2,3,3.0,2021-10-23,27-113,SAS,,MIL,L (-10),1,31:15,6,12,0.5,1,5,0.2,1,1,1.0,0,2,2,8,4,1,2,4,14,15.3,-4,Derrick White
@@ -7911,7 +8048,7 @@
 13,14,9.0,2021-11-14,35-018,ATL,,MIL,W (+20),0,14:01,4,9,.444,1,2,.500,0,0,,0,0,0,2,1,0,0,2,9,5.9,+4,Lou Williams
 14,15,10.0,2021-11-15,35-019,ATL,,ORL,W (+18),0,15:36,5,7,.714,1,2,.500,0,0,,0,2,2,1,0,0,3,1,11,6.0,+6,Lou Williams
 15,16,11.0,2021-11-17,35-021,ATL,,BOS,W (+11),0,13:10,1,5,.200,0,0,,0,0,,0,1,1,3,0,0,2,1,2,-1.1,+2,Lou Williams
-16,17,12.0,2021-11-20,35-024,ATL,,CHO,W (+10),0,12:04,2,5,.400,0,2,.000,0,0,,0,1,1,2,1,0,0,2,4,3.2,+10,Lou Williams
+16,17,12.0,2021-11-20,35-024,ATL,,CHO,W (+10),0,12:04,2,5,.400,0,2,.000,0,0,,0,2,2,2,0,0,0,2,4,2.5,+10,Lou Williams
 17,18,13.0,2021-11-22,35-026,ATL,,OKC,W (+12),0,16:57,3,6,.500,1,2,.500,1,2,.500,0,0,0,3,0,0,2,1,8,4.3,+1,Lou Williams
 0,1,1.0,2021-10-20,20-055,CHI,@,DET,W (+6),1,28:26,2,3,.667,0,0,,2,2,1.000,0,1,1,0,0,0,1,2,6,3.2,+12,Patrick Williams
 1,2,2.0,2021-10-22,20-057,CHI,,NOP,W (+16),1,24:25,3,5,.600,2,2,1.000,0,0,,1,3,4,0,1,0,0,4,8,6.7,-4,Patrick Williams
@@ -8001,6 +8138,7 @@
 14,15,,2021-11-18,25-237,LAC,@,MEM,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Justise Winslow
 15,16,,2021-11-19,25-238,LAC,@,NOP,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Justise Winslow
 16,17,12.0,2021-11-21,25-240,LAC,,DAL,W (+6),0,10:12,0,0,,0,0,,0,0,,1,3,4,1,0,0,0,0,0,2.3,-10,Justise Winslow
+17,18,13.0,2021-11-23,25-242,LAC,,DAL,L (-8),0,1:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Justise Winslow
 0,1,1.0,2021-10-20,26-023,HOU,@,MIN,L (-18),1,32:02,6,15,0.4,2,6,0.333,2,4,0.5,2,7,9,3,0,1,1,3,16,11.2,-24,Christian Wood
 1,2,2.0,2021-10-22,26-025,HOU,,OKC,W (+33),1,33:25,13,19,0.684,4,6,0.667,1,1,1.0,5,9,14,1,1,3,1,2,31,31.1,26,Christian Wood
 2,3,3.0,2021-10-24,26-027,HOU,,BOS,L (-10),1,35:31,5,14,0.357,2,4,0.5,8,10,0.8,1,8,9,1,1,0,0,1,20,15.8,-9,Christian Wood
@@ -8122,6 +8260,7 @@
 14,15,10.0,2021-11-17,23-151,MIA,,NOP,W (+15),0,2:50,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,-1,Omer Yurtseven
 15,16,11.0,2021-11-18,23-152,MIA,,WAS,W (+15),0,1:22,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,-1,Omer Yurtseven
 16,17,,2021-11-20,23-154,MIA,@,WAS,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Omer Yurtseven
+17,18,,2021-11-23,23-157,MIA,@,DET,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Omer Yurtseven
 0,1,1.0,2021-10-20,29-015,POR,,SAC,L (-3),0,19:08,2,3,0.667,0,0,,1,2,0.5,2,4,6,1,1,1,0,1,5,7.9,1,Cody Zeller
 1,2,2.0,2021-10-23,29-018,POR,,PHO,W (+29),0,12:54,2,2,1.0,0,0,,1,2,0.5,0,4,4,1,0,0,0,4,5,4.3,-6,Cody Zeller
 2,3,3.0,2021-10-25,29-020,POR,@,LAC,L (-30),0,13:03,2,4,0.5,0,0,,4,6,0.667,0,3,3,0,1,0,1,1,8,5.7,-4,Cody Zeller
@@ -8139,6 +8278,7 @@
 14,15,15.0,2021-11-15,29-041,POR,,TOR,W (+5),0,11:44,3,3,1.0,0,0,,0,0,,2,1,3,1,0,0,0,0,6,7.5,-5,Cody Zeller
 15,16,16.0,2021-11-17,29-043,POR,,CHI,W (+5),0,4:01,0,0,,0,0,,4,4,1.0,0,1,1,0,0,0,0,0,4,4.3,-5,Cody Zeller
 16,17,17.0,2021-11-20,29-046,POR,,PHI,W (+7),0,8:10,0,1,0.0,0,0,,0,0,,0,2,2,0,1,0,0,0,0,0.9,8,Cody Zeller
+17,18,18.0,2021-11-23,29-049,POR,,DEN,W (+19),0,9:51,0,3,0.0,0,0,,1,2,0.5,1,0,1,2,0,1,0,1,1,0.9,3,Cody Zeller
 0,1,1.0,2021-10-21,24-217,LAC,@,GSW,L (-2),1,17:12,4,7,0.571,0,0,,6,10,0.6,1,2,3,2,0,0,0,2,14,11.0,-13,Ivica Zubac
 1,2,2.0,2021-10-23,24-219,LAC,,MEM,L (-6),1,19:18,3,7,0.429,0,0,,0,0,,4,4,8,3,0,0,0,2,6,7.6,-18,Ivica Zubac
 2,3,3.0,2021-10-25,24-221,LAC,,POR,W (+30),1,24:59,5,6,0.833,0,0,,0,0,,0,8,8,4,2,0,1,0,10,14.0,14,Ivica Zubac
@@ -8156,6 +8296,7 @@
 14,15,15.0,2021-11-18,24-245,LAC,@,MEM,L (-12),1,26:53,5,8,0.625,0,0,,3,3,1.0,2,5,7,2,0,1,1,3,13,12.2,-10,Ivica Zubac
 15,16,16.0,2021-11-19,24-246,LAC,@,NOP,L (-13),1,28:24,4,5,0.8,0,0,,0,0,,3,8,11,4,0,1,1,3,8,11.9,-22,Ivica Zubac
 16,17,17.0,2021-11-21,24-248,LAC,,DAL,W (+6),1,26:49,6,7,0.857,0,0,,4,6,0.667,1,9,10,0,0,0,1,1,16,14.7,5,Ivica Zubac
+17,18,18.0,2021-11-23,24-250,LAC,,DAL,L (-8),1,25:58,3,5,0.6,0,0,,4,4,1.0,2,5,7,2,0,0,1,1,10,10.6,5,Ivica Zubac
 0,1,1.0,2021-10-21,24-217,LAC,@,GSW,L (-2),1,17:12,4,7,0.571,0,0,,6,10,0.6,1,2,3,2,0,0,0,2,14,11.0,-13,Page Not 
 1,2,2.0,2021-10-23,24-219,LAC,,MEM,L (-6),1,19:18,3,7,0.429,0,0,,0,0,,4,4,8,3,0,0,0,2,6,7.6,-18,Page Not 
 2,3,3.0,2021-10-25,24-221,LAC,,POR,W (+30),1,24:59,5,6,0.833,0,0,,0,0,,0,8,8,4,2,0,1,0,10,14.0,14,Page Not 
@@ -8173,6 +8314,7 @@
 14,15,15.0,2021-11-18,24-245,LAC,@,MEM,L (-12),1,26:53,5,8,0.625,0,0,,3,3,1.0,2,5,7,2,0,1,1,3,13,12.2,-10,Page Not 
 15,16,16.0,2021-11-19,24-246,LAC,@,NOP,L (-13),1,28:24,4,5,0.8,0,0,,0,0,,3,8,11,4,0,1,1,3,8,11.9,-22,Page Not 
 16,17,17.0,2021-11-21,24-248,LAC,,DAL,W (+6),1,26:49,6,7,0.857,0,0,,4,6,0.667,1,9,10,0,0,0,1,1,16,14.7,5,Page Not 
+17,18,18.0,2021-11-23,24-250,LAC,,DAL,L (-8),1,25:58,3,5,0.6,0,0,,4,4,1.0,2,5,7,2,0,0,1,1,10,10.6,5,Page Not 
 0,1,1.0,2021-10-19,36-293,LAL,,GSW,L (-7),1,36:44,13,23,.565,5,11,.455,3,6,.500,1,10,11,5,1,1,4,5,34,24.8,-2,LeBron James
 1,2,2.0,2021-10-22,36-296,LAL,,PHO,L (-10),1,36:32,8,18,.444,5,9,.556,4,4,1.000,0,2,2,5,2,0,5,4,25,15.1,-6,LeBron James
 2,3,3.0,2021-10-24,36-298,LAL,,MEM,W (+3),1,40:18,7,19,.368,4,9,.444,1,2,.500,0,6,6,6,2,2,3,1,19,14.1,-1,LeBron James
@@ -8191,6 +8333,7 @@
 15,16,,2021-11-17,36-322,LAL,@,MIL,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,LeBron James
 16,17,7.0,2021-11-19,36-324,LAL,@,BOS,L (-22),1,32:04,10,16,.625,3,7,.429,0,1,.000,1,5,6,2,2,0,3,3,23,16.8,-4,LeBron James
 17,18,8.0,2021-11-21,36-326,LAL,@,DET,W (+5),1,21:26,4,7,.571,1,3,.333,1,1,1.000,0,1,1,5,0,0,2,1,10,8.1,-15,LeBron James
+18,19,,2021-11-23,36-328,LAL,@,NYK,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,LeBron James
 0,1,1.0,2021-10-19,33-020,BRK,@,MIL,L (-23),1,30:15,13,25,.520,3,7,.429,3,6,.500,0,11,11,4,0,2,1,2,32,24.2,-20,Kevin Durant
 1,2,2.0,2021-10-22,33-023,BRK,@,PHI,W (+5),1,36:54,9,20,.450,1,6,.167,10,10,1.000,3,12,15,12,1,1,2,1,29,32.0,+11,Kevin Durant
 2,3,3.0,2021-10-24,33-025,BRK,,CHO,L (-16),1,36:08,17,24,.708,2,6,.333,2,2,1.000,1,4,5,3,1,0,3,0,38,30.0,-10,Kevin Durant
@@ -8278,6 +8421,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Luka Dončić
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Luka Dončić
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Luka Dončić
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,Luka Dončić
 0,1,1.0,2021-10-21,22-235,DAL,@,ATL,L (-26),1,35:24,6,17,.353,2,7,.286,4,4,1.000,0,11,11,7,1,0,5,1,18,12.3,-24,Page Not 
 1,2,2.0,2021-10-23,22-237,DAL,@,TOR,W (+8),1,38:53,11,24,.458,2,10,.200,3,5,.600,0,9,9,12,0,1,5,3,27,19.4,+1,Page Not 
 2,3,3.0,2021-10-26,22-240,DAL,,HOU,W (+10),1,34:16,10,25,.400,1,6,.167,5,5,1.000,2,12,14,7,2,1,4,3,26,19.9,+15,Page Not 
@@ -8294,6 +8438,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Page Not 
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Page Not 
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Page Not 
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,Page Not 
 0,1,1.0,2021-10-21,22-235,DAL,@,ATL,L (-26),1,35:24,6,17,.353,2,7,.286,4,4,1.000,0,11,11,7,1,0,5,1,18,12.3,-24,Elvin Hayes
 1,2,2.0,2021-10-23,22-237,DAL,@,TOR,W (+8),1,38:53,11,24,.458,2,10,.200,3,5,.600,0,9,9,12,0,1,5,3,27,19.4,+1,Elvin Hayes
 2,3,3.0,2021-10-26,22-240,DAL,,HOU,W (+10),1,34:16,10,25,.400,1,6,.167,5,5,1.000,2,12,14,7,2,1,4,3,26,19.9,+15,Elvin Hayes
@@ -8310,6 +8455,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Elvin Hayes
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Elvin Hayes
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Elvin Hayes
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,Elvin Hayes
 0,1,1.0,2021-10-21,22-235,DAL,@,ATL,L (-26),1,35:24,6,17,.353,2,7,.286,4,4,1.000,0,11,11,7,1,0,5,1,18,12.3,-24,John Stockton
 1,2,2.0,2021-10-23,22-237,DAL,@,TOR,W (+8),1,38:53,11,24,.458,2,10,.200,3,5,.600,0,9,9,12,0,1,5,3,27,19.4,+1,John Stockton
 2,3,3.0,2021-10-26,22-240,DAL,,HOU,W (+10),1,34:16,10,25,.400,1,6,.167,5,5,1.000,2,12,14,7,2,1,4,3,26,19.9,+15,John Stockton
@@ -8326,6 +8472,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,John Stockton
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,John Stockton
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,John Stockton
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,John Stockton
 0,1,1.0,2021-10-21,22-235,DAL,@,ATL,L (-26),1,35:24,6,17,.353,2,7,.286,4,4,1.000,0,11,11,7,1,0,5,1,18,12.3,-24,Hakeem Olajuwon
 1,2,2.0,2021-10-23,22-237,DAL,@,TOR,W (+8),1,38:53,11,24,.458,2,10,.200,3,5,.600,0,9,9,12,0,1,5,3,27,19.4,+1,Hakeem Olajuwon
 2,3,3.0,2021-10-26,22-240,DAL,,HOU,W (+10),1,34:16,10,25,.400,1,6,.167,5,5,1.000,2,12,14,7,2,1,4,3,26,19.9,+15,Hakeem Olajuwon
@@ -8342,6 +8489,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Hakeem Olajuwon
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Hakeem Olajuwon
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Hakeem Olajuwon
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,Hakeem Olajuwon
 0,1,1.0,2021-10-21,22-235,DAL,@,ATL,L (-26),1,35:24,6,17,.353,2,7,.286,4,4,1.000,0,11,11,7,1,0,5,1,18,12.3,-24,Wilt Chamberlain
 1,2,2.0,2021-10-23,22-237,DAL,@,TOR,W (+8),1,38:53,11,24,.458,2,10,.200,3,5,.600,0,9,9,12,0,1,5,3,27,19.4,+1,Wilt Chamberlain
 2,3,3.0,2021-10-26,22-240,DAL,,HOU,W (+10),1,34:16,10,25,.400,1,6,.167,5,5,1.000,2,12,14,7,2,1,4,3,26,19.9,+15,Wilt Chamberlain
@@ -8358,6 +8506,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Wilt Chamberlain
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Wilt Chamberlain
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Wilt Chamberlain
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,Wilt Chamberlain
 0,1,1.0,2021-10-21,22-235,DAL,@,ATL,L (-26),1,35:24,6,17,.353,2,7,.286,4,4,1.000,0,11,11,7,1,0,5,1,18,12.3,-24,Dolph Schayes
 1,2,2.0,2021-10-23,22-237,DAL,@,TOR,W (+8),1,38:53,11,24,.458,2,10,.200,3,5,.600,0,9,9,12,0,1,5,3,27,19.4,+1,Dolph Schayes
 2,3,3.0,2021-10-26,22-240,DAL,,HOU,W (+10),1,34:16,10,25,.400,1,6,.167,5,5,1.000,2,12,14,7,2,1,4,3,26,19.9,+15,Dolph Schayes
@@ -8374,6 +8523,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Dolph Schayes
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Dolph Schayes
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Dolph Schayes
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,Dolph Schayes
 0,1,1.0,2021-10-21,22-235,DAL,@,ATL,L (-26),1,35:24,6,17,.353,2,7,.286,4,4,1.000,0,11,11,7,1,0,5,1,18,12.3,-24,John Havlicek
 1,2,2.0,2021-10-23,22-237,DAL,@,TOR,W (+8),1,38:53,11,24,.458,2,10,.200,3,5,.600,0,9,9,12,0,1,5,3,27,19.4,+1,John Havlicek
 2,3,3.0,2021-10-26,22-240,DAL,,HOU,W (+10),1,34:16,10,25,.400,1,6,.167,5,5,1.000,2,12,14,7,2,1,4,3,26,19.9,+15,John Havlicek
@@ -8390,6 +8540,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,John Havlicek
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,John Havlicek
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,John Havlicek
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,John Havlicek
 0,1,1.0,2021-10-21,22-235,DAL,@,ATL,L (-26),1,35:24,6,17,.353,2,7,.286,4,4,1.000,0,11,11,7,1,0,5,1,18,12.3,-24,Page Not 
 1,2,2.0,2021-10-23,22-237,DAL,@,TOR,W (+8),1,38:53,11,24,.458,2,10,.200,3,5,.600,0,9,9,12,0,1,5,3,27,19.4,+1,Page Not 
 2,3,3.0,2021-10-26,22-240,DAL,,HOU,W (+10),1,34:16,10,25,.400,1,6,.167,5,5,1.000,2,12,14,7,2,1,4,3,26,19.9,+15,Page Not 
@@ -8406,6 +8557,7 @@
 13,14,,2021-11-17,22-262,DAL,@,PHO,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Page Not 
 14,15,,2021-11-19,22-264,DAL,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Page Not 
 15,16,,2021-11-21,22-266,DAL,@,LAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Page Not 
+16,17,14.0,2021-11-23,22-268,DAL,@,LAC,W (+8),1,41:09,9,21,.429,4,11,.364,4,4,1.000,1,8,9,9,1,2,6,4,26,19.1,+7,Page Not 
 0,1,1.0,2021-10-19,36-293,LAL,,GSW,L (-7),1,36:44,13,23,.565,5,11,.455,3,6,.500,1,10,11,5,1,1,4,5,34,24.8,-2,LeBron James
 1,2,2.0,2021-10-22,36-296,LAL,,PHO,L (-10),1,36:32,8,18,.444,5,9,.556,4,4,1.000,0,2,2,5,2,0,5,4,25,15.1,-6,LeBron James
 2,3,3.0,2021-10-24,36-298,LAL,,MEM,W (+3),1,40:18,7,19,.368,4,9,.444,1,2,.500,0,6,6,6,2,2,3,1,19,14.1,-1,LeBron James
@@ -8424,6 +8576,7 @@
 15,16,,2021-11-17,36-322,LAL,@,MIL,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,LeBron James
 16,17,7.0,2021-11-19,36-324,LAL,@,BOS,L (-22),1,32:04,10,16,.625,3,7,.429,0,1,.000,1,5,6,2,2,0,3,3,23,16.8,-4,LeBron James
 17,18,8.0,2021-11-21,36-326,LAL,@,DET,W (+5),1,21:26,4,7,.571,1,3,.333,1,1,1.000,0,1,1,5,0,0,2,1,10,8.1,-15,LeBron James
+18,19,,2021-11-23,36-328,LAL,@,NYK,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,LeBron James
 0,1,1.0,2021-10-19,36-293,LAL,,GSW,L (-7),1,36:44,13,23,.565,5,11,.455,3,6,.500,1,10,11,5,1,1,4,5,34,24.8,-2,LeBron James
 1,2,2.0,2021-10-22,36-296,LAL,,PHO,L (-10),1,36:32,8,18,.444,5,9,.556,4,4,1.000,0,2,2,5,2,0,5,4,25,15.1,-6,LeBron James
 2,3,3.0,2021-10-24,36-298,LAL,,MEM,W (+3),1,40:18,7,19,.368,4,9,.444,1,2,.500,0,6,6,6,2,2,3,1,19,14.1,-1,LeBron James
@@ -8442,6 +8595,7 @@
 15,16,,2021-11-17,36-322,LAL,@,MIL,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,LeBron James
 16,17,7.0,2021-11-19,36-324,LAL,@,BOS,L (-22),1,32:04,10,16,.625,3,7,.429,0,1,.000,1,5,6,2,2,0,3,3,23,16.8,-4,LeBron James
 17,18,8.0,2021-11-21,36-326,LAL,@,DET,W (+5),1,21:26,4,7,.571,1,3,.333,1,1,1.000,0,1,1,5,0,0,2,1,10,8.1,-15,LeBron James
+18,19,,2021-11-23,36-328,LAL,@,NYK,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,LeBron James
 0,1,1.0,2021-10-20,36-167,PHO,,DEN,L (-12),1,33:37,6,11,0.545,2,4,0.5,1,2,0.5,2,2,4,10,2,1,3,3,15,16.8,-23,Chris Paul
 1,2,2.0,2021-10-22,36-169,PHO,@,LAL,W (+10),1,29:14,6,12,0.5,1,4,0.25,10,10,1.0,0,5,5,14,2,0,5,3,23,24.1,6,Chris Paul
 2,3,3.0,2021-10-23,36-170,PHO,@,POR,L (-29),1,25:30,2,5,0.4,0,2,0.0,0,0,,0,2,2,11,1,0,1,0,4,9.6,-29,Chris Paul
