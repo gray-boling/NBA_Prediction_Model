@@ -61,7 +61,7 @@ NBAdf2021.to_csv('D:/Documents/ML_DOCS/ML Project Files/NBA_prjct_v1/NBA2021_22d
 
 
 ##schedule parser + today's games dict created
-main_url_sched = 'https://www.basketball-reference.com/leagues/NBA_2022_games-november.html' #update per month
+main_url_sched = 'https://www.basketball-reference.com/leagues/NBA_2022_games-december.html' #update per month
 driver.get(main_url_sched)
 sleep(randint(3,8))
 info = driver.page_source
