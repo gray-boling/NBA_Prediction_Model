@@ -1,1 +1,1 @@
-{'BRK': 'NYK', 'TOR': 'MEM', 'PHO': 'GSW', 'POR': 'DET', 'SAC': 'LAL'}
+{}
