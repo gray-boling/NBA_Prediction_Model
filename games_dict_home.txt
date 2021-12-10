@@ -1,1 +1,1 @@
-{'PHI': 'UTA', 'MEM': 'LAL', 'SAS': 'DEN'}
+{'CHO': 'SAC', 'IND': 'DAL', 'ATL': 'BRK', 'TOR': 'NYK', 'HOU': 'MIL', 'MIN': 'CLE', 'NOP': 'DET', 'OKC': 'LAL', 'PHO': 'BOS'}
